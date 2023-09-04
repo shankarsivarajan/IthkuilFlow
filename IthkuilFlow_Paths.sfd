@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1676795389
-ModificationTime: 1693853046
+ModificationTime: 1693866473
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3653,7 +3653,7 @@ SplineSet
  260 220 l 1
  260 140 180 140 180 140 c 1024
 EndSplineSet
-Ligature2: "TertiaryLigature subtable" ellipses.vert z adieresis ddotbelow
+Ligature2: "TertiaryLigature subtable" ellipses.vert z adieresis f
 LCarets2: 3 160 160 160
 EndChar
 
@@ -7402,8 +7402,8 @@ SplineSet
  10 120 220 260 300 280 c 1
  80 280 l 1025
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "FlipCores subtable" Z quotesingle
+LCarets2: 1 0
 EndChar
 EndChars
 EndSplineFont
