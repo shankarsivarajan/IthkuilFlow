@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1676795389
-ModificationTime: 1693866473
+ModificationTime: 1693947214
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -163,7 +163,7 @@ ChainSub2: coverage "ExtensionShape contextual 7" 0 0 0 1
   BCoverage: 10 underscore
   BCoverage: 2112 glottal.ext.right ncaron.ext.right scaron.ext.right ddotbelow.ext.right tcedilla.ext.right ccedilla.ext.right ccaron.ext.right lcedilla.ext.right zdotaccent.ext.right zcaron.ext.right rcaron.ext.right b.ext.right c.ext.right equal.ext.right d.ext.right D.ext.right glottal.flip.ext.right approxequal.ext.right f.ext.right g.ext.right G.ext.right h.ext.right j.ext.right k.ext.right l.ext.right m.ext.right n.ext.right p.ext.right P.ext.right r.upsidedown.ext.right r.ext.right s.ext.right t.ext.right v.ext.right velar.ext.right w.ext.right x.ext.right y.ext.right z.ext.right glottal.ext.left ncaron.ext.left scaron.ext.left ddotbelow.ext.left tcedilla.ext.left ccedilla.ext.left ccaron.ext.left lcedilla.ext.left zdotaccent.ext.left zcaron.ext.left rcaron.ext.left b.ext.left c.ext.left equal.ext.left d.ext.left D.ext.left glottal.flip.ext.left approxequal.ext.left f.ext.left g.ext.left G.ext.left h.ext.left j.ext.left k.ext.left l.ext.left m.ext.left n.ext.left p.ext.left P.ext.left r.upsidedown.ext.left r.ext.left s.ext.left t.ext.left v.ext.left velar.ext.left w.ext.left x.ext.left y.ext.left z.ext.left glottal.ext.up ncaron.ext.up scaron.ext.up ddotbelow.ext.up tcedilla.ext.up ccedilla.ext.up ccaron.ext.up lcedilla.ext.up zdotaccent.ext.up zcaron.ext.up rcaron.ext.up b.ext.up c.ext.up equal.ext.up d.ext.up D.ext.up glottal.flip.ext.up approxequal.ext.up f.ext.up g.ext.up G.ext.up h.ext.up j.ext.up k.ext.up l.ext.up m.ext.up n.ext.up p.ext.up P.ext.up r.upsidedown.ext.up r.ext.up s.ext.up t.ext.up v.ext.up velar.ext.up w.ext.up x.ext.up y.ext.up z.ext.up glottal.ext.down ncaron.ext.down scaron.ext.down ddotbelow.ext.down tcedilla.ext.down ccedilla.ext.down ccaron.ext.down lcedilla.ext.down zdotaccent.ext.down zcaron.ext.down rcaron.ext.down b.ext.down c.ext.down equal.ext.down d.ext.down D.ext.down glottal.flip.ext.down approxequal.ext.down f.ext.down g.ext.down G.ext.down h.ext.down j.ext.down k.ext.down l.ext.down m.ext.down n.ext.down p.ext.down P.ext.down r.upsidedown.ext.down r.ext.down s.ext.down t.ext.down v.ext.down velar.ext.down w.ext.down x.ext.down y.ext.down z.ext.down
   BCoverage: 11 asciicircum
-  BCoverage: 135 Sigma.flip b.flip d.flip f.flip g.flip j.flip k.flip p.flip t.flip v.flip x.flip ccedilla.flip ccaron.flip tcedilla.flip ddotbelow.flip
+  BCoverage: 133 esh.flip b.flip d.flip f.flip g.flip j.flip k.flip p.flip t.flip v.flip x.flip ccedilla.flip ccaron.flip tcedilla.flip ddotbelow.flip
  1
   SeqLookup: 0 "Single Substitution lookup 28"
 EndFPST
@@ -173,7 +173,7 @@ ChainSub2: coverage "ExtensionShape contextual 6" 0 0 0 1
   BCoverage: 10 underscore
   BCoverage: 2112 glottal.ext.right ncaron.ext.right scaron.ext.right ddotbelow.ext.right tcedilla.ext.right ccedilla.ext.right ccaron.ext.right lcedilla.ext.right zdotaccent.ext.right zcaron.ext.right rcaron.ext.right b.ext.right c.ext.right equal.ext.right d.ext.right D.ext.right glottal.flip.ext.right approxequal.ext.right f.ext.right g.ext.right G.ext.right h.ext.right j.ext.right k.ext.right l.ext.right m.ext.right n.ext.right p.ext.right P.ext.right r.upsidedown.ext.right r.ext.right s.ext.right t.ext.right v.ext.right velar.ext.right w.ext.right x.ext.right y.ext.right z.ext.right glottal.ext.left ncaron.ext.left scaron.ext.left ddotbelow.ext.left tcedilla.ext.left ccedilla.ext.left ccaron.ext.left lcedilla.ext.left zdotaccent.ext.left zcaron.ext.left rcaron.ext.left b.ext.left c.ext.left equal.ext.left d.ext.left D.ext.left glottal.flip.ext.left approxequal.ext.left f.ext.left g.ext.left G.ext.left h.ext.left j.ext.left k.ext.left l.ext.left m.ext.left n.ext.left p.ext.left P.ext.left r.upsidedown.ext.left r.ext.left s.ext.left t.ext.left v.ext.left velar.ext.left w.ext.left x.ext.left y.ext.left z.ext.left glottal.ext.up ncaron.ext.up scaron.ext.up ddotbelow.ext.up tcedilla.ext.up ccedilla.ext.up ccaron.ext.up lcedilla.ext.up zdotaccent.ext.up zcaron.ext.up rcaron.ext.up b.ext.up c.ext.up equal.ext.up d.ext.up D.ext.up glottal.flip.ext.up approxequal.ext.up f.ext.up g.ext.up G.ext.up h.ext.up j.ext.up k.ext.up l.ext.up m.ext.up n.ext.up p.ext.up P.ext.up r.upsidedown.ext.up r.ext.up s.ext.up t.ext.up v.ext.up velar.ext.up w.ext.up x.ext.up y.ext.up z.ext.up glottal.ext.down ncaron.ext.down scaron.ext.down ddotbelow.ext.down tcedilla.ext.down ccedilla.ext.down ccaron.ext.down lcedilla.ext.down zdotaccent.ext.down zcaron.ext.down rcaron.ext.down b.ext.down c.ext.down equal.ext.down d.ext.down D.ext.down glottal.flip.ext.down approxequal.ext.down f.ext.down g.ext.down G.ext.down h.ext.down j.ext.down k.ext.down l.ext.down m.ext.down n.ext.down p.ext.down P.ext.down r.upsidedown.ext.down r.ext.down s.ext.down t.ext.down v.ext.down velar.ext.down w.ext.down x.ext.down y.ext.down z.ext.down
   BCoverage: 11 asciicircum
-  BCoverage: 131 backslash colon parenright Z Z.flip Sigma c k j l r s x z ccaron ccedilla rcaron scaron zdotaccent zcaron r.flip z.flip rcaron.flip
+  BCoverage: 129 backslash colon parenright Z Z.flip esh c k j l r s x z ccaron ccedilla rcaron scaron zdotaccent zcaron r.flip z.flip rcaron.flip
  1
   SeqLookup: 0 "Single Substitution lookup 27"
 EndFPST
@@ -183,7 +183,7 @@ ChainSub2: coverage "ExtensionShape contextual 5" 0 0 0 1
   BCoverage: 11 asciicircum
   BCoverage: 2112 glottal.ext.right ncaron.ext.right scaron.ext.right ddotbelow.ext.right tcedilla.ext.right ccedilla.ext.right ccaron.ext.right lcedilla.ext.right zdotaccent.ext.right zcaron.ext.right rcaron.ext.right b.ext.right c.ext.right equal.ext.right d.ext.right D.ext.right glottal.flip.ext.right approxequal.ext.right f.ext.right g.ext.right G.ext.right h.ext.right j.ext.right k.ext.right l.ext.right m.ext.right n.ext.right p.ext.right P.ext.right r.upsidedown.ext.right r.ext.right s.ext.right t.ext.right v.ext.right velar.ext.right w.ext.right x.ext.right y.ext.right z.ext.right glottal.ext.left ncaron.ext.left scaron.ext.left ddotbelow.ext.left tcedilla.ext.left ccedilla.ext.left ccaron.ext.left lcedilla.ext.left zdotaccent.ext.left zcaron.ext.left rcaron.ext.left b.ext.left c.ext.left equal.ext.left d.ext.left D.ext.left glottal.flip.ext.left approxequal.ext.left f.ext.left g.ext.left G.ext.left h.ext.left j.ext.left k.ext.left l.ext.left m.ext.left n.ext.left p.ext.left P.ext.left r.upsidedown.ext.left r.ext.left s.ext.left t.ext.left v.ext.left velar.ext.left w.ext.left x.ext.left y.ext.left z.ext.left glottal.ext.up ncaron.ext.up scaron.ext.up ddotbelow.ext.up tcedilla.ext.up ccedilla.ext.up ccaron.ext.up lcedilla.ext.up zdotaccent.ext.up zcaron.ext.up rcaron.ext.up b.ext.up c.ext.up equal.ext.up d.ext.up D.ext.up glottal.flip.ext.up approxequal.ext.up f.ext.up g.ext.up G.ext.up h.ext.up j.ext.up k.ext.up l.ext.up m.ext.up n.ext.up p.ext.up P.ext.up r.upsidedown.ext.up r.ext.up s.ext.up t.ext.up v.ext.up velar.ext.up w.ext.up x.ext.up y.ext.up z.ext.up glottal.ext.down ncaron.ext.down scaron.ext.down ddotbelow.ext.down tcedilla.ext.down ccedilla.ext.down ccaron.ext.down lcedilla.ext.down zdotaccent.ext.down zcaron.ext.down rcaron.ext.down b.ext.down c.ext.down equal.ext.down d.ext.down D.ext.down glottal.flip.ext.down approxequal.ext.down f.ext.down g.ext.down G.ext.down h.ext.down j.ext.down k.ext.down l.ext.down m.ext.down n.ext.down p.ext.down P.ext.down r.upsidedown.ext.down r.ext.down s.ext.down t.ext.down v.ext.down velar.ext.down w.ext.down x.ext.down y.ext.down z.ext.down
   BCoverage: 10 underscore
-  BCoverage: 209 backslash.flip parenleft colon Z Z.flip r rcaron z Sigma.flip c.flip j.flip k.flip l.flip r.flip s.flip x.flip z.flip ccedilla.flip ccaron.flip lcedilla.flip rcaron.flip scaron.flip zdotaccent.flip zcaron.flip
+  BCoverage: 207 backslash.flip parenleft colon Z Z.flip r rcaron z esh.flip c.flip j.flip k.flip l.flip r.flip s.flip x.flip z.flip ccedilla.flip ccaron.flip lcedilla.flip rcaron.flip scaron.flip zdotaccent.flip zcaron.flip
  1
   SeqLookup: 0 "Single Substitution lookup 26"
 EndFPST
@@ -193,7 +193,7 @@ ChainSub2: coverage "ExtensionShape contextual 4" 0 0 0 1
   BCoverage: 11 asciicircum
   BCoverage: 2112 glottal.ext.right ncaron.ext.right scaron.ext.right ddotbelow.ext.right tcedilla.ext.right ccedilla.ext.right ccaron.ext.right lcedilla.ext.right zdotaccent.ext.right zcaron.ext.right rcaron.ext.right b.ext.right c.ext.right equal.ext.right d.ext.right D.ext.right glottal.flip.ext.right approxequal.ext.right f.ext.right g.ext.right G.ext.right h.ext.right j.ext.right k.ext.right l.ext.right m.ext.right n.ext.right p.ext.right P.ext.right r.upsidedown.ext.right r.ext.right s.ext.right t.ext.right v.ext.right velar.ext.right w.ext.right x.ext.right y.ext.right z.ext.right glottal.ext.left ncaron.ext.left scaron.ext.left ddotbelow.ext.left tcedilla.ext.left ccedilla.ext.left ccaron.ext.left lcedilla.ext.left zdotaccent.ext.left zcaron.ext.left rcaron.ext.left b.ext.left c.ext.left equal.ext.left d.ext.left D.ext.left glottal.flip.ext.left approxequal.ext.left f.ext.left g.ext.left G.ext.left h.ext.left j.ext.left k.ext.left l.ext.left m.ext.left n.ext.left p.ext.left P.ext.left r.upsidedown.ext.left r.ext.left s.ext.left t.ext.left v.ext.left velar.ext.left w.ext.left x.ext.left y.ext.left z.ext.left glottal.ext.up ncaron.ext.up scaron.ext.up ddotbelow.ext.up tcedilla.ext.up ccedilla.ext.up ccaron.ext.up lcedilla.ext.up zdotaccent.ext.up zcaron.ext.up rcaron.ext.up b.ext.up c.ext.up equal.ext.up d.ext.up D.ext.up glottal.flip.ext.up approxequal.ext.up f.ext.up g.ext.up G.ext.up h.ext.up j.ext.up k.ext.up l.ext.up m.ext.up n.ext.up p.ext.up P.ext.up r.upsidedown.ext.up r.ext.up s.ext.up t.ext.up v.ext.up velar.ext.up w.ext.up x.ext.up y.ext.up z.ext.up glottal.ext.down ncaron.ext.down scaron.ext.down ddotbelow.ext.down tcedilla.ext.down ccedilla.ext.down ccaron.ext.down lcedilla.ext.down zdotaccent.ext.down zcaron.ext.down rcaron.ext.down b.ext.down c.ext.down equal.ext.down d.ext.down D.ext.down glottal.flip.ext.down approxequal.ext.down f.ext.down g.ext.down G.ext.down h.ext.down j.ext.down k.ext.down l.ext.down m.ext.down n.ext.down p.ext.down P.ext.down r.upsidedown.ext.down r.ext.down s.ext.down t.ext.down v.ext.down velar.ext.down w.ext.down x.ext.down y.ext.down z.ext.down
   BCoverage: 10 underscore
-  BCoverage: 60 Sigma b d f g j k p t v x ccedilla ccaron tcedilla ddotbelow
+  BCoverage: 58 esh b d f g j k p t v x ccedilla ccaron tcedilla ddotbelow
  1
   SeqLookup: 0 "Single Substitution lookup 25"
 EndFPST
@@ -201,7 +201,7 @@ ChainSub2: coverage "ExtensionShape contextual 3" 0 0 0 1
  1 2 0
   Coverage: 537 glottal.ext.down ncaron.ext.down scaron.ext.down ddotbelow.ext.down tcedilla.ext.down ccedilla.ext.down ccaron.ext.down lcedilla.ext.down zdotaccent.ext.down zcaron.ext.down rcaron.ext.down b.ext.down c.ext.down equal.ext.down d.ext.down D.ext.down glottal.flip.ext.down approxequal.ext.down f.ext.down g.ext.down G.ext.down h.ext.down j.ext.down k.ext.down l.ext.down m.ext.down n.ext.down p.ext.down P.ext.down r.upsidedown.ext.down r.ext.down s.ext.down t.ext.down v.ext.down velar.ext.down w.ext.down x.ext.down y.ext.down z.ext.down
   BCoverage: 10 underscore
-  BCoverage: 135 Sigma.flip b.flip d.flip f.flip g.flip j.flip k.flip p.flip t.flip v.flip x.flip ccedilla.flip ccaron.flip tcedilla.flip ddotbelow.flip
+  BCoverage: 133 esh.flip b.flip d.flip f.flip g.flip j.flip k.flip p.flip t.flip v.flip x.flip ccedilla.flip ccaron.flip tcedilla.flip ddotbelow.flip
  1
   SeqLookup: 0 "Single Substitution lookup 24"
 EndFPST
@@ -209,7 +209,7 @@ ChainSub2: coverage "ExtensionShape contextual 2" 0 0 0 1
  1 2 0
   Coverage: 537 glottal.ext.down ncaron.ext.down scaron.ext.down ddotbelow.ext.down tcedilla.ext.down ccedilla.ext.down ccaron.ext.down lcedilla.ext.down zdotaccent.ext.down zcaron.ext.down rcaron.ext.down b.ext.down c.ext.down equal.ext.down d.ext.down D.ext.down glottal.flip.ext.down approxequal.ext.down f.ext.down g.ext.down G.ext.down h.ext.down j.ext.down k.ext.down l.ext.down m.ext.down n.ext.down p.ext.down P.ext.down r.upsidedown.ext.down r.ext.down s.ext.down t.ext.down v.ext.down velar.ext.down w.ext.down x.ext.down y.ext.down z.ext.down
   BCoverage: 10 underscore
-  BCoverage: 131 backslash colon parenright Z Z.flip Sigma c k j l r s x z ccaron ccedilla rcaron scaron zdotaccent zcaron r.flip z.flip rcaron.flip
+  BCoverage: 129 backslash colon parenright Z Z.flip esh c k j l r s x z ccaron ccedilla rcaron scaron zdotaccent zcaron r.flip z.flip rcaron.flip
  1
   SeqLookup: 0 "Single Substitution lookup 23"
 EndFPST
@@ -217,7 +217,7 @@ ChainSub2: coverage "ExtensionShape contextual 1" 0 0 0 1
  1 2 0
   Coverage: 459 glottal.ext.up ncaron.ext.up scaron.ext.up ddotbelow.ext.up tcedilla.ext.up ccedilla.ext.up ccaron.ext.up lcedilla.ext.up zdotaccent.ext.up zcaron.ext.up rcaron.ext.up b.ext.up c.ext.up equal.ext.up d.ext.up D.ext.up glottal.flip.ext.up approxequal.ext.up f.ext.up g.ext.up G.ext.up h.ext.up j.ext.up k.ext.up l.ext.up m.ext.up n.ext.up p.ext.up P.ext.up r.upsidedown.ext.up r.ext.up s.ext.up t.ext.up v.ext.up velar.ext.up w.ext.up x.ext.up y.ext.up z.ext.up
   BCoverage: 11 asciicircum
-  BCoverage: 209 backslash.flip parenleft colon Z Z.flip r rcaron z Sigma.flip c.flip j.flip k.flip l.flip r.flip s.flip x.flip z.flip ccedilla.flip ccaron.flip lcedilla.flip rcaron.flip scaron.flip zdotaccent.flip zcaron.flip
+  BCoverage: 207 backslash.flip parenleft colon Z Z.flip r rcaron z esh.flip c.flip j.flip k.flip l.flip r.flip s.flip x.flip z.flip ccedilla.flip ccaron.flip lcedilla.flip rcaron.flip scaron.flip zdotaccent.flip zcaron.flip
  1
   SeqLookup: 0 "Single Substitution lookup 22"
 EndFPST
@@ -225,7 +225,7 @@ ChainSub2: coverage "ExtensionShape contextual 0" 0 0 0 1
  1 2 0
   Coverage: 459 glottal.ext.up ncaron.ext.up scaron.ext.up ddotbelow.ext.up tcedilla.ext.up ccedilla.ext.up ccaron.ext.up lcedilla.ext.up zdotaccent.ext.up zcaron.ext.up rcaron.ext.up b.ext.up c.ext.up equal.ext.up d.ext.up D.ext.up glottal.flip.ext.up approxequal.ext.up f.ext.up g.ext.up G.ext.up h.ext.up j.ext.up k.ext.up l.ext.up m.ext.up n.ext.up p.ext.up P.ext.up r.upsidedown.ext.up r.ext.up s.ext.up t.ext.up v.ext.up velar.ext.up w.ext.up x.ext.up y.ext.up z.ext.up
   BCoverage: 11 asciicircum
-  BCoverage: 60 Sigma b d f g j k p t v x ccedilla ccaron tcedilla ddotbelow
+  BCoverage: 58 esh b d f g j k p t v x ccedilla ccaron tcedilla ddotbelow
  1
   SeqLookup: 0 "Single Substitution lookup 21"
 EndFPST
@@ -299,21 +299,22 @@ ChainSub2: coverage "OneQuote subtable" 0 0 0 1
   SeqLookup: 0 "Single Substitution lookup 1"
 EndFPST
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
-Encoding: Custom
+Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 15 6
+WinInfo: 105 15 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Tertiary_mkmk" "'mkmk' Mark to Mark lookup 1-1" "Tertiary_down" "'mark' Mark Positioning lookup 0-1" "Tertiary_up" "'mark' Mark Positioning lookup 0-1" "Diacritic_mkmk" "'mkmk' Mark to Mark lookup 1-1" "Extension_mkmk" "'mkmk' Mark to Mark lookup 1-1" "Diacritic_right" "'mark' Mark Positioning lookup 0-1" "Diacritic_left" "'mark' Mark Positioning lookup 0-1" "Extension_down" "'mark' Mark Positioning lookup 0-1" "Extension_up" "'mark' Mark Positioning lookup 0-1" "Perspective"""  "Configurations"""  "Diacritic_down" "'mark' Mark Positioning lookup 0-1" "Diacritic_up" "'mark' Mark Positioning lookup 0-1" "Anchor-1""" 
-BeginChars: 499 415
+BeginChars: 65865 415
 
 StartChar: RPV.VAR
-Encoding: -1 -1 0
+Encoding: 65536 -1 0
 Width: 1024
 VWidth: 1024
 Flags: H
@@ -336,7 +337,7 @@ Validated: 1
 EndChar
 
 StartChar: two.hund
-Encoding: 92 -1 1
+Encoding: 65537 -1 1
 Width: 320
 GlyphClass: 4
 Flags: HW
@@ -350,7 +351,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.ten
-Encoding: 93 -1 2
+Encoding: 65538 -1 2
 Width: 320
 GlyphClass: 4
 Flags: HW
@@ -366,7 +367,7 @@ Substitution2: "Single Substitution lookup 29 subtable" one.ten_coll
 EndChar
 
 StartChar: two.ten
-Encoding: 94 -1 3
+Encoding: 65539 -1 3
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -381,7 +382,7 @@ Substitution2: "Single Substitution lookup 29 subtable" two.ten_coll
 EndChar
 
 StartChar: three.ten
-Encoding: 95 -1 4
+Encoding: 65540 -1 4
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -397,7 +398,7 @@ Substitution2: "Single Substitution lookup 29 subtable" three.ten_coll
 EndChar
 
 StartChar: four.ten
-Encoding: 96 -1 5
+Encoding: 65541 -1 5
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -413,7 +414,7 @@ Substitution2: "Single Substitution lookup 29 subtable" four.ten_coll
 EndChar
 
 StartChar: five.ten
-Encoding: 97 -1 6
+Encoding: 65542 -1 6
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -429,7 +430,7 @@ Substitution2: "Single Substitution lookup 29 subtable" five.ten_coll
 EndChar
 
 StartChar: six.ten
-Encoding: 98 -1 7
+Encoding: 65543 -1 7
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -445,7 +446,7 @@ Substitution2: "Single Substitution lookup 29 subtable" six.ten_coll
 EndChar
 
 StartChar: seven.ten
-Encoding: 99 -1 8
+Encoding: 65544 -1 8
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -463,7 +464,7 @@ Substitution2: "Single Substitution lookup 29 subtable" seven.ten_coll
 EndChar
 
 StartChar: eight.ten
-Encoding: 100 -1 9
+Encoding: 65545 -1 9
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -481,7 +482,7 @@ Substitution2: "Single Substitution lookup 29 subtable" eight.ten_coll
 EndChar
 
 StartChar: nine.ten
-Encoding: 101 -1 10
+Encoding: 65546 -1 10
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -496,7 +497,7 @@ Substitution2: "Single Substitution lookup 29 subtable" nine.ten_coll
 EndChar
 
 StartChar: one.hund
-Encoding: 102 -1 11
+Encoding: 65547 -1 11
 Width: 320
 Flags: HW
 HStem: 135 84G<78 84> 186 37<70 91>
@@ -511,7 +512,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.hund
-Encoding: 103 -1 12
+Encoding: 65548 -1 12
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -525,7 +526,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.hund
-Encoding: 104 -1 13
+Encoding: 65549 -1 13
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -539,7 +540,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.hund
-Encoding: 105 -1 14
+Encoding: 65550 -1 14
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -553,7 +554,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.hund
-Encoding: 106 -1 15
+Encoding: 65551 -1 15
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -567,7 +568,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.hund
-Encoding: 107 -1 16
+Encoding: 65552 -1 16
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -583,7 +584,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.hund
-Encoding: 108 -1 17
+Encoding: 65553 -1 17
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -599,7 +600,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.hund
-Encoding: 109 -1 18
+Encoding: 65554 -1 18
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -612,7 +613,7 @@ EndSplineSet
 EndChar
 
 StartChar: b
-Encoding: 28 98 19
+Encoding: 98 98 19
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_down" 160 -60 basechar 0
@@ -635,7 +636,7 @@ Substitution2: "Single Substitution lookup 18 subtable" b.ext.down
 EndChar
 
 StartChar: c
-Encoding: 29 99 20
+Encoding: 99 99 20
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 200 140 basechar 0
@@ -656,7 +657,7 @@ Substitution2: "Single Substitution lookup 18 subtable" c.ext.down
 EndChar
 
 StartChar: d
-Encoding: 30 100 21
+Encoding: 100 100 21
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 0 140 basechar 0
@@ -679,7 +680,7 @@ Substitution2: "Single Substitution lookup 18 subtable" d.ext.down
 EndChar
 
 StartChar: f
-Encoding: 32 102 22
+Encoding: 102 102 22
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 60 140 basechar 0
@@ -701,7 +702,7 @@ Substitution2: "Single Substitution lookup 18 subtable" f.ext.down
 EndChar
 
 StartChar: g
-Encoding: 33 103 23
+Encoding: 103 103 23
 Width: 320
 Flags: HW
 HStem: -244 84G<351 446> -4 40<223 431>
@@ -725,7 +726,7 @@ Substitution2: "Single Substitution lookup 18 subtable" g.ext.down
 EndChar
 
 StartChar: h
-Encoding: 34 104 24
+Encoding: 104 104 24
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 290 140 basechar 0
@@ -748,7 +749,7 @@ Substitution2: "Single Substitution lookup 18 subtable" h.ext.down
 EndChar
 
 StartChar: j
-Encoding: 36 106 25
+Encoding: 106 106 25
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 10 140 basechar 0
@@ -769,7 +770,7 @@ Substitution2: "Single Substitution lookup 18 subtable" j.ext.down
 EndChar
 
 StartChar: k
-Encoding: 37 107 26
+Encoding: 107 107 26
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 200 140 basechar 0
@@ -790,7 +791,7 @@ Substitution2: "Single Substitution lookup 18 subtable" k.ext.down
 EndChar
 
 StartChar: l
-Encoding: 38 108 27
+Encoding: 108 108 27
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 20 140 basechar 0
@@ -812,7 +813,7 @@ Substitution2: "Single Substitution lookup 18 subtable" l.ext.down
 EndChar
 
 StartChar: m
-Encoding: 39 109 28
+Encoding: 109 109 28
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 230 140 basechar 0
@@ -833,7 +834,7 @@ Substitution2: "Single Substitution lookup 18 subtable" m.ext.down
 EndChar
 
 StartChar: n
-Encoding: 40 110 29
+Encoding: 110 110 29
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 240 140 basechar 0
@@ -856,7 +857,7 @@ Substitution2: "Single Substitution lookup 18 subtable" n.ext.down
 EndChar
 
 StartChar: p
-Encoding: 42 112 30
+Encoding: 112 112 30
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 40 140 basechar 0
@@ -878,7 +879,7 @@ Substitution2: "Single Substitution lookup 18 subtable" p.ext.down
 EndChar
 
 StartChar: r
-Encoding: 43 114 31
+Encoding: 114 114 31
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 140 basechar 0
@@ -899,7 +900,7 @@ Substitution2: "Single Substitution lookup 18 subtable" r.ext.down
 EndChar
 
 StartChar: s
-Encoding: 44 115 32
+Encoding: 115 115 32
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 0 140 basechar 0
@@ -920,7 +921,7 @@ Substitution2: "Single Substitution lookup 18 subtable" s.ext.down
 EndChar
 
 StartChar: t
-Encoding: 45 116 33
+Encoding: 116 116 33
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 0 140 basechar 0
@@ -941,7 +942,7 @@ Substitution2: "Single Substitution lookup 18 subtable" t.ext.down
 EndChar
 
 StartChar: v
-Encoding: 47 118 34
+Encoding: 118 118 34
 Width: 320
 Flags: HW
 HStem: -244 84G<300 340> -104 40<271 300> -4 40<240 400>
@@ -965,7 +966,7 @@ Substitution2: "Single Substitution lookup 18 subtable" v.ext.down
 EndChar
 
 StartChar: x
-Encoding: 49 120 35
+Encoding: 120 120 35
 Width: 320
 Flags: HW
 HStem: -244 84G<269 379> -4 40<229 431>
@@ -988,7 +989,7 @@ Substitution2: "Single Substitution lookup 18 subtable" x.ext.down
 EndChar
 
 StartChar: z
-Encoding: 51 122 36
+Encoding: 122 122 36
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 0 140 basechar 0
@@ -1011,7 +1012,7 @@ Substitution2: "Single Substitution lookup 18 subtable" z.ext.down
 EndChar
 
 StartChar: zcaron
-Encoding: 72 382 37
+Encoding: 382 382 37
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 280 140 basechar 0
@@ -1032,7 +1033,7 @@ Substitution2: "Single Substitution lookup 18 subtable" zcaron.ext.down
 EndChar
 
 StartChar: zdotaccent
-Encoding: 71 380 38
+Encoding: 380 380 38
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 140 basechar 0
@@ -1054,7 +1055,7 @@ Substitution2: "Single Substitution lookup 18 subtable" zdotaccent.ext.down
 EndChar
 
 StartChar: tcedilla
-Encoding: 70 355 39
+Encoding: 355 355 39
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 140 basechar 0
@@ -1075,7 +1076,7 @@ Substitution2: "Single Substitution lookup 18 subtable" tcedilla.ext.down
 EndChar
 
 StartChar: scaron
-Encoding: 69 353 40
+Encoding: 353 353 40
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 140 basechar 0
@@ -1097,7 +1098,7 @@ Substitution2: "Single Substitution lookup 18 subtable" scaron.ext.down
 EndChar
 
 StartChar: rcaron
-Encoding: 68 345 41
+Encoding: 345 345 41
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 140 basechar 0
@@ -1119,7 +1120,7 @@ Substitution2: "Single Substitution lookup 18 subtable" rcaron.ext.down
 EndChar
 
 StartChar: ncaron
-Encoding: 66 328 42
+Encoding: 328 328 42
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 140 basechar 0
@@ -1141,7 +1142,7 @@ Substitution2: "Single Substitution lookup 18 subtable" ncaron.ext.down
 EndChar
 
 StartChar: lcedilla
-Encoding: 65 316 43
+Encoding: 316 316 43
 Width: 320
 Flags: HW
 HStem: -244 84G<295 405> -124 40<275 306> -44 80G<235 275> -44 80G<235 275>
@@ -1165,7 +1166,7 @@ Substitution2: "Single Substitution lookup 18 subtable" lcedilla.ext.down
 EndChar
 
 StartChar: ccedilla
-Encoding: 57 231 44
+Encoding: 231 231 44
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 20 140 basechar 0
@@ -1188,7 +1189,7 @@ Substitution2: "Single Substitution lookup 18 subtable" ccedilla.ext.down
 EndChar
 
 StartChar: ccaron
-Encoding: 64 269 45
+Encoding: 269 269 45
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 230 140 basechar 0
@@ -1208,7 +1209,7 @@ Substitution2: "Single Substitution lookup 18 subtable" ccaron.ext.down
 EndChar
 
 StartChar: Z
-Encoding: 23 90 46
+Encoding: 90 90 46
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_down" 160 -60 basechar 0
@@ -1229,7 +1230,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: bar
-Encoding: 53 124 47
+Encoding: 124 124 47
 Width: 320
 Flags: HW
 AnchorPoint: "Extension_down" 160 0 basechar 0
@@ -1249,7 +1250,7 @@ LCarets2: 1 160
 EndChar
 
 StartChar: braceleft
-Encoding: 52 123 48
+Encoding: 123 123 48
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 60 140 basechar 0
@@ -1271,7 +1272,7 @@ LCarets2: 1 160
 EndChar
 
 StartChar: braceright
-Encoding: 54 125 49
+Encoding: 125 125 49
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 60 140 basechar 0
@@ -1292,37 +1293,15 @@ Ligature2: "FlipCores subtable" braceleft quotesingle
 LCarets2: 1 160
 EndChar
 
-StartChar: Sigma
-Encoding: 77 931 50
-Width: 320
-Flags: HW
-AnchorPoint: "Diacritic_up" 160 360 basechar 0
-AnchorPoint: "Diacritic_down" 160 -60 basechar 0
-AnchorPoint: "Extension_down" 270 0 basechar 0
-AnchorPoint: "Extension_up" 248 280 basechar 0
-AnchorPoint: "Diacritic_left" 60 100 basechar 0
-AnchorPoint: "Diacritic_right" 180 220 basechar 0
-LayerCount: 2
-Fore
-SplineSet
-270 0 m 1
- 50 0 l 1
- 170 140 l 1
- 103 148 53 176 53 210 c 0
- 53 250 123 282 210 282 c 0
- 224 282 237 282 250 280 c 1024
-EndSplineSet
-EndChar
-
 StartChar: space
-Encoding: 0 32 51
+Encoding: 32 32 50
 Width: 320
 Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: zero
-Encoding: 5 48 52
+Encoding: 48 48 51
 Width: 320
 Flags: HW
 HStem: -222 84G<240 249> -12 80G<372 409>
@@ -1342,7 +1321,7 @@ Substitution2: "Single Substitution lookup 14 subtable" zero.ten
 EndChar
 
 StartChar: one
-Encoding: 6 49 53
+Encoding: 49 49 52
 Width: 320
 Flags: HW
 HStem: -222 84G<240 277> -12 80G<370 407>
@@ -1363,7 +1342,7 @@ Substitution2: "Single Substitution lookup 14 subtable" one.ten
 EndChar
 
 StartChar: two
-Encoding: 7 50 54
+Encoding: 50 50 53
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 80 280 basechar 0
@@ -1382,7 +1361,7 @@ Substitution2: "Single Substitution lookup 14 subtable" two.ten
 EndChar
 
 StartChar: three
-Encoding: 8 51 55
+Encoding: 51 51 54
 Width: 320
 Flags: HW
 HStem: -222 84G<240 277> -131 80G<257 330> -12 80G<363 400>
@@ -1404,7 +1383,7 @@ Substitution2: "Single Substitution lookup 14 subtable" three.ten
 EndChar
 
 StartChar: four
-Encoding: 9 52 56
+Encoding: 52 52 55
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 80 280 basechar 0
@@ -1423,7 +1402,7 @@ Substitution2: "Single Substitution lookup 14 subtable" four.ten
 EndChar
 
 StartChar: five
-Encoding: 10 53 57
+Encoding: 53 53 56
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 80 280 basechar 0
@@ -1443,7 +1422,7 @@ Substitution2: "Single Substitution lookup 14 subtable" five.ten
 EndChar
 
 StartChar: six
-Encoding: 11 54 58
+Encoding: 54 54 57
 Width: 320
 Flags: HW
 HStem: -222 84G<240 277> -129 80G<317 414> -70 84G<332 339> -12 80G<372 409>
@@ -1468,7 +1447,7 @@ Substitution2: "Single Substitution lookup 14 subtable" six.ten
 EndChar
 
 StartChar: seven
-Encoding: 12 55 59
+Encoding: 55 55 58
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 80 280 basechar 0
@@ -1487,7 +1466,7 @@ Substitution2: "Single Substitution lookup 14 subtable" seven.ten
 EndChar
 
 StartChar: eight
-Encoding: 13 56 60
+Encoding: 56 56 59
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 80 280 basechar 0
@@ -1507,7 +1486,7 @@ Substitution2: "Single Substitution lookup 14 subtable" eight.ten
 EndChar
 
 StartChar: nine
-Encoding: 14 57 61
+Encoding: 57 57 60
 Width: 320
 Flags: HW
 HStem: -222 84G<240 277> -12 80G<375 411>
@@ -1530,7 +1509,7 @@ Substitution2: "Single Substitution lookup 14 subtable" nine.ten
 EndChar
 
 StartChar: b.flip
-Encoding: 110 -1 62
+Encoding: 65555 -1 61
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 40 140 basechar 0
@@ -1553,7 +1532,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: c.flip
-Encoding: 111 -1 63
+Encoding: 65556 -1 62
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 120 140 basechar 0
@@ -1574,7 +1553,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: d.flip
-Encoding: 112 -1 64
+Encoding: 65557 -1 63
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 320 140 basechar 0
@@ -1597,7 +1576,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: f.flip
-Encoding: 113 -1 65
+Encoding: 65558 -1 64
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 300 140 basechar 0
@@ -1619,7 +1598,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: g.flip
-Encoding: 114 -1 66
+Encoding: 65559 -1 65
 Width: 320
 Flags: HW
 HStem: 440 84G<-126 -31> 244 40<-111 97>
@@ -1643,7 +1622,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: h.flip
-Encoding: 115 -1 67
+Encoding: 65560 -1 66
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 300 140 basechar 0
@@ -1666,7 +1645,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: j.flip
-Encoding: 116 -1 68
+Encoding: 65561 -1 67
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 320 140 basechar 0
@@ -1687,7 +1666,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: k.flip
-Encoding: 117 -1 69
+Encoding: 65562 -1 68
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 320 140 basechar 0
@@ -1708,7 +1687,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: l.flip
-Encoding: 118 -1 70
+Encoding: 65563 -1 69
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 320 140 basechar 0
@@ -1730,7 +1709,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: m.flip
-Encoding: 119 -1 71
+Encoding: 65564 -1 70
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 280 140 basechar 0
@@ -1751,7 +1730,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: n.flip
-Encoding: 120 -1 72
+Encoding: 65565 -1 71
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 290 140 basechar 0
@@ -1774,7 +1753,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: p.flip
-Encoding: 121 -1 73
+Encoding: 65566 -1 72
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 270 140 basechar 0
@@ -1796,7 +1775,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: r.flip
-Encoding: 122 -1 74
+Encoding: 65567 -1 73
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 140 basechar 0
@@ -1817,7 +1796,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: s.flip
-Encoding: 123 -1 75
+Encoding: 65568 -1 74
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 320 140 basechar 0
@@ -1838,7 +1817,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: t.flip
-Encoding: 124 -1 76
+Encoding: 65569 -1 75
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 320 140 basechar 0
@@ -1859,7 +1838,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: v.flip
-Encoding: 125 -1 77
+Encoding: 65570 -1 76
 Width: 320
 Flags: HW
 HStem: 440 84G<-20 20> 344 40<20 49> 244 40<-80 80>
@@ -1883,7 +1862,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: x.flip
-Encoding: 126 -1 78
+Encoding: 65571 -1 77
 Width: 320
 Flags: HW
 HStem: 440 84G<-59 51> 244 40<-111 91>
@@ -1906,7 +1885,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: z.flip
-Encoding: 127 -1 79
+Encoding: 65572 -1 78
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 320 140 basechar 0
@@ -1929,7 +1908,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: ccedilla.flip
-Encoding: 128 -1 80
+Encoding: 65573 -1 79
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 310 140 basechar 0
@@ -1952,7 +1931,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: ccaron.flip
-Encoding: 129 -1 81
+Encoding: 65574 -1 80
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 300 140 basechar 0
@@ -1972,7 +1951,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: lcedilla.flip
-Encoding: 130 -1 82
+Encoding: 65575 -1 81
 Width: 320
 Flags: HW
 HStem: 440 84G<-85 25> 364 40<14 45> 244 80G<45 85> 244 80G<45 85>
@@ -1996,7 +1975,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: ncaron.flip
-Encoding: 131 -1 83
+Encoding: 65576 -1 82
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 280 140 basechar 0
@@ -2018,7 +1997,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: rcaron.flip
-Encoding: 132 -1 84
+Encoding: 65577 -1 83
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 280 140 basechar 0
@@ -2040,7 +2019,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: scaron.flip
-Encoding: 133 -1 85
+Encoding: 65578 -1 84
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 140 basechar 0
@@ -2062,7 +2041,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: tcedilla.flip
-Encoding: 134 -1 86
+Encoding: 65579 -1 85
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 320 140 basechar 0
@@ -2083,7 +2062,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: zdotaccent.flip
-Encoding: 135 -1 87
+Encoding: 65580 -1 86
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 290 140 basechar 0
@@ -2105,7 +2084,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: zcaron.flip
-Encoding: 136 -1 88
+Encoding: 65581 -1 87
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 280 140 basechar 0
@@ -2125,8 +2104,8 @@ Ligature2: "FlipCores subtable" zcaron quotesingle
 LCarets2: 1 320
 EndChar
 
-StartChar: Sigma.flip
-Encoding: 137 -1 89
+StartChar: esh.flip
+Encoding: 65582 -1 88
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_down" 160 -60 basechar 0
@@ -2145,12 +2124,12 @@ SplineSet
  267 30 197 -2 110 -2 c 0
  96 -2 83 -2 70 0 c 1024
 EndSplineSet
-Ligature2: "FlipCores subtable" Sigma quotesingle
+Ligature2: "FlipCores subtable" esh quotesingle
 LCarets2: 1 320
 EndChar
 
 StartChar: ddotbelow.flip
-Encoding: 138 -1 90
+Encoding: 65583 -1 89
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 320 140 basechar 0
@@ -2172,7 +2151,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: a
-Encoding: 27 97 91
+Encoding: 97 97 90
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 157 140 mark 0
@@ -2188,7 +2167,7 @@ EndSplineSet
 EndChar
 
 StartChar: e
-Encoding: 31 101 92
+Encoding: 101 101 91
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 190 140 mark 0
@@ -2203,7 +2182,7 @@ EndSplineSet
 EndChar
 
 StartChar: i
-Encoding: 35 105 93
+Encoding: 105 105 92
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 200 100 mark 0
@@ -2216,7 +2195,7 @@ EndSplineSet
 EndChar
 
 StartChar: o
-Encoding: 41 111 94
+Encoding: 111 111 93
 Width: 320
 Flags: HW
 HStem: -88 30<247 268>
@@ -2231,7 +2210,7 @@ EndSplineSet
 EndChar
 
 StartChar: u
-Encoding: 46 117 95
+Encoding: 117 117 94
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 160 110 mark 0
@@ -2246,7 +2225,7 @@ EndSplineSet
 EndChar
 
 StartChar: adieresis
-Encoding: 56 228 96
+Encoding: 228 228 95
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 200 140 mark 0
@@ -2259,7 +2238,7 @@ EndSplineSet
 EndChar
 
 StartChar: edieresis
-Encoding: 58 235 97
+Encoding: 235 235 96
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 130 140 mark 0
@@ -2274,7 +2253,7 @@ EndSplineSet
 EndChar
 
 StartChar: idieresis
-Encoding: 59 239 98
+Encoding: 239 239 97
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 160 100 mark 0
@@ -2287,7 +2266,7 @@ EndSplineSet
 EndChar
 
 StartChar: odieresis
-Encoding: 62 246 99
+Encoding: 246 246 98
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 180 110 mark 0
@@ -2300,7 +2279,7 @@ EndSplineSet
 EndChar
 
 StartChar: udieresis
-Encoding: 63 252 100
+Encoding: 252 252 99
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 160 170 mark 0
@@ -2315,7 +2294,7 @@ EndSplineSet
 EndChar
 
 StartChar: ohungarumlaut
-Encoding: 67 337 101
+Encoding: 337 337 100
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 180 110 mark 0
@@ -2329,7 +2308,7 @@ EndSplineSet
 EndChar
 
 StartChar: y
-Encoding: 50 121 102
+Encoding: 121 121 101
 Width: 320
 VWidth: 268
 Flags: HW
@@ -2339,7 +2318,7 @@ Substitution2: "Single Substitution lookup 18 subtable" y.ext.down
 EndChar
 
 StartChar: ograve
-Encoding: 60 242 103
+Encoding: 242 242 102
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 120 130 mark 0
@@ -2353,7 +2332,7 @@ EndSplineSet
 EndChar
 
 StartChar: oacute
-Encoding: 61 243 104
+Encoding: 243 243 103
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 120 150 mark 0
@@ -2367,7 +2346,7 @@ EndSplineSet
 EndChar
 
 StartChar: a_ograve
-Encoding: 139 -1 105
+Encoding: 65584 -1 104
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 120 130 mark 0
@@ -2389,7 +2368,7 @@ LCarets2: 1 160
 EndChar
 
 StartChar: a_oacute
-Encoding: 140 -1 106
+Encoding: 65585 -1 105
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 200 150 mark 0
@@ -2411,7 +2390,7 @@ LCarets2: 1 160
 EndChar
 
 StartChar: one.thou
-Encoding: 141 -1 107
+Encoding: 65586 -1 106
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
@@ -2424,7 +2403,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.thou
-Encoding: 142 -1 108
+Encoding: 65587 -1 107
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
@@ -2437,7 +2416,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.thou
-Encoding: 143 -1 109
+Encoding: 65588 -1 108
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
@@ -2450,7 +2429,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.thou
-Encoding: 144 -1 110
+Encoding: 65589 -1 109
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
@@ -2463,7 +2442,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.thou
-Encoding: 145 -1 111
+Encoding: 65590 -1 110
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
@@ -2477,7 +2456,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.thou
-Encoding: 146 -1 112
+Encoding: 65591 -1 111
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
@@ -2491,7 +2470,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.thou
-Encoding: 147 -1 113
+Encoding: 65592 -1 112
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
@@ -2504,7 +2483,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.thou
-Encoding: 148 -1 114
+Encoding: 65593 -1 113
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
@@ -2517,7 +2496,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.thou
-Encoding: 149 -1 115
+Encoding: 65594 -1 114
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
@@ -2530,7 +2509,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciicircum
-Encoding: 25 94 116
+Encoding: 94 94 115
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 280 basemark 0
@@ -2541,7 +2520,7 @@ Substitution2: "Single Substitution lookup 8 subtable" asciicircum.diacritic
 EndChar
 
 StartChar: underscore
-Encoding: 26 95 117
+Encoding: 95 95 116
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 0 basemark 0
@@ -2552,7 +2531,7 @@ Substitution2: "Single Substitution lookup 9 subtable" underscore.diacritic
 EndChar
 
 StartChar: less
-Encoding: 17 60 118
+Encoding: 60 60 117
 Width: 0
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 280 basemark 0
@@ -2561,7 +2540,7 @@ LayerCount: 2
 EndChar
 
 StartChar: greater
-Encoding: 19 62 119
+Encoding: 62 62 118
 Width: 0
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 280 basemark 0
@@ -2570,7 +2549,7 @@ LayerCount: 2
 EndChar
 
 StartChar: asciicircum.diacritic
-Encoding: 150 -1 120
+Encoding: 65595 -1 119
 Width: 0
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 280 basemark 0
@@ -2579,7 +2558,7 @@ LayerCount: 2
 EndChar
 
 StartChar: underscore.diacritic
-Encoding: 151 -1 121
+Encoding: 65596 -1 120
 Width: 0
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 0 basemark 0
@@ -2588,7 +2567,7 @@ LayerCount: 2
 EndChar
 
 StartChar: quotesingle
-Encoding: 2 39 122
+Encoding: 39 39 121
 Width: 0
 GlyphClass: 4
 Flags: HW
@@ -2597,7 +2576,7 @@ Substitution2: "Single Substitution lookup 1 subtable" quotesingle
 EndChar
 
 StartChar: backslash.flip
-Encoding: 152 -1 123
+Encoding: 65597 -1 122
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 240 basechar 0
@@ -2617,7 +2596,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: zero.ten
-Encoding: 153 -1 124
+Encoding: 65598 -1 123
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 60 mark 0
@@ -2627,7 +2606,7 @@ Substitution2: "Single Substitution lookup 29 subtable" zero.ten_coll
 EndChar
 
 StartChar: zero.hund
-Encoding: 154 -1 125
+Encoding: 65599 -1 124
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 280 mark 0
@@ -2635,7 +2614,7 @@ LayerCount: 2
 EndChar
 
 StartChar: zero.thou
-Encoding: 155 -1 126
+Encoding: 65600 -1 125
 Width: 0
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 320 mark 0
@@ -2643,7 +2622,7 @@ LayerCount: 2
 EndChar
 
 StartChar: quoteleft
-Encoding: 79 8216 127
+Encoding: 8216 8216 126
 Width: 0
 GlyphClass: 4
 Flags: HW
@@ -2652,7 +2631,7 @@ Substitution2: "Single Substitution lookup 1 subtable" quotesingle
 EndChar
 
 StartChar: quoteright
-Encoding: 80 8217 128
+Encoding: 8217 8217 127
 Width: 0
 GlyphClass: 4
 Flags: HW
@@ -2661,7 +2640,7 @@ Substitution2: "Single Substitution lookup 1 subtable" quotesingle
 EndChar
 
 StartChar: backslash
-Encoding: 24 92 129
+Encoding: 92 92 128
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_up" 160 360 basechar 0
@@ -2679,7 +2658,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal
-Encoding: 18 61 130
+Encoding: 61 61 129
 Width: 320
 VWidth: 268
 Flags: HW
@@ -2689,7 +2668,7 @@ Substitution2: "Single Substitution lookup 18 subtable" equal.ext.down
 EndChar
 
 StartChar: colon
-Encoding: 15 58 131
+Encoding: 58 58 130
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 240 basechar 0
@@ -2709,7 +2688,7 @@ EndSplineSet
 EndChar
 
 StartChar: semicolon
-Encoding: 16 59 132
+Encoding: 59 59 131
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_down" 160 140 basechar 0
@@ -2724,7 +2703,7 @@ LayerCount: 2
 EndChar
 
 StartChar: quotedblleft
-Encoding: 81 8220 133
+Encoding: 8220 8220 132
 Width: 0
 GlyphClass: 4
 Flags: HW
@@ -2732,7 +2711,7 @@ LayerCount: 2
 EndChar
 
 StartChar: quotedblright
-Encoding: 82 8221 134
+Encoding: 8221 8221 133
 Width: 0
 GlyphClass: 4
 Flags: HW
@@ -2740,7 +2719,7 @@ LayerCount: 2
 EndChar
 
 StartChar: quotedbl
-Encoding: 1 34 135
+Encoding: 34 34 134
 Width: 0
 GlyphClass: 4
 Flags: HW
@@ -2748,7 +2727,7 @@ LayerCount: 2
 EndChar
 
 StartChar: parenleft
-Encoding: 3 40 136
+Encoding: 40 40 135
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 240 basechar 0
@@ -2769,7 +2748,7 @@ LCarets2: 1 160
 EndChar
 
 StartChar: parenright
-Encoding: 4 41 137
+Encoding: 41 41 136
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 240 basechar 0
@@ -2790,7 +2769,7 @@ LCarets2: 1 160
 EndChar
 
 StartChar: adieresis_i
-Encoding: 156 -1 138
+Encoding: 65601 -1 137
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 190 170 mark 0
@@ -2807,7 +2786,7 @@ LCarets2: 1 160
 EndChar
 
 StartChar: approxequal
-Encoding: 83 8776 139
+Encoding: 8776 8776 138
 Width: 320
 VWidth: 268
 Flags: HW
@@ -2817,7 +2796,7 @@ Substitution2: "Single Substitution lookup 18 subtable" approxequal.ext.down
 EndChar
 
 StartChar: ellipses.vert
-Encoding: 85 8942 140
+Encoding: 8942 8942 139
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 160 220 mark 0
@@ -2832,7 +2811,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: glottal
-Encoding: 74 660 141
+Encoding: 660 660 140
 Width: 320
 VWidth: 268
 Flags: HW
@@ -2842,7 +2821,7 @@ Substitution2: "Single Substitution lookup 18 subtable" glottal.ext.down
 EndChar
 
 StartChar: velar
-Encoding: 75 661 142
+Encoding: 661 661 141
 Width: 320
 VWidth: 268
 Flags: HW
@@ -2852,7 +2831,7 @@ Substitution2: "Single Substitution lookup 18 subtable" velar.ext.down
 EndChar
 
 StartChar: glottal.flip
-Encoding: 76 662 143
+Encoding: 662 662 142
 Width: 320
 VWidth: 268
 Flags: HW
@@ -2862,7 +2841,7 @@ Substitution2: "Single Substitution lookup 18 subtable" glottal.flip.ext.down
 EndChar
 
 StartChar: w
-Encoding: 48 119 144
+Encoding: 119 119 143
 Width: 320
 Flags: HW
 LayerCount: 2
@@ -2871,7 +2850,7 @@ Substitution2: "Single Substitution lookup 18 subtable" w.ext.down
 EndChar
 
 StartChar: asciicircum.tertiary
-Encoding: 157 -1 145
+Encoding: 65602 -1 144
 Width: 0
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 160 -4 basemark 0
@@ -2880,7 +2859,7 @@ LayerCount: 2
 EndChar
 
 StartChar: underscore.tertiary
-Encoding: 158 -1 146
+Encoding: 65603 -1 145
 Width: 0
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 160 -244 basemark 0
@@ -2889,7 +2868,7 @@ LayerCount: 2
 EndChar
 
 StartChar: equivalence
-Encoding: 84 8801 147
+Encoding: 8801 8801 146
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_down" 160 40 basechar 0
@@ -2907,7 +2886,7 @@ LCarets2: 2 160 160
 EndChar
 
 StartChar: ithk_valence.CNG
-Encoding: 159 -1 148
+Encoding: 65604 -1 147
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_up" 160 240 basechar 0
@@ -2927,7 +2906,7 @@ LCarets2: 2 160 160
 EndChar
 
 StartChar: ithk_valence.CPL
-Encoding: 160 -1 149
+Encoding: 65605 -1 148
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_down" 160 40 basechar 0
@@ -2946,7 +2925,7 @@ LCarets2: 2 160 160
 EndChar
 
 StartChar: ithk_valence.CRO
-Encoding: 161 -1 150
+Encoding: 65606 -1 149
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_down" 160 40 basechar 0
@@ -2965,7 +2944,7 @@ LCarets2: 2 160 160
 EndChar
 
 StartChar: ithk_valence.DEM
-Encoding: 162 -1 151
+Encoding: 65607 -1 150
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_down" 160 40 basechar 0
@@ -2986,7 +2965,7 @@ LCarets2: 2 160 160
 EndChar
 
 StartChar: ithk_valence.DUP
-Encoding: 163 -1 152
+Encoding: 65608 -1 151
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_down" 160 40 basechar 0
@@ -3005,7 +2984,7 @@ LCarets2: 2 160 160
 EndChar
 
 StartChar: ithk_valence.PRL
-Encoding: 164 -1 153
+Encoding: 65609 -1 152
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_down" 160 40 basechar 0
@@ -3024,7 +3003,7 @@ LCarets2: 2 160 160
 EndChar
 
 StartChar: ithk_valence.PTI
-Encoding: 165 -1 154
+Encoding: 65610 -1 153
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_down" 160 40 basechar 0
@@ -3046,7 +3025,7 @@ LCarets2: 2 160 160
 EndChar
 
 StartChar: ithk_valence.RCP
-Encoding: 166 -1 155
+Encoding: 65611 -1 154
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_down" 160 40 basechar 0
@@ -3066,7 +3045,7 @@ LCarets2: 2 160 160
 EndChar
 
 StartChar: ithk_phase.FLC
-Encoding: 167 -1 156
+Encoding: 65612 -1 155
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 160 220 mark 0
@@ -3082,7 +3061,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_phase.FRE
-Encoding: 168 -1 157
+Encoding: 65613 -1 156
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 160 220 mark 0
@@ -3100,7 +3079,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_phase.FRG
-Encoding: 169 -1 158
+Encoding: 65614 -1 157
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 160 220 mark 0
@@ -3118,7 +3097,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_phase.ITM
-Encoding: 170 -1 159
+Encoding: 65615 -1 158
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 120 220 mark 0
@@ -3135,7 +3114,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_phase.ITR
-Encoding: 171 -1 160
+Encoding: 65616 -1 159
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 160 220 mark 0
@@ -3151,7 +3130,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_phase.RCT
-Encoding: 172 -1 161
+Encoding: 65617 -1 160
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 200 220 mark 0
@@ -3167,7 +3146,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_phase.REP
-Encoding: 173 -1 162
+Encoding: 65618 -1 161
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 120 220 mark 0
@@ -3183,7 +3162,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_phase.VAC
-Encoding: 174 -1 163
+Encoding: 65619 -1 162
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 160 220 mark 0
@@ -3199,7 +3178,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_effect.oneben
-Encoding: 175 -1 164
+Encoding: 65620 -1 163
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 120 200 mark 0
@@ -3214,7 +3193,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_effect.onedet
-Encoding: 176 -1 165
+Encoding: 65621 -1 164
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 90 200 mark 0
@@ -3230,7 +3209,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_effect.twoben
-Encoding: 177 -1 166
+Encoding: 65622 -1 165
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 120 200 mark 0
@@ -3246,7 +3225,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_effect.twodet
-Encoding: 178 -1 167
+Encoding: 65623 -1 166
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 120 200 mark 0
@@ -3262,7 +3241,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_effect.threeben
-Encoding: 179 -1 168
+Encoding: 65624 -1 167
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 200 188 mark 0
@@ -3278,7 +3257,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_effect.threedet
-Encoding: 180 -1 169
+Encoding: 65625 -1 168
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 90 200 mark 0
@@ -3295,7 +3274,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_effect.slfben
-Encoding: 181 -1 170
+Encoding: 65626 -1 169
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 180 188 mark 0
@@ -3313,7 +3292,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_effect.slfdet
-Encoding: 182 -1 171
+Encoding: 65627 -1 170
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 200 210 mark 0
@@ -3329,7 +3308,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_effect.unk
-Encoding: 183 -1 172
+Encoding: 65628 -1 171
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 120 200 mark 0
@@ -3345,7 +3324,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: r.upsidedown
-Encoding: 73 633 173
+Encoding: 633 633 172
 Width: 320
 VWidth: 268
 Flags: HW
@@ -3355,7 +3334,7 @@ Substitution2: "Single Substitution lookup 18 subtable" r.upsidedown.ext.down
 EndChar
 
 StartChar: D
-Encoding: 20 68 174
+Encoding: 68 68 173
 Width: 320
 VWidth: 268
 Flags: HW
@@ -3365,7 +3344,7 @@ Substitution2: "Single Substitution lookup 18 subtable" D.ext.down
 EndChar
 
 StartChar: G
-Encoding: 21 71 175
+Encoding: 71 71 174
 Width: 320
 VWidth: 268
 Flags: HW
@@ -3375,7 +3354,7 @@ Substitution2: "Single Substitution lookup 18 subtable" G.ext.down
 EndChar
 
 StartChar: P
-Encoding: 22 80 176
+Encoding: 80 80 175
 Width: 320
 VWidth: 268
 Flags: HW
@@ -3385,7 +3364,7 @@ Substitution2: "Single Substitution lookup 18 subtable" P.ext.down
 EndChar
 
 StartChar: ddotbelow
-Encoding: 78 7693 177
+Encoding: 7693 7693 176
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 10 140 basechar 0
@@ -3407,7 +3386,7 @@ Substitution2: "Single Substitution lookup 18 subtable" ddotbelow.ext.down
 EndChar
 
 StartChar: ithk_aspect.ATP
-Encoding: 184 -1 178
+Encoding: 65629 -1 177
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 120 140 mark 0
@@ -3424,7 +3403,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.CCL
-Encoding: 185 -1 179
+Encoding: 65630 -1 178
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 220 140 mark 0
@@ -3441,7 +3420,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.CLM
-Encoding: 186 -1 180
+Encoding: 65631 -1 179
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 100 160 mark 0
@@ -3458,7 +3437,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.CNT
-Encoding: 187 -1 181
+Encoding: 65632 -1 180
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 90 220 mark 0
@@ -3475,7 +3454,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.CSS
-Encoding: 188 -1 182
+Encoding: 65633 -1 181
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 100 220 mark 0
@@ -3491,7 +3470,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.CUL
-Encoding: 189 -1 183
+Encoding: 65634 -1 182
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 180 140 mark 0
@@ -3507,7 +3486,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.DCL
-Encoding: 190 -1 184
+Encoding: 65635 -1 183
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 220 140 mark 0
@@ -3525,7 +3504,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.DLT
-Encoding: 191 -1 185
+Encoding: 65636 -1 184
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 140 180 mark 0
@@ -3541,7 +3520,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.EPD
-Encoding: 192 -1 186
+Encoding: 65637 -1 185
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 220 170 mark 0
@@ -3558,7 +3537,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.EXP
-Encoding: 193 -1 187
+Encoding: 65638 -1 186
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 200 220 mark 0
@@ -3575,7 +3554,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.HAB
-Encoding: 194 -1 188
+Encoding: 65639 -1 187
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 220 140 mark 0
@@ -3591,7 +3570,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.ICS
-Encoding: 195 -1 189
+Encoding: 65640 -1 188
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 220 220 mark 0
@@ -3607,7 +3586,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.IMD
-Encoding: 196 -1 190
+Encoding: 65641 -1 189
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 220 150 mark 0
@@ -3624,7 +3603,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.IMM
-Encoding: 197 -1 191
+Encoding: 65642 -1 190
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 230 140 mark 0
@@ -3641,7 +3620,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.IRP
-Encoding: 198 -1 192
+Encoding: 65643 -1 191
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 200 220 mark 0
@@ -3658,7 +3637,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.ITC
-Encoding: 199 -1 193
+Encoding: 65644 -1 192
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 100 140 mark 0
@@ -3675,7 +3654,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.LIM
-Encoding: 200 -1 194
+Encoding: 65645 -1 193
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 220 140 mark 0
@@ -3691,7 +3670,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.MTV
-Encoding: 201 -1 195
+Encoding: 65646 -1 194
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 220 140 mark 0
@@ -3707,7 +3686,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.PAU
-Encoding: 202 -1 196
+Encoding: 65647 -1 195
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 100 220 mark 0
@@ -3723,7 +3702,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.PCL
-Encoding: 203 -1 197
+Encoding: 65648 -1 196
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 90 220 mark 0
@@ -3740,7 +3719,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.PCS
-Encoding: 204 -1 198
+Encoding: 65649 -1 197
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 230 140 mark 0
@@ -3757,7 +3736,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.PMP
-Encoding: 205 -1 199
+Encoding: 65650 -1 198
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 100 180 mark 0
@@ -3775,7 +3754,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.PPR
-Encoding: 206 -1 200
+Encoding: 65651 -1 199
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 100 160 mark 0
@@ -3791,7 +3770,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.PRG
-Encoding: 207 -1 201
+Encoding: 65652 -1 200
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 230 140 mark 0
@@ -3808,7 +3787,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.PRS
-Encoding: 208 -1 202
+Encoding: 65653 -1 201
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 220 140 mark 0
@@ -3824,7 +3803,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.PTC
-Encoding: 209 -1 203
+Encoding: 65654 -1 202
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 100 140 mark 0
@@ -3840,7 +3819,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.REG
-Encoding: 210 -1 204
+Encoding: 65655 -1 203
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 100 140 mark 0
@@ -3856,7 +3835,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.RGR
-Encoding: 211 -1 205
+Encoding: 65656 -1 204
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 90 220 mark 0
@@ -3873,7 +3852,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.RSM
-Encoding: 212 -1 206
+Encoding: 65657 -1 205
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 100 220 mark 0
@@ -3889,7 +3868,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.RTR
-Encoding: 213 -1 207
+Encoding: 65658 -1 206
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 220 140 mark 0
@@ -3905,7 +3884,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.SMM
-Encoding: 214 -1 208
+Encoding: 65659 -1 207
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 120 140 mark 0
@@ -3922,7 +3901,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.SQN
-Encoding: 215 -1 209
+Encoding: 65660 -1 208
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 220 140 mark 0
@@ -3938,7 +3917,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.TMP
-Encoding: 216 -1 210
+Encoding: 65661 -1 209
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 100 170 mark 0
@@ -3955,7 +3934,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.TNS
-Encoding: 217 -1 211
+Encoding: 65662 -1 210
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 100 160 mark 0
@@ -3971,7 +3950,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.TRD
-Encoding: 218 -1 212
+Encoding: 65663 -1 211
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 220 150 mark 0
@@ -3987,7 +3966,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: ithk_aspect.XPD
-Encoding: 219 -1 213
+Encoding: 65664 -1 212
 Width: 320
 Flags: HW
 AnchorPoint: "Tertiary_mkmk" 100 140 mark 0
@@ -4003,7 +3982,7 @@ LCarets2: 3 160 160 160
 EndChar
 
 StartChar: .notdef
-Encoding: 220 -1 214
+Encoding: 65665 -1 213
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 320 140 basechar 0
@@ -4025,14 +4004,14 @@ EndSplineSet
 EndChar
 
 StartChar: nonmarkingreturn
-Encoding: 221 -1 215
+Encoding: 65666 -1 214
 Width: 0
 Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: glottal.ext.up
-Encoding: 222 -1 216
+Encoding: 65667 -1 215
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4054,7 +4033,7 @@ Substitution2: "Single Substitution lookup 21 subtable" glottal.ext.right
 EndChar
 
 StartChar: ncaron.ext.up
-Encoding: 223 -1 217
+Encoding: 65668 -1 216
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4074,7 +4053,7 @@ Substitution2: "Single Substitution lookup 21 subtable" ncaron.ext.right
 EndChar
 
 StartChar: scaron.ext.up
-Encoding: 224 -1 218
+Encoding: 65669 -1 217
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4094,7 +4073,7 @@ Substitution2: "Single Substitution lookup 21 subtable" scaron.ext.right
 EndChar
 
 StartChar: ddotbelow.ext.up
-Encoding: 225 -1 219
+Encoding: 65670 -1 218
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4113,7 +4092,7 @@ Substitution2: "Single Substitution lookup 21 subtable" ddotbelow.ext.right
 EndChar
 
 StartChar: tcedilla.ext.up
-Encoding: 226 -1 220
+Encoding: 65671 -1 219
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4131,7 +4110,7 @@ Substitution2: "Single Substitution lookup 21 subtable" tcedilla.ext.right
 EndChar
 
 StartChar: ccedilla.ext.up
-Encoding: 227 -1 221
+Encoding: 65672 -1 220
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4150,7 +4129,7 @@ Substitution2: "Single Substitution lookup 21 subtable" ccedilla.ext.right
 EndChar
 
 StartChar: ccaron.ext.up
-Encoding: 228 -1 222
+Encoding: 65673 -1 221
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4169,7 +4148,7 @@ Substitution2: "Single Substitution lookup 21 subtable" ccaron.ext.right
 EndChar
 
 StartChar: lcedilla.ext.up
-Encoding: 229 -1 223
+Encoding: 65674 -1 222
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4187,7 +4166,7 @@ Substitution2: "Single Substitution lookup 21 subtable" lcedilla.ext.right
 EndChar
 
 StartChar: zdotaccent.ext.up
-Encoding: 230 -1 224
+Encoding: 65675 -1 223
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4206,7 +4185,7 @@ Substitution2: "Single Substitution lookup 21 subtable" zdotaccent.ext.right
 EndChar
 
 StartChar: zcaron.ext.up
-Encoding: 231 -1 225
+Encoding: 65676 -1 224
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4225,7 +4204,7 @@ Substitution2: "Single Substitution lookup 21 subtable" zcaron.ext.right
 EndChar
 
 StartChar: rcaron.ext.up
-Encoding: 232 -1 226
+Encoding: 65677 -1 225
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4244,7 +4223,7 @@ Substitution2: "Single Substitution lookup 21 subtable" rcaron.ext.right
 EndChar
 
 StartChar: b.ext.up
-Encoding: 233 -1 227
+Encoding: 65678 -1 226
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4264,7 +4243,7 @@ Substitution2: "Single Substitution lookup 21 subtable" b.ext.right
 EndChar
 
 StartChar: c.ext.up
-Encoding: 234 -1 228
+Encoding: 65679 -1 227
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4285,7 +4264,7 @@ Substitution2: "Single Substitution lookup 21 subtable" c.ext.right
 EndChar
 
 StartChar: equal.ext.up
-Encoding: 235 -1 229
+Encoding: 65680 -1 228
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4304,7 +4283,7 @@ Substitution2: "Single Substitution lookup 21 subtable" equal.ext.right
 EndChar
 
 StartChar: d.ext.up
-Encoding: 236 -1 230
+Encoding: 65681 -1 229
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4323,7 +4302,7 @@ Substitution2: "Single Substitution lookup 21 subtable" d.ext.right
 EndChar
 
 StartChar: D.ext.up
-Encoding: 237 -1 231
+Encoding: 65682 -1 230
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4343,7 +4322,7 @@ Substitution2: "Single Substitution lookup 21 subtable" D.ext.right
 EndChar
 
 StartChar: glottal.flip.ext.up
-Encoding: 238 -1 232
+Encoding: 65683 -1 231
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4361,7 +4340,7 @@ Substitution2: "Single Substitution lookup 21 subtable" glottal.flip.ext.right
 EndChar
 
 StartChar: approxequal.ext.up
-Encoding: 239 -1 233
+Encoding: 65684 -1 232
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4381,7 +4360,7 @@ Substitution2: "Single Substitution lookup 21 subtable" approxequal.ext.right
 EndChar
 
 StartChar: f.ext.up
-Encoding: 240 -1 234
+Encoding: 65685 -1 233
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4399,7 +4378,7 @@ Substitution2: "Single Substitution lookup 21 subtable" f.ext.right
 EndChar
 
 StartChar: g.ext.up
-Encoding: 241 -1 235
+Encoding: 65686 -1 234
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4418,7 +4397,7 @@ Substitution2: "Single Substitution lookup 21 subtable" g.ext.right
 EndChar
 
 StartChar: G.ext.up
-Encoding: 242 -1 236
+Encoding: 65687 -1 235
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4438,7 +4417,7 @@ Substitution2: "Single Substitution lookup 21 subtable" G.ext.right
 EndChar
 
 StartChar: h.ext.up
-Encoding: 243 -1 237
+Encoding: 65688 -1 236
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4457,7 +4436,7 @@ Substitution2: "Single Substitution lookup 21 subtable" h.ext.right
 EndChar
 
 StartChar: j.ext.up
-Encoding: 244 -1 238
+Encoding: 65689 -1 237
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4476,7 +4455,7 @@ Substitution2: "Single Substitution lookup 21 subtable" j.ext.right
 EndChar
 
 StartChar: k.ext.up
-Encoding: 245 -1 239
+Encoding: 65690 -1 238
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4495,7 +4474,7 @@ Substitution2: "Single Substitution lookup 21 subtable" k.ext.right
 EndChar
 
 StartChar: l.ext.up
-Encoding: 246 -1 240
+Encoding: 65691 -1 239
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4514,7 +4493,7 @@ Substitution2: "Single Substitution lookup 21 subtable" l.ext.right
 EndChar
 
 StartChar: m.ext.up
-Encoding: 247 -1 241
+Encoding: 65692 -1 240
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4532,7 +4511,7 @@ Substitution2: "Single Substitution lookup 21 subtable" m.ext.right
 EndChar
 
 StartChar: n.ext.up
-Encoding: 248 -1 242
+Encoding: 65693 -1 241
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4551,7 +4530,7 @@ Substitution2: "Single Substitution lookup 21 subtable" n.ext.right
 EndChar
 
 StartChar: p.ext.up
-Encoding: 249 -1 243
+Encoding: 65694 -1 242
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4570,7 +4549,7 @@ Substitution2: "Single Substitution lookup 21 subtable" p.ext.right
 EndChar
 
 StartChar: P.ext.up
-Encoding: 250 -1 244
+Encoding: 65695 -1 243
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4589,7 +4568,7 @@ Substitution2: "Single Substitution lookup 21 subtable" P.ext.right
 EndChar
 
 StartChar: r.upsidedown.ext.up
-Encoding: 251 -1 245
+Encoding: 65696 -1 244
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4608,7 +4587,7 @@ Substitution2: "Single Substitution lookup 21 subtable" r.upsidedown.ext.right
 EndChar
 
 StartChar: r.ext.up
-Encoding: 252 -1 246
+Encoding: 65697 -1 245
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4627,7 +4606,7 @@ Substitution2: "Single Substitution lookup 21 subtable" r.ext.right
 EndChar
 
 StartChar: s.ext.up
-Encoding: 253 -1 247
+Encoding: 65698 -1 246
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4645,7 +4624,7 @@ Substitution2: "Single Substitution lookup 21 subtable" s.ext.right
 EndChar
 
 StartChar: t.ext.up
-Encoding: 254 -1 248
+Encoding: 65699 -1 247
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4663,7 +4642,7 @@ Substitution2: "Single Substitution lookup 21 subtable" t.ext.right
 EndChar
 
 StartChar: v.ext.up
-Encoding: 255 -1 249
+Encoding: 65700 -1 248
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4682,7 +4661,7 @@ Substitution2: "Single Substitution lookup 21 subtable" v.ext.right
 EndChar
 
 StartChar: velar.ext.up
-Encoding: 256 -1 250
+Encoding: 65701 -1 249
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4700,7 +4679,7 @@ Substitution2: "Single Substitution lookup 21 subtable" velar.ext.right
 EndChar
 
 StartChar: w.ext.up
-Encoding: 257 -1 251
+Encoding: 65702 -1 250
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4721,7 +4700,7 @@ Substitution2: "Single Substitution lookup 21 subtable" w.ext.right
 EndChar
 
 StartChar: x.ext.up
-Encoding: 258 -1 252
+Encoding: 65703 -1 251
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4739,7 +4718,7 @@ Substitution2: "Single Substitution lookup 21 subtable" x.ext.right
 EndChar
 
 StartChar: y.ext.up
-Encoding: 259 -1 253
+Encoding: 65704 -1 252
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4758,7 +4737,7 @@ Substitution2: "Single Substitution lookup 21 subtable" y.ext.right
 EndChar
 
 StartChar: z.ext.up
-Encoding: 260 -1 254
+Encoding: 65705 -1 253
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4776,7 +4755,7 @@ Substitution2: "Single Substitution lookup 21 subtable" z.ext.right
 EndChar
 
 StartChar: glottal.ext.right
-Encoding: 301 -1 255
+Encoding: 65706 -1 254
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4794,7 +4773,7 @@ EndSplineSet
 EndChar
 
 StartChar: ncaron.ext.right
-Encoding: 302 -1 256
+Encoding: 65707 -1 255
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4809,7 +4788,7 @@ EndSplineSet
 EndChar
 
 StartChar: scaron.ext.right
-Encoding: 303 -1 257
+Encoding: 65708 -1 256
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4824,7 +4803,7 @@ EndSplineSet
 EndChar
 
 StartChar: ddotbelow.ext.right
-Encoding: 304 -1 258
+Encoding: 65709 -1 257
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4839,7 +4818,7 @@ EndSplineSet
 EndChar
 
 StartChar: tcedilla.ext.right
-Encoding: 305 -1 259
+Encoding: 65710 -1 258
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4853,7 +4832,7 @@ EndSplineSet
 EndChar
 
 StartChar: ccedilla.ext.right
-Encoding: 306 -1 260
+Encoding: 65711 -1 259
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4868,7 +4847,7 @@ EndSplineSet
 EndChar
 
 StartChar: ccaron.ext.right
-Encoding: 307 -1 261
+Encoding: 65712 -1 260
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4884,7 +4863,7 @@ EndSplineSet
 EndChar
 
 StartChar: lcedilla.ext.right
-Encoding: 308 -1 262
+Encoding: 65713 -1 261
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4899,7 +4878,7 @@ EndSplineSet
 EndChar
 
 StartChar: zdotaccent.ext.right
-Encoding: 309 -1 263
+Encoding: 65714 -1 262
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4914,7 +4893,7 @@ EndSplineSet
 EndChar
 
 StartChar: zcaron.ext.right
-Encoding: 310 -1 264
+Encoding: 65715 -1 263
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4931,7 +4910,7 @@ EndSplineSet
 EndChar
 
 StartChar: rcaron.ext.right
-Encoding: 311 -1 265
+Encoding: 65716 -1 264
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4946,7 +4925,7 @@ EndSplineSet
 EndChar
 
 StartChar: b.ext.right
-Encoding: 312 -1 266
+Encoding: 65717 -1 265
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4962,7 +4941,7 @@ EndSplineSet
 EndChar
 
 StartChar: c.ext.right
-Encoding: 313 -1 267
+Encoding: 65718 -1 266
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4979,7 +4958,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal.ext.right
-Encoding: 314 -1 268
+Encoding: 65719 -1 267
 Width: 320
 VWidth: 408
 Flags: HW
@@ -4993,7 +4972,7 @@ EndSplineSet
 EndChar
 
 StartChar: d.ext.right
-Encoding: 315 -1 269
+Encoding: 65720 -1 268
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5007,7 +4986,7 @@ EndSplineSet
 EndChar
 
 StartChar: D.ext.right
-Encoding: 316 -1 270
+Encoding: 65721 -1 269
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5022,7 +5001,7 @@ EndSplineSet
 EndChar
 
 StartChar: glottal.flip.ext.right
-Encoding: 317 -1 271
+Encoding: 65722 -1 270
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5036,7 +5015,7 @@ EndSplineSet
 EndChar
 
 StartChar: approxequal.ext.right
-Encoding: 318 -1 272
+Encoding: 65723 -1 271
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5050,7 +5029,7 @@ EndSplineSet
 EndChar
 
 StartChar: f.ext.right
-Encoding: 319 -1 273
+Encoding: 65724 -1 272
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5064,7 +5043,7 @@ EndSplineSet
 EndChar
 
 StartChar: g.ext.right
-Encoding: 320 -1 274
+Encoding: 65725 -1 273
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5079,7 +5058,7 @@ EndSplineSet
 EndChar
 
 StartChar: G.ext.right
-Encoding: 321 -1 275
+Encoding: 65726 -1 274
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5095,7 +5074,7 @@ EndSplineSet
 EndChar
 
 StartChar: h.ext.right
-Encoding: 322 -1 276
+Encoding: 65727 -1 275
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5110,7 +5089,7 @@ EndSplineSet
 EndChar
 
 StartChar: j.ext.right
-Encoding: 323 -1 277
+Encoding: 65728 -1 276
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5127,7 +5106,7 @@ EndSplineSet
 EndChar
 
 StartChar: k.ext.right
-Encoding: 324 -1 278
+Encoding: 65729 -1 277
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5143,7 +5122,7 @@ EndSplineSet
 EndChar
 
 StartChar: l.ext.right
-Encoding: 325 -1 279
+Encoding: 65730 -1 278
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5158,7 +5137,7 @@ EndSplineSet
 EndChar
 
 StartChar: m.ext.right
-Encoding: 326 -1 280
+Encoding: 65731 -1 279
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5172,7 +5151,7 @@ EndSplineSet
 EndChar
 
 StartChar: n.ext.right
-Encoding: 327 -1 281
+Encoding: 65732 -1 280
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5188,7 +5167,7 @@ EndSplineSet
 EndChar
 
 StartChar: p.ext.right
-Encoding: 328 -1 282
+Encoding: 65733 -1 281
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5202,7 +5181,7 @@ EndSplineSet
 EndChar
 
 StartChar: P.ext.right
-Encoding: 329 -1 283
+Encoding: 65734 -1 282
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5217,7 +5196,7 @@ EndSplineSet
 EndChar
 
 StartChar: r.upsidedown.ext.right
-Encoding: 330 -1 284
+Encoding: 65735 -1 283
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5234,7 +5213,7 @@ EndSplineSet
 EndChar
 
 StartChar: r.ext.right
-Encoding: 331 -1 285
+Encoding: 65736 -1 284
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5249,7 +5228,7 @@ EndSplineSet
 EndChar
 
 StartChar: s.ext.right
-Encoding: 332 -1 286
+Encoding: 65737 -1 285
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5263,7 +5242,7 @@ EndSplineSet
 EndChar
 
 StartChar: t.ext.right
-Encoding: 333 -1 287
+Encoding: 65738 -1 286
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5278,7 +5257,7 @@ EndSplineSet
 EndChar
 
 StartChar: v.ext.right
-Encoding: 334 -1 288
+Encoding: 65739 -1 287
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5293,7 +5272,7 @@ EndSplineSet
 EndChar
 
 StartChar: velar.ext.right
-Encoding: 335 -1 289
+Encoding: 65740 -1 288
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5307,7 +5286,7 @@ EndSplineSet
 EndChar
 
 StartChar: w.ext.right
-Encoding: 336 -1 290
+Encoding: 65741 -1 289
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5322,7 +5301,7 @@ EndSplineSet
 EndChar
 
 StartChar: x.ext.right
-Encoding: 337 -1 291
+Encoding: 65742 -1 290
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5336,7 +5315,7 @@ EndSplineSet
 EndChar
 
 StartChar: y.ext.right
-Encoding: 338 -1 292
+Encoding: 65743 -1 291
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5351,7 +5330,7 @@ EndSplineSet
 EndChar
 
 StartChar: z.ext.right
-Encoding: 339 -1 293
+Encoding: 65744 -1 292
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5365,7 +5344,7 @@ EndSplineSet
 EndChar
 
 StartChar: glottal.ext.down
-Encoding: 340 -1 294
+Encoding: 65745 -1 293
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5387,7 +5366,7 @@ Substitution2: "Single Substitution lookup 23 subtable" glottal.ext.right
 EndChar
 
 StartChar: ncaron.ext.down
-Encoding: 341 -1 295
+Encoding: 65746 -1 294
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5407,7 +5386,7 @@ Substitution2: "Single Substitution lookup 23 subtable" ncaron.ext.right
 EndChar
 
 StartChar: scaron.ext.down
-Encoding: 342 -1 296
+Encoding: 65747 -1 295
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5427,7 +5406,7 @@ Substitution2: "Single Substitution lookup 23 subtable" scaron.ext.right
 EndChar
 
 StartChar: ddotbelow.ext.down
-Encoding: 343 -1 297
+Encoding: 65748 -1 296
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5446,7 +5425,7 @@ Substitution2: "Single Substitution lookup 23 subtable" ddotbelow.ext.right
 EndChar
 
 StartChar: tcedilla.ext.down
-Encoding: 344 -1 298
+Encoding: 65749 -1 297
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5464,7 +5443,7 @@ Substitution2: "Single Substitution lookup 23 subtable" tcedilla.ext.right
 EndChar
 
 StartChar: ccedilla.ext.down
-Encoding: 345 -1 299
+Encoding: 65750 -1 298
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5483,7 +5462,7 @@ Substitution2: "Single Substitution lookup 23 subtable" ccedilla.ext.right
 EndChar
 
 StartChar: ccaron.ext.down
-Encoding: 346 -1 300
+Encoding: 65751 -1 299
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5502,7 +5481,7 @@ Substitution2: "Single Substitution lookup 23 subtable" ccaron.ext.right
 EndChar
 
 StartChar: lcedilla.ext.down
-Encoding: 347 -1 301
+Encoding: 65752 -1 300
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5520,7 +5499,7 @@ Substitution2: "Single Substitution lookup 23 subtable" lcedilla.ext.right
 EndChar
 
 StartChar: zdotaccent.ext.down
-Encoding: 348 -1 302
+Encoding: 65753 -1 301
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5539,7 +5518,7 @@ Substitution2: "Single Substitution lookup 23 subtable" zdotaccent.ext.right
 EndChar
 
 StartChar: zcaron.ext.down
-Encoding: 349 -1 303
+Encoding: 65754 -1 302
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5558,7 +5537,7 @@ Substitution2: "Single Substitution lookup 23 subtable" zcaron.ext.right
 EndChar
 
 StartChar: rcaron.ext.down
-Encoding: 350 -1 304
+Encoding: 65755 -1 303
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5577,7 +5556,7 @@ Substitution2: "Single Substitution lookup 23 subtable" rcaron.ext.right
 EndChar
 
 StartChar: b.ext.down
-Encoding: 351 -1 305
+Encoding: 65756 -1 304
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5597,7 +5576,7 @@ Substitution2: "Single Substitution lookup 23 subtable" b.ext.right
 EndChar
 
 StartChar: c.ext.down
-Encoding: 352 -1 306
+Encoding: 65757 -1 305
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5618,7 +5597,7 @@ Substitution2: "Single Substitution lookup 23 subtable" c.ext.right
 EndChar
 
 StartChar: equal.ext.down
-Encoding: 353 -1 307
+Encoding: 65758 -1 306
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5637,7 +5616,7 @@ Substitution2: "Single Substitution lookup 23 subtable" equal.ext.right
 EndChar
 
 StartChar: d.ext.down
-Encoding: 354 -1 308
+Encoding: 65759 -1 307
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5656,7 +5635,7 @@ Substitution2: "Single Substitution lookup 23 subtable" d.ext.right
 EndChar
 
 StartChar: D.ext.down
-Encoding: 355 -1 309
+Encoding: 65760 -1 308
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5676,7 +5655,7 @@ Substitution2: "Single Substitution lookup 23 subtable" D.ext.right
 EndChar
 
 StartChar: glottal.flip.ext.down
-Encoding: 356 -1 310
+Encoding: 65761 -1 309
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5694,7 +5673,7 @@ Substitution2: "Single Substitution lookup 23 subtable" glottal.flip.ext.right
 EndChar
 
 StartChar: approxequal.ext.down
-Encoding: 357 -1 311
+Encoding: 65762 -1 310
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5714,7 +5693,7 @@ Substitution2: "Single Substitution lookup 23 subtable" approxequal.ext.right
 EndChar
 
 StartChar: f.ext.down
-Encoding: 358 -1 312
+Encoding: 65763 -1 311
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5732,7 +5711,7 @@ Substitution2: "Single Substitution lookup 23 subtable" f.ext.right
 EndChar
 
 StartChar: g.ext.down
-Encoding: 359 -1 313
+Encoding: 65764 -1 312
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5751,7 +5730,7 @@ Substitution2: "Single Substitution lookup 23 subtable" g.ext.right
 EndChar
 
 StartChar: G.ext.down
-Encoding: 360 -1 314
+Encoding: 65765 -1 313
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5771,7 +5750,7 @@ Substitution2: "Single Substitution lookup 23 subtable" G.ext.right
 EndChar
 
 StartChar: h.ext.down
-Encoding: 361 -1 315
+Encoding: 65766 -1 314
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5790,7 +5769,7 @@ Substitution2: "Single Substitution lookup 23 subtable" h.ext.right
 EndChar
 
 StartChar: j.ext.down
-Encoding: 362 -1 316
+Encoding: 65767 -1 315
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5809,7 +5788,7 @@ Substitution2: "Single Substitution lookup 23 subtable" j.ext.right
 EndChar
 
 StartChar: k.ext.down
-Encoding: 363 -1 317
+Encoding: 65768 -1 316
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5828,7 +5807,7 @@ Substitution2: "Single Substitution lookup 23 subtable" k.ext.right
 EndChar
 
 StartChar: l.ext.down
-Encoding: 364 -1 318
+Encoding: 65769 -1 317
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5847,7 +5826,7 @@ Substitution2: "Single Substitution lookup 23 subtable" l.ext.right
 EndChar
 
 StartChar: m.ext.down
-Encoding: 365 -1 319
+Encoding: 65770 -1 318
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5865,7 +5844,7 @@ Substitution2: "Single Substitution lookup 23 subtable" m.ext.right
 EndChar
 
 StartChar: n.ext.down
-Encoding: 366 -1 320
+Encoding: 65771 -1 319
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5884,7 +5863,7 @@ Substitution2: "Single Substitution lookup 23 subtable" n.ext.right
 EndChar
 
 StartChar: p.ext.down
-Encoding: 367 -1 321
+Encoding: 65772 -1 320
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5903,7 +5882,7 @@ Substitution2: "Single Substitution lookup 23 subtable" p.ext.right
 EndChar
 
 StartChar: P.ext.down
-Encoding: 368 -1 322
+Encoding: 65773 -1 321
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5922,7 +5901,7 @@ Substitution2: "Single Substitution lookup 23 subtable" P.ext.right
 EndChar
 
 StartChar: r.upsidedown.ext.down
-Encoding: 369 -1 323
+Encoding: 65774 -1 322
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5941,7 +5920,7 @@ Substitution2: "Single Substitution lookup 23 subtable" r.upsidedown.ext.right
 EndChar
 
 StartChar: r.ext.down
-Encoding: 370 -1 324
+Encoding: 65775 -1 323
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5960,7 +5939,7 @@ Substitution2: "Single Substitution lookup 23 subtable" r.ext.right
 EndChar
 
 StartChar: s.ext.down
-Encoding: 371 -1 325
+Encoding: 65776 -1 324
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5978,7 +5957,7 @@ Substitution2: "Single Substitution lookup 23 subtable" s.ext.right
 EndChar
 
 StartChar: t.ext.down
-Encoding: 372 -1 326
+Encoding: 65777 -1 325
 Width: 320
 VWidth: 408
 Flags: HW
@@ -5996,7 +5975,7 @@ Substitution2: "Single Substitution lookup 23 subtable" t.ext.right
 EndChar
 
 StartChar: v.ext.down
-Encoding: 373 -1 327
+Encoding: 65778 -1 326
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6015,7 +5994,7 @@ Substitution2: "Single Substitution lookup 23 subtable" v.ext.right
 EndChar
 
 StartChar: velar.ext.down
-Encoding: 374 -1 328
+Encoding: 65779 -1 327
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6033,7 +6012,7 @@ Substitution2: "Single Substitution lookup 23 subtable" velar.ext.right
 EndChar
 
 StartChar: w.ext.down
-Encoding: 375 -1 329
+Encoding: 65780 -1 328
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6054,7 +6033,7 @@ Substitution2: "Single Substitution lookup 23 subtable" w.ext.right
 EndChar
 
 StartChar: x.ext.down
-Encoding: 376 -1 330
+Encoding: 65781 -1 329
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6072,7 +6051,7 @@ Substitution2: "Single Substitution lookup 23 subtable" x.ext.right
 EndChar
 
 StartChar: y.ext.down
-Encoding: 377 -1 331
+Encoding: 65782 -1 330
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6091,7 +6070,7 @@ Substitution2: "Single Substitution lookup 23 subtable" y.ext.right
 EndChar
 
 StartChar: z.ext.down
-Encoding: 378 -1 332
+Encoding: 65783 -1 331
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6109,14 +6088,14 @@ Substitution2: "Single Substitution lookup 23 subtable" z.ext.right
 EndChar
 
 StartChar: NameMe.386
-Encoding: 379 -1 333
+Encoding: 65784 -1 332
 Width: 320
 Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: glottal.ext.left
-Encoding: 419 -1 334
+Encoding: 65785 -1 333
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6134,7 +6113,7 @@ EndSplineSet
 EndChar
 
 StartChar: ncaron.ext.left
-Encoding: 420 -1 335
+Encoding: 65786 -1 334
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6149,7 +6128,7 @@ EndSplineSet
 EndChar
 
 StartChar: scaron.ext.left
-Encoding: 421 -1 336
+Encoding: 65787 -1 335
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6164,7 +6143,7 @@ EndSplineSet
 EndChar
 
 StartChar: ddotbelow.ext.left
-Encoding: 422 -1 337
+Encoding: 65788 -1 336
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6179,7 +6158,7 @@ EndSplineSet
 EndChar
 
 StartChar: tcedilla.ext.left
-Encoding: 423 -1 338
+Encoding: 65789 -1 337
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6193,7 +6172,7 @@ EndSplineSet
 EndChar
 
 StartChar: ccedilla.ext.left
-Encoding: 424 -1 339
+Encoding: 65790 -1 338
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6208,7 +6187,7 @@ EndSplineSet
 EndChar
 
 StartChar: ccaron.ext.left
-Encoding: 425 -1 340
+Encoding: 65791 -1 339
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6224,7 +6203,7 @@ EndSplineSet
 EndChar
 
 StartChar: lcedilla.ext.left
-Encoding: 426 -1 341
+Encoding: 65792 -1 340
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6239,7 +6218,7 @@ EndSplineSet
 EndChar
 
 StartChar: zdotaccent.ext.left
-Encoding: 427 -1 342
+Encoding: 65793 -1 341
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6254,7 +6233,7 @@ EndSplineSet
 EndChar
 
 StartChar: zcaron.ext.left
-Encoding: 428 -1 343
+Encoding: 65794 -1 342
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6271,7 +6250,7 @@ EndSplineSet
 EndChar
 
 StartChar: rcaron.ext.left
-Encoding: 429 -1 344
+Encoding: 65795 -1 343
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6286,7 +6265,7 @@ EndSplineSet
 EndChar
 
 StartChar: b.ext.left
-Encoding: 430 -1 345
+Encoding: 65796 -1 344
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6302,7 +6281,7 @@ EndSplineSet
 EndChar
 
 StartChar: c.ext.left
-Encoding: 431 -1 346
+Encoding: 65797 -1 345
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6319,7 +6298,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal.ext.left
-Encoding: 432 -1 347
+Encoding: 65798 -1 346
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6333,7 +6312,7 @@ EndSplineSet
 EndChar
 
 StartChar: d.ext.left
-Encoding: 433 -1 348
+Encoding: 65799 -1 347
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6347,7 +6326,7 @@ EndSplineSet
 EndChar
 
 StartChar: D.ext.left
-Encoding: 434 -1 349
+Encoding: 65800 -1 348
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6362,7 +6341,7 @@ EndSplineSet
 EndChar
 
 StartChar: glottal.flip.ext.left
-Encoding: 435 -1 350
+Encoding: 65801 -1 349
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6376,7 +6355,7 @@ EndSplineSet
 EndChar
 
 StartChar: approxequal.ext.left
-Encoding: 436 -1 351
+Encoding: 65802 -1 350
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6390,7 +6369,7 @@ EndSplineSet
 EndChar
 
 StartChar: f.ext.left
-Encoding: 437 -1 352
+Encoding: 65803 -1 351
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6404,7 +6383,7 @@ EndSplineSet
 EndChar
 
 StartChar: g.ext.left
-Encoding: 438 -1 353
+Encoding: 65804 -1 352
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6419,7 +6398,7 @@ EndSplineSet
 EndChar
 
 StartChar: G.ext.left
-Encoding: 439 -1 354
+Encoding: 65805 -1 353
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6435,7 +6414,7 @@ EndSplineSet
 EndChar
 
 StartChar: h.ext.left
-Encoding: 440 -1 355
+Encoding: 65806 -1 354
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6450,7 +6429,7 @@ EndSplineSet
 EndChar
 
 StartChar: j.ext.left
-Encoding: 441 -1 356
+Encoding: 65807 -1 355
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6467,7 +6446,7 @@ EndSplineSet
 EndChar
 
 StartChar: k.ext.left
-Encoding: 442 -1 357
+Encoding: 65808 -1 356
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6483,7 +6462,7 @@ EndSplineSet
 EndChar
 
 StartChar: l.ext.left
-Encoding: 443 -1 358
+Encoding: 65809 -1 357
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6498,7 +6477,7 @@ EndSplineSet
 EndChar
 
 StartChar: m.ext.left
-Encoding: 444 -1 359
+Encoding: 65810 -1 358
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6512,7 +6491,7 @@ EndSplineSet
 EndChar
 
 StartChar: n.ext.left
-Encoding: 445 -1 360
+Encoding: 65811 -1 359
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6528,7 +6507,7 @@ EndSplineSet
 EndChar
 
 StartChar: p.ext.left
-Encoding: 446 -1 361
+Encoding: 65812 -1 360
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6542,7 +6521,7 @@ EndSplineSet
 EndChar
 
 StartChar: P.ext.left
-Encoding: 447 -1 362
+Encoding: 65813 -1 361
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6557,7 +6536,7 @@ EndSplineSet
 EndChar
 
 StartChar: r.upsidedown.ext.left
-Encoding: 448 -1 363
+Encoding: 65814 -1 362
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6574,7 +6553,7 @@ EndSplineSet
 EndChar
 
 StartChar: r.ext.left
-Encoding: 449 -1 364
+Encoding: 65815 -1 363
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6589,7 +6568,7 @@ EndSplineSet
 EndChar
 
 StartChar: s.ext.left
-Encoding: 450 -1 365
+Encoding: 65816 -1 364
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6603,7 +6582,7 @@ EndSplineSet
 EndChar
 
 StartChar: t.ext.left
-Encoding: 451 -1 366
+Encoding: 65817 -1 365
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6618,7 +6597,7 @@ EndSplineSet
 EndChar
 
 StartChar: v.ext.left
-Encoding: 452 -1 367
+Encoding: 65818 -1 366
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6633,7 +6612,7 @@ EndSplineSet
 EndChar
 
 StartChar: velar.ext.left
-Encoding: 453 -1 368
+Encoding: 65819 -1 367
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6647,7 +6626,7 @@ EndSplineSet
 EndChar
 
 StartChar: w.ext.left
-Encoding: 454 -1 369
+Encoding: 65820 -1 368
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6662,7 +6641,7 @@ EndSplineSet
 EndChar
 
 StartChar: x.ext.left
-Encoding: 455 -1 370
+Encoding: 65821 -1 369
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6676,7 +6655,7 @@ EndSplineSet
 EndChar
 
 StartChar: y.ext.left
-Encoding: 456 -1 371
+Encoding: 65822 -1 370
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6691,7 +6670,7 @@ EndSplineSet
 EndChar
 
 StartChar: z.ext.left
-Encoding: 457 -1 372
+Encoding: 65823 -1 371
 Width: 320
 VWidth: 408
 Flags: HW
@@ -6705,7 +6684,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciicircum.diacritic.extraup
-Encoding: 458 -1 373
+Encoding: 65824 -1 372
 Width: 0
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 360 basemark 0
@@ -6716,7 +6695,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: underscore.diacritic.extradown
-Encoding: 459 -1 374
+Encoding: 65825 -1 373
 Width: 0
 Flags: HW
 AnchorPoint: "Diacritic_mkmk" 0 -80 basemark 0
@@ -6727,7 +6706,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: register.standard.CGT
-Encoding: 460 -1 375
+Encoding: 65826 -1 374
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6742,7 +6721,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.standard.DSV
-Encoding: 461 -1 376
+Encoding: 65827 -1 375
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6759,7 +6738,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.standard.EXM
-Encoding: 462 -1 377
+Encoding: 65828 -1 376
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6774,7 +6753,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.standard.NRR
-Encoding: 463 -1 378
+Encoding: 65829 -1 377
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6783,7 +6762,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.standard.PNT
-Encoding: 464 -1 379
+Encoding: 65830 -1 378
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6799,7 +6778,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.standard.SPF
-Encoding: 465 -1 380
+Encoding: 65831 -1 379
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6815,7 +6794,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.alphabet.CGT
-Encoding: 466 -1 381
+Encoding: 65832 -1 380
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6834,7 +6813,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.alphabet.DSV
-Encoding: 467 -1 382
+Encoding: 65833 -1 381
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6856,7 +6835,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.alphabet.EXM
-Encoding: 468 -1 383
+Encoding: 65834 -1 382
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6875,7 +6854,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.alphabet.NRR
-Encoding: 469 -1 384
+Encoding: 65835 -1 383
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6897,7 +6876,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.alphabet.PNT
-Encoding: 470 -1 385
+Encoding: 65836 -1 384
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6911,7 +6890,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.alphabet.SPF
-Encoding: 471 -1 386
+Encoding: 65837 -1 385
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6927,7 +6906,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.transcript.CGT
-Encoding: 472 -1 387
+Encoding: 65838 -1 386
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6947,7 +6926,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.transcript.DSV
-Encoding: 473 -1 388
+Encoding: 65839 -1 387
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6974,7 +6953,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.transcript.EXM
-Encoding: 474 -1 389
+Encoding: 65840 -1 388
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -6994,7 +6973,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.transcript.NRR
-Encoding: 475 -1 390
+Encoding: 65841 -1 389
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -7021,7 +7000,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.transcript.PNT
-Encoding: 476 -1 391
+Encoding: 65842 -1 390
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -7036,7 +7015,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.transcript.SPF
-Encoding: 477 -1 392
+Encoding: 65843 -1 391
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -7057,7 +7036,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.translit.CGT
-Encoding: 478 -1 393
+Encoding: 65844 -1 392
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -7077,7 +7056,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.translit.DSV
-Encoding: 479 -1 394
+Encoding: 65845 -1 393
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -7092,7 +7071,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.translit.EXM
-Encoding: 480 -1 395
+Encoding: 65846 -1 394
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -7112,7 +7091,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.translit.NRR
-Encoding: 481 -1 396
+Encoding: 65847 -1 395
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -7127,7 +7106,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.translit.PNT
-Encoding: 482 -1 397
+Encoding: 65848 -1 396
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -7142,7 +7121,7 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: register.translit.SPF
-Encoding: 483 -1 398
+Encoding: 65849 -1 397
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -7163,14 +7142,14 @@ LCarets2: 2 80 80
 EndChar
 
 StartChar: NameMe.496
-Encoding: 484 -1 399
+Encoding: 65850 -1 398
 Width: 160
 Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: periodcentered
-Encoding: 55 183 400
+Encoding: 183 183 399
 Width: 160
 Flags: HW
 LayerCount: 2
@@ -7185,7 +7164,7 @@ EndSplineSet
 EndChar
 
 StartChar: colon.flip
-Encoding: 485 -1 401
+Encoding: 65851 -1 400
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_right" 260 240 basechar 0
@@ -7207,7 +7186,7 @@ LCarets2: 1 320
 EndChar
 
 StartChar: zero.ten_coll
-Encoding: 486 -1 402
+Encoding: 65852 -1 401
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 60 mark 0
@@ -7215,7 +7194,7 @@ LayerCount: 2
 EndChar
 
 StartChar: one.ten_coll
-Encoding: 487 -1 403
+Encoding: 65853 -1 402
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -7229,7 +7208,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.ten_coll
-Encoding: 488 -1 404
+Encoding: 65854 -1 403
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -7242,7 +7221,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.ten_coll
-Encoding: 489 -1 405
+Encoding: 65855 -1 404
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -7256,7 +7235,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.ten_coll
-Encoding: 490 -1 406
+Encoding: 65856 -1 405
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -7270,7 +7249,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.ten_coll
-Encoding: 491 -1 407
+Encoding: 65857 -1 406
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -7284,7 +7263,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.ten_coll
-Encoding: 492 -1 408
+Encoding: 65858 -1 407
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -7299,7 +7278,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.ten_coll
-Encoding: 493 -1 409
+Encoding: 65859 -1 408
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -7320,7 +7299,7 @@ Substitution2: "Single Substitution lookup 32 subtable" seven.ten_deep
 EndChar
 
 StartChar: eight.ten_coll
-Encoding: 494 -1 410
+Encoding: 65860 -1 409
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -7336,7 +7315,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.ten_coll
-Encoding: 495 -1 411
+Encoding: 65861 -1 410
 Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 0 384 mark 0
@@ -7352,7 +7331,7 @@ Substitution2: "Single Substitution lookup 34 subtable" nine.ten_deep
 EndChar
 
 StartChar: seven.ten_deep
-Encoding: 496 -1 412
+Encoding: 65862 -1 411
 Width: 0
 VWidth: 2048
 Flags: HW
@@ -7370,7 +7349,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.ten_deep
-Encoding: 497 -1 413
+Encoding: 65863 -1 412
 Width: 0
 VWidth: 2048
 Flags: HW
@@ -7385,7 +7364,7 @@ EndSplineSet
 EndChar
 
 StartChar: Z.flip
-Encoding: 498 -1 414
+Encoding: 65864 -1 413
 Width: 320
 Flags: HW
 AnchorPoint: "Diacritic_left" 0 140 basechar 0
@@ -7404,6 +7383,28 @@ SplineSet
 EndSplineSet
 Ligature2: "FlipCores subtable" Z quotesingle
 LCarets2: 1 0
+EndChar
+
+StartChar: esh
+Encoding: 425 425 414
+Width: 320
+Flags: HW
+AnchorPoint: "Diacritic_up" 160 360 basechar 0
+AnchorPoint: "Diacritic_down" 160 -60 basechar 0
+AnchorPoint: "Extension_down" 270 0 basechar 0
+AnchorPoint: "Extension_up" 248 280 basechar 0
+AnchorPoint: "Diacritic_left" 60 100 basechar 0
+AnchorPoint: "Diacritic_right" 180 220 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+270 0 m 1
+ 50 0 l 1
+ 170 140 l 1
+ 103 148 53 176 53 210 c 0
+ 53 250 123 282 210 282 c 0
+ 224 282 237 282 250 280 c 1024
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
