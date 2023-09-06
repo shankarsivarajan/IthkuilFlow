@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1676795389
-ModificationTime: 1693958729
+ModificationTime: 1694018625
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -163,7 +163,7 @@ ChainSub2: coverage "ExtensionShape contextual 7" 0 0 0 1
   BCoverage: 10 underscore
   BCoverage: 2112 glottal.ext.right ncaron.ext.right scaron.ext.right ddotbelow.ext.right tcedilla.ext.right ccedilla.ext.right ccaron.ext.right lcedilla.ext.right zdotaccent.ext.right zcaron.ext.right rcaron.ext.right b.ext.right c.ext.right equal.ext.right d.ext.right D.ext.right glottal.flip.ext.right approxequal.ext.right f.ext.right g.ext.right G.ext.right h.ext.right j.ext.right k.ext.right l.ext.right m.ext.right n.ext.right p.ext.right P.ext.right r.upsidedown.ext.right r.ext.right s.ext.right t.ext.right v.ext.right velar.ext.right w.ext.right x.ext.right y.ext.right z.ext.right glottal.ext.left ncaron.ext.left scaron.ext.left ddotbelow.ext.left tcedilla.ext.left ccedilla.ext.left ccaron.ext.left lcedilla.ext.left zdotaccent.ext.left zcaron.ext.left rcaron.ext.left b.ext.left c.ext.left equal.ext.left d.ext.left D.ext.left glottal.flip.ext.left approxequal.ext.left f.ext.left g.ext.left G.ext.left h.ext.left j.ext.left k.ext.left l.ext.left m.ext.left n.ext.left p.ext.left P.ext.left r.upsidedown.ext.left r.ext.left s.ext.left t.ext.left v.ext.left velar.ext.left w.ext.left x.ext.left y.ext.left z.ext.left glottal.ext.up ncaron.ext.up scaron.ext.up ddotbelow.ext.up tcedilla.ext.up ccedilla.ext.up ccaron.ext.up lcedilla.ext.up zdotaccent.ext.up zcaron.ext.up rcaron.ext.up b.ext.up c.ext.up equal.ext.up d.ext.up D.ext.up glottal.flip.ext.up approxequal.ext.up f.ext.up g.ext.up G.ext.up h.ext.up j.ext.up k.ext.up l.ext.up m.ext.up n.ext.up p.ext.up P.ext.up r.upsidedown.ext.up r.ext.up s.ext.up t.ext.up v.ext.up velar.ext.up w.ext.up x.ext.up y.ext.up z.ext.up glottal.ext.down ncaron.ext.down scaron.ext.down ddotbelow.ext.down tcedilla.ext.down ccedilla.ext.down ccaron.ext.down lcedilla.ext.down zdotaccent.ext.down zcaron.ext.down rcaron.ext.down b.ext.down c.ext.down equal.ext.down d.ext.down D.ext.down glottal.flip.ext.down approxequal.ext.down f.ext.down g.ext.down G.ext.down h.ext.down j.ext.down k.ext.down l.ext.down m.ext.down n.ext.down p.ext.down P.ext.down r.upsidedown.ext.down r.ext.down s.ext.down t.ext.down v.ext.down velar.ext.down w.ext.down x.ext.down y.ext.down z.ext.down
   BCoverage: 11 asciicircum
-  BCoverage: 133 esh.flip b.flip d.flip f.flip g.flip j.flip k.flip p.flip t.flip v.flip x.flip ccedilla.flip ccaron.flip tcedilla.flip ddotbelow.flip
+  BCoverage: 135 v esh.flip b.flip d.flip f.flip g.flip j.flip k.flip p.flip t.flip v.flip x.flip ccedilla.flip ccaron.flip tcedilla.flip ddotbelow.flip
  1
   SeqLookup: 0 "Single Substitution lookup 28"
 EndFPST
@@ -173,7 +173,7 @@ ChainSub2: coverage "ExtensionShape contextual 6" 0 0 0 1
   BCoverage: 10 underscore
   BCoverage: 2112 glottal.ext.right ncaron.ext.right scaron.ext.right ddotbelow.ext.right tcedilla.ext.right ccedilla.ext.right ccaron.ext.right lcedilla.ext.right zdotaccent.ext.right zcaron.ext.right rcaron.ext.right b.ext.right c.ext.right equal.ext.right d.ext.right D.ext.right glottal.flip.ext.right approxequal.ext.right f.ext.right g.ext.right G.ext.right h.ext.right j.ext.right k.ext.right l.ext.right m.ext.right n.ext.right p.ext.right P.ext.right r.upsidedown.ext.right r.ext.right s.ext.right t.ext.right v.ext.right velar.ext.right w.ext.right x.ext.right y.ext.right z.ext.right glottal.ext.left ncaron.ext.left scaron.ext.left ddotbelow.ext.left tcedilla.ext.left ccedilla.ext.left ccaron.ext.left lcedilla.ext.left zdotaccent.ext.left zcaron.ext.left rcaron.ext.left b.ext.left c.ext.left equal.ext.left d.ext.left D.ext.left glottal.flip.ext.left approxequal.ext.left f.ext.left g.ext.left G.ext.left h.ext.left j.ext.left k.ext.left l.ext.left m.ext.left n.ext.left p.ext.left P.ext.left r.upsidedown.ext.left r.ext.left s.ext.left t.ext.left v.ext.left velar.ext.left w.ext.left x.ext.left y.ext.left z.ext.left glottal.ext.up ncaron.ext.up scaron.ext.up ddotbelow.ext.up tcedilla.ext.up ccedilla.ext.up ccaron.ext.up lcedilla.ext.up zdotaccent.ext.up zcaron.ext.up rcaron.ext.up b.ext.up c.ext.up equal.ext.up d.ext.up D.ext.up glottal.flip.ext.up approxequal.ext.up f.ext.up g.ext.up G.ext.up h.ext.up j.ext.up k.ext.up l.ext.up m.ext.up n.ext.up p.ext.up P.ext.up r.upsidedown.ext.up r.ext.up s.ext.up t.ext.up v.ext.up velar.ext.up w.ext.up x.ext.up y.ext.up z.ext.up glottal.ext.down ncaron.ext.down scaron.ext.down ddotbelow.ext.down tcedilla.ext.down ccedilla.ext.down ccaron.ext.down lcedilla.ext.down zdotaccent.ext.down zcaron.ext.down rcaron.ext.down b.ext.down c.ext.down equal.ext.down d.ext.down D.ext.down glottal.flip.ext.down approxequal.ext.down f.ext.down g.ext.down G.ext.down h.ext.down j.ext.down k.ext.down l.ext.down m.ext.down n.ext.down p.ext.down P.ext.down r.upsidedown.ext.down r.ext.down s.ext.down t.ext.down v.ext.down velar.ext.down w.ext.down x.ext.down y.ext.down z.ext.down
   BCoverage: 11 asciicircum
-  BCoverage: 129 backslash colon parenright Z Z.flip esh c k j l r s x z ccaron ccedilla rcaron scaron zdotaccent zcaron r.flip z.flip rcaron.flip
+  BCoverage: 138 backslash colon parenright Z Z.flip esh c k j l r s x z ccaron ccedilla lcedilla rcaron scaron zdotaccent zcaron r.flip z.flip rcaron.flip
  1
   SeqLookup: 0 "Single Substitution lookup 27"
 EndFPST
@@ -193,7 +193,7 @@ ChainSub2: coverage "ExtensionShape contextual 4" 0 0 0 1
   BCoverage: 11 asciicircum
   BCoverage: 2112 glottal.ext.right ncaron.ext.right scaron.ext.right ddotbelow.ext.right tcedilla.ext.right ccedilla.ext.right ccaron.ext.right lcedilla.ext.right zdotaccent.ext.right zcaron.ext.right rcaron.ext.right b.ext.right c.ext.right equal.ext.right d.ext.right D.ext.right glottal.flip.ext.right approxequal.ext.right f.ext.right g.ext.right G.ext.right h.ext.right j.ext.right k.ext.right l.ext.right m.ext.right n.ext.right p.ext.right P.ext.right r.upsidedown.ext.right r.ext.right s.ext.right t.ext.right v.ext.right velar.ext.right w.ext.right x.ext.right y.ext.right z.ext.right glottal.ext.left ncaron.ext.left scaron.ext.left ddotbelow.ext.left tcedilla.ext.left ccedilla.ext.left ccaron.ext.left lcedilla.ext.left zdotaccent.ext.left zcaron.ext.left rcaron.ext.left b.ext.left c.ext.left equal.ext.left d.ext.left D.ext.left glottal.flip.ext.left approxequal.ext.left f.ext.left g.ext.left G.ext.left h.ext.left j.ext.left k.ext.left l.ext.left m.ext.left n.ext.left p.ext.left P.ext.left r.upsidedown.ext.left r.ext.left s.ext.left t.ext.left v.ext.left velar.ext.left w.ext.left x.ext.left y.ext.left z.ext.left glottal.ext.up ncaron.ext.up scaron.ext.up ddotbelow.ext.up tcedilla.ext.up ccedilla.ext.up ccaron.ext.up lcedilla.ext.up zdotaccent.ext.up zcaron.ext.up rcaron.ext.up b.ext.up c.ext.up equal.ext.up d.ext.up D.ext.up glottal.flip.ext.up approxequal.ext.up f.ext.up g.ext.up G.ext.up h.ext.up j.ext.up k.ext.up l.ext.up m.ext.up n.ext.up p.ext.up P.ext.up r.upsidedown.ext.up r.ext.up s.ext.up t.ext.up v.ext.up velar.ext.up w.ext.up x.ext.up y.ext.up z.ext.up glottal.ext.down ncaron.ext.down scaron.ext.down ddotbelow.ext.down tcedilla.ext.down ccedilla.ext.down ccaron.ext.down lcedilla.ext.down zdotaccent.ext.down zcaron.ext.down rcaron.ext.down b.ext.down c.ext.down equal.ext.down d.ext.down D.ext.down glottal.flip.ext.down approxequal.ext.down f.ext.down g.ext.down G.ext.down h.ext.down j.ext.down k.ext.down l.ext.down m.ext.down n.ext.down p.ext.down P.ext.down r.upsidedown.ext.down r.ext.down s.ext.down t.ext.down v.ext.down velar.ext.down w.ext.down x.ext.down y.ext.down z.ext.down
   BCoverage: 10 underscore
-  BCoverage: 58 esh b d f g j k p t v x ccedilla ccaron tcedilla ddotbelow
+  BCoverage: 65 esh b d f g j k p t v x ccedilla ccaron tcedilla ddotbelow v.flip
  1
   SeqLookup: 0 "Single Substitution lookup 25"
 EndFPST
@@ -201,7 +201,7 @@ ChainSub2: coverage "ExtensionShape contextual 3" 0 0 0 1
  1 2 0
   Coverage: 537 glottal.ext.down ncaron.ext.down scaron.ext.down ddotbelow.ext.down tcedilla.ext.down ccedilla.ext.down ccaron.ext.down lcedilla.ext.down zdotaccent.ext.down zcaron.ext.down rcaron.ext.down b.ext.down c.ext.down equal.ext.down d.ext.down D.ext.down glottal.flip.ext.down approxequal.ext.down f.ext.down g.ext.down G.ext.down h.ext.down j.ext.down k.ext.down l.ext.down m.ext.down n.ext.down p.ext.down P.ext.down r.upsidedown.ext.down r.ext.down s.ext.down t.ext.down v.ext.down velar.ext.down w.ext.down x.ext.down y.ext.down z.ext.down
   BCoverage: 10 underscore
-  BCoverage: 133 esh.flip b.flip d.flip f.flip g.flip j.flip k.flip p.flip t.flip v.flip x.flip ccedilla.flip ccaron.flip tcedilla.flip ddotbelow.flip
+  BCoverage: 135 v esh.flip b.flip d.flip f.flip g.flip j.flip k.flip p.flip t.flip v.flip x.flip ccedilla.flip ccaron.flip tcedilla.flip ddotbelow.flip
  1
   SeqLookup: 0 "Single Substitution lookup 24"
 EndFPST
@@ -209,7 +209,7 @@ ChainSub2: coverage "ExtensionShape contextual 2" 0 0 0 1
  1 2 0
   Coverage: 537 glottal.ext.down ncaron.ext.down scaron.ext.down ddotbelow.ext.down tcedilla.ext.down ccedilla.ext.down ccaron.ext.down lcedilla.ext.down zdotaccent.ext.down zcaron.ext.down rcaron.ext.down b.ext.down c.ext.down equal.ext.down d.ext.down D.ext.down glottal.flip.ext.down approxequal.ext.down f.ext.down g.ext.down G.ext.down h.ext.down j.ext.down k.ext.down l.ext.down m.ext.down n.ext.down p.ext.down P.ext.down r.upsidedown.ext.down r.ext.down s.ext.down t.ext.down v.ext.down velar.ext.down w.ext.down x.ext.down y.ext.down z.ext.down
   BCoverage: 10 underscore
-  BCoverage: 129 backslash colon parenright Z Z.flip esh c k j l r s x z ccaron ccedilla rcaron scaron zdotaccent zcaron r.flip z.flip rcaron.flip
+  BCoverage: 138 backslash colon parenright Z Z.flip esh c k j l r s x z ccaron ccedilla lcedilla rcaron scaron zdotaccent zcaron r.flip z.flip rcaron.flip
  1
   SeqLookup: 0 "Single Substitution lookup 23"
 EndFPST
@@ -225,7 +225,7 @@ ChainSub2: coverage "ExtensionShape contextual 0" 0 0 0 1
  1 2 0
   Coverage: 459 glottal.ext.up ncaron.ext.up scaron.ext.up ddotbelow.ext.up tcedilla.ext.up ccedilla.ext.up ccaron.ext.up lcedilla.ext.up zdotaccent.ext.up zcaron.ext.up rcaron.ext.up b.ext.up c.ext.up equal.ext.up d.ext.up D.ext.up glottal.flip.ext.up approxequal.ext.up f.ext.up g.ext.up G.ext.up h.ext.up j.ext.up k.ext.up l.ext.up m.ext.up n.ext.up p.ext.up P.ext.up r.upsidedown.ext.up r.ext.up s.ext.up t.ext.up v.ext.up velar.ext.up w.ext.up x.ext.up y.ext.up z.ext.up
   BCoverage: 11 asciicircum
-  BCoverage: 58 esh b d f g j k p t v x ccedilla ccaron tcedilla ddotbelow
+  BCoverage: 65 esh b d f g j k p t v x ccedilla ccaron tcedilla ddotbelow v.flip
  1
   SeqLookup: 0 "Single Substitution lookup 21"
 EndFPST
@@ -306,7 +306,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 18 7
+WinInfo: 84 12 5
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -1488,7 +1488,7 @@ EndChar
 StartChar: nine
 Encoding: 57 57 60
 Width: 320
-Flags: HWO
+Flags: HW
 HStem: -222 84G<240 277> -12 80G<375 411>
 VStem: 240 37<-185 -148> 375 37<-49 31>
 AnchorPoint: "Diacritic_left" 130 230 basechar 0
@@ -1653,7 +1653,7 @@ AnchorPoint: "Diacritic_left" 120 140 basechar 0
 AnchorPoint: "Diacritic_up" 160 360 basechar 0
 AnchorPoint: "Diacritic_down" 160 -60 basechar 0
 AnchorPoint: "Extension_down" 60 0 basechar 0
-AnchorPoint: "Extension_up" 260 280 basechar 0
+AnchorPoint: "Extension_up" 60 280 basechar 0
 LayerCount: 2
 Fore
 SplineSet
