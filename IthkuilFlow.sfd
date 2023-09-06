@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1676795389
-ModificationTime: 1693947316
+ModificationTime: 1693958765
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -306,7 +306,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 75 15 6
+WinInfo: 0 15 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -2158,7 +2158,7 @@ HStem: -222 84G<240 249> -12 80G<372 409>
 VStem: 240 37<-185 -142> 372 37<-12 31>
 AnchorPoint: "Extension_down" 80 0 basechar 0
 AnchorPoint: "Extension_up" 240 280 basechar 0
-AnchorPoint: "Diacritic_left" 80 280 basechar 0
+AnchorPoint: "Diacritic_left" 130 230 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2189,7 +2189,7 @@ Width: 320
 Flags: HW
 HStem: -222 84G<240 277> -12 80G<370 407>
 VStem: 370 37<-174 31>
-AnchorPoint: "Diacritic_left" 80 280 basechar 0
+AnchorPoint: "Diacritic_left" 130 230 basechar 0
 AnchorPoint: "Extension_down" 80 0 basechar 0
 AnchorPoint: "Extension_up" 240 280 basechar 0
 LayerCount: 2
@@ -2223,7 +2223,7 @@ StartChar: two
 Encoding: 50 50 53
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_left" 80 280 basechar 0
+AnchorPoint: "Diacritic_left" 130 230 basechar 0
 AnchorPoint: "Extension_down" 80 0 basechar 0
 AnchorPoint: "Extension_up" 240 280 basechar 0
 LayerCount: 2
@@ -2276,7 +2276,7 @@ Width: 320
 Flags: HW
 HStem: -222 84G<240 277> -131 80G<257 330> -12 80G<363 400>
 VStem: 240 37<-185 -171> 363 37<7 31>
-AnchorPoint: "Diacritic_left" 80 280 basechar 0
+AnchorPoint: "Diacritic_left" 130 230 basechar 0
 AnchorPoint: "Extension_up" 240 280 basechar 0
 AnchorPoint: "Extension_down" 80 0 basechar 0
 LayerCount: 2
@@ -2318,7 +2318,7 @@ StartChar: four
 Encoding: 52 52 55
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_left" 80 280 basechar 0
+AnchorPoint: "Diacritic_left" 130 230 basechar 0
 AnchorPoint: "Extension_up" 240 280 basechar 0
 AnchorPoint: "Extension_down" 80 0 basechar 0
 LayerCount: 2
@@ -2352,7 +2352,7 @@ StartChar: five
 Encoding: 53 53 56
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_left" 80 280 basechar 0
+AnchorPoint: "Diacritic_left" 130 230 basechar 0
 AnchorPoint: "Extension_up" 240 280 basechar 0
 AnchorPoint: "Extension_down" 80 0 basechar 0
 LayerCount: 2
@@ -2389,7 +2389,7 @@ Width: 320
 Flags: HW
 HStem: -222 84G<240 277> -129 80G<317 414> -70 84G<332 339> -12 80G<372 409>
 VStem: 372 37<7 31>
-AnchorPoint: "Diacritic_left" 80 280 basechar 0
+AnchorPoint: "Diacritic_left" 130 230 basechar 0
 AnchorPoint: "Extension_up" 240 280 basechar 0
 AnchorPoint: "Extension_down" 80 0 basechar 0
 LayerCount: 2
@@ -2436,7 +2436,7 @@ StartChar: seven
 Encoding: 55 55 58
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_left" 80 280 basechar 0
+AnchorPoint: "Diacritic_left" 130 230 basechar 0
 AnchorPoint: "Extension_up" 240 280 basechar 0
 AnchorPoint: "Extension_down" 80 0 basechar 0
 LayerCount: 2
@@ -2470,7 +2470,7 @@ StartChar: eight
 Encoding: 56 56 59
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_left" 80 280 basechar 0
+AnchorPoint: "Diacritic_left" 130 230 basechar 0
 AnchorPoint: "Extension_up" 240 280 basechar 0
 AnchorPoint: "Extension_down" 80 0 basechar 0
 LayerCount: 2
@@ -2509,7 +2509,7 @@ Width: 320
 Flags: HW
 HStem: -222 84G<240 277> -12 80G<375 411>
 VStem: 240 37<-185 -148> 375 37<-49 31>
-AnchorPoint: "Diacritic_left" 80 280 basechar 0
+AnchorPoint: "Diacritic_left" 130 230 basechar 0
 AnchorPoint: "Extension_up" 240 280 basechar 0
 AnchorPoint: "Extension_down" 80 0 basechar 0
 LayerCount: 2
@@ -4217,7 +4217,7 @@ StartChar: one.thou
 Encoding: 65586 -1 106
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
+AnchorPoint: "Diacritic_mkmk" 40 384 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4237,7 +4237,7 @@ StartChar: two.thou
 Encoding: 65587 -1 107
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
+AnchorPoint: "Diacritic_mkmk" 30 366 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4261,7 +4261,7 @@ StartChar: three.thou
 Encoding: 65588 -1 108
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
+AnchorPoint: "Diacritic_mkmk" 30 354 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4279,7 +4279,7 @@ StartChar: four.thou
 Encoding: 65589 -1 109
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
+AnchorPoint: "Diacritic_mkmk" -30 354 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4297,7 +4297,7 @@ StartChar: five.thou
 Encoding: 65590 -1 110
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
+AnchorPoint: "Diacritic_mkmk" -30 364 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4321,7 +4321,7 @@ StartChar: six.thou
 Encoding: 65591 -1 111
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
+AnchorPoint: "Diacritic_mkmk" 30 364 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4345,7 +4345,7 @@ StartChar: seven.thou
 Encoding: 65592 -1 112
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
+AnchorPoint: "Diacritic_mkmk" 18 354 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4369,7 +4369,7 @@ StartChar: eight.thou
 Encoding: 65593 -1 113
 Width: 320
 Flags: HW
-AnchorPoint: "Diacritic_mkmk" 0 384 mark 0
+AnchorPoint: "Diacritic_mkmk" -18 354 mark 0
 LayerCount: 2
 Fore
 SplineSet
