@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1676795389
-ModificationTime: 1701831808
+ModificationTime: 1766625641
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -43,28 +43,28 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000000.00000000
 OS2UnicodeRanges: 00000000.00000000.00000000.00000000
-Lookup: 6 0 0 "OneQuote" { "OneQuote subtable"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "OneQuote" { "OneQuote subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 1" { "Single Substitution lookup 1 subtable"  } []
-Lookup: 4 0 1 "ExtraMoveDiacritic" { "ExtraMoveDiacritic subtable"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 1 "FlipCores" { "FlipCores subtable"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 1 "TertiaryLigature" { "TertiaryLigature subtable"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 1 "VowelLigature" { "VowelLigature subtable"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 1 "RegisterLigature" { "RegisterLigature subtable"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 6 0 0 "VowelAnchor" { "VowelAnchor contextual 0"  "VowelAnchor contextual 1"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 8" { "Single Substitution lookup 8 subtable"  } []
+Lookup: 4 0 0 "ExtraMoveDiacritic" { "ExtraMoveDiacritic subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Allographs" { "Allographs subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "FlipCores" { "FlipCores subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "TertiaryLigature" { "TertiaryLigature subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "VowelLigature" { "VowelLigature subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "RegisterLigature" { "RegisterLigature subtable"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "VowelAnchor" { "VowelAnchor contextual 0"  "VowelAnchor contextual 1"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 9" { "Single Substitution lookup 9 subtable"  } []
-Lookup: 6 0 0 "TertiaryAnchor" { "TertiaryAnchor contextual 0"  "TertiaryAnchor contextual 1"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 11" { "Single Substitution lookup 11 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 10" { "Single Substitution lookup 10 subtable"  } []
+Lookup: 6 0 0 "TertiaryAnchor" { "TertiaryAnchor contextual 0"  "TertiaryAnchor contextual 1"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 12" { "Single Substitution lookup 12 subtable"  } []
-Lookup: 6 0 0 "NumbersExtend" { "NumbersExtend contextual 0"  "NumbersExtend contextual 1"  "NumbersExtend contextual 2"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 14" { "Single Substitution lookup 14 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 13" { "Single Substitution lookup 13 subtable"  } []
+Lookup: 6 0 0 "NumbersExtend" { "NumbersExtend contextual 0"  "NumbersExtend contextual 1"  "NumbersExtend contextual 2"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 15" { "Single Substitution lookup 15 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 16" { "Single Substitution lookup 16 subtable"  } []
-Lookup: 6 0 0 "MakeConsExtension" { "MakeConsExtension contextual 0"  "MakeConsExtension contextual 1"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 18" { "Single Substitution lookup 18 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 17" { "Single Substitution lookup 17 subtable"  } []
+Lookup: 6 0 0 "MakeConsExtension" { "MakeConsExtension contextual 0"  "MakeConsExtension contextual 1"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 19" { "Single Substitution lookup 19 subtable"  } []
-Lookup: 6 0 0 "ExtensionShape" { "ExtensionShape contextual 0"  "ExtensionShape contextual 1"  "ExtensionShape contextual 2"  "ExtensionShape contextual 3"  "ExtensionShape contextual 4"  "ExtensionShape contextual 5"  "ExtensionShape contextual 6"  "ExtensionShape contextual 7"  "ExtensionShape contextual 8"  "ExtensionShape contextual 9"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 21" { "Single Substitution lookup 21 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 20" { "Single Substitution lookup 20 subtable"  } []
+Lookup: 6 0 0 "ExtensionShape" { "ExtensionShape contextual 0"  "ExtensionShape contextual 1"  "ExtensionShape contextual 2"  "ExtensionShape contextual 3"  "ExtensionShape contextual 4"  "ExtensionShape contextual 5"  "ExtensionShape contextual 6"  "ExtensionShape contextual 7"  "ExtensionShape contextual 8"  "ExtensionShape contextual 9"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 22" { "Single Substitution lookup 22 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 23" { "Single Substitution lookup 23 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 24" { "Single Substitution lookup 24 subtable"  } []
@@ -74,13 +74,14 @@ Lookup: 1 0 0 "Single Substitution lookup 27" { "Single Substitution lookup 27 s
 Lookup: 1 0 0 "Single Substitution lookup 28" { "Single Substitution lookup 28 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 29" { "Single Substitution lookup 29 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 30" { "Single Substitution lookup 30 subtable"  } []
-Lookup: 6 0 0 "NumbersFix" { "NumbersFix contextual 0"  "NumbersFix contextual 1"  "NumbersFix contextual 2"  "NumbersFix contextual 3"  "NumbersFix contextual 4"  "NumbersFix contextual 5"  } ['liga' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 32" { "Single Substitution lookup 32 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 31" { "Single Substitution lookup 31 subtable"  } []
+Lookup: 6 0 0 "NumbersFix" { "NumbersFix contextual 0"  "NumbersFix contextual 1"  "NumbersFix contextual 2"  "NumbersFix contextual 3"  "NumbersFix contextual 4"  "NumbersFix contextual 5"  } ['ccmp' ('grek' <'dflt' > 'latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 33" { "Single Substitution lookup 33 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 34" { "Single Substitution lookup 34 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 35" { "Single Substitution lookup 35 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 36" { "Single Substitution lookup 36 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 37" { "Single Substitution lookup 37 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 38" { "Single Substitution lookup 38 subtable"  } []
 Lookup: 260 0 0 "'mark' Mark Positioning lookup 0" { "'mark' Mark Positioning lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 2 0 "'mkmk' Mark to Mark lookup 1" { "'mkmk' Mark to Mark lookup 1-1"  } ['mkmk' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -93,7 +94,7 @@ ChainSub2: coverage "NumbersFix contextual 5" 0 0 0 1
   BCoverage: 11 asciicircum
   BCoverage: 3 six
  1
-  SeqLookup: 0 "Single Substitution lookup 37"
+  SeqLookup: 0 "Single Substitution lookup 38"
 EndFPST
 ChainSub2: coverage "NumbersFix contextual 4" 0 0 0 1
  1 4 0
@@ -103,7 +104,7 @@ ChainSub2: coverage "NumbersFix contextual 4" 0 0 0 1
   BCoverage: 11 asciicircum
   BCoverage: 4 nine
  1
-  SeqLookup: 0 "Single Substitution lookup 36"
+  SeqLookup: 0 "Single Substitution lookup 37"
 EndFPST
 ChainSub2: coverage "NumbersFix contextual 3" 0 0 0 1
  1 4 0
@@ -113,7 +114,7 @@ ChainSub2: coverage "NumbersFix contextual 3" 0 0 0 1
   BCoverage: 11 asciicircum
   BCoverage: 3 six
  1
-  SeqLookup: 0 "Single Substitution lookup 35"
+  SeqLookup: 0 "Single Substitution lookup 36"
 EndFPST
 ChainSub2: coverage "NumbersFix contextual 2" 0 0 0 1
  1 2 0
@@ -121,7 +122,7 @@ ChainSub2: coverage "NumbersFix contextual 2" 0 0 0 1
   BCoverage: 10 underscore
   BCoverage: 3 six
  1
-  SeqLookup: 0 "Single Substitution lookup 34"
+  SeqLookup: 0 "Single Substitution lookup 35"
 EndFPST
 ChainSub2: coverage "NumbersFix contextual 1" 0 0 0 1
  1 2 0
@@ -129,7 +130,7 @@ ChainSub2: coverage "NumbersFix contextual 1" 0 0 0 1
   BCoverage: 10 underscore
   BCoverage: 4 nine
  1
-  SeqLookup: 0 "Single Substitution lookup 33"
+  SeqLookup: 0 "Single Substitution lookup 34"
 EndFPST
 ChainSub2: coverage "NumbersFix contextual 0" 0 0 0 1
  1 2 0
@@ -137,7 +138,7 @@ ChainSub2: coverage "NumbersFix contextual 0" 0 0 0 1
   BCoverage: 10 underscore
   BCoverage: 3 six
  1
-  SeqLookup: 0 "Single Substitution lookup 32"
+  SeqLookup: 0 "Single Substitution lookup 33"
 EndFPST
 ChainSub2: coverage "ExtensionShape contextual 9" 0 0 0 1
  1 4 0
@@ -147,7 +148,7 @@ ChainSub2: coverage "ExtensionShape contextual 9" 0 0 0 1
   BCoverage: 11 asciicircum
   BCoverage: 27 one two three five six nine
  1
-  SeqLookup: 0 "Single Substitution lookup 30"
+  SeqLookup: 0 "Single Substitution lookup 31"
 EndFPST
 ChainSub2: coverage "ExtensionShape contextual 8" 0 0 0 1
  1 2 0
@@ -155,7 +156,7 @@ ChainSub2: coverage "ExtensionShape contextual 8" 0 0 0 1
   BCoverage: 10 underscore
   BCoverage: 27 one two three five six nine
  1
-  SeqLookup: 0 "Single Substitution lookup 29"
+  SeqLookup: 0 "Single Substitution lookup 30"
 EndFPST
 ChainSub2: coverage "ExtensionShape contextual 7" 0 0 0 1
  1 4 0
@@ -165,7 +166,7 @@ ChainSub2: coverage "ExtensionShape contextual 7" 0 0 0 1
   BCoverage: 11 asciicircum
   BCoverage: 135 v esh.flip b.flip d.flip f.flip g.flip j.flip k.flip p.flip t.flip v.flip x.flip ccedilla.flip ccaron.flip tcedilla.flip ddotbelow.flip
  1
-  SeqLookup: 0 "Single Substitution lookup 28"
+  SeqLookup: 0 "Single Substitution lookup 29"
 EndFPST
 ChainSub2: coverage "ExtensionShape contextual 6" 0 0 0 1
  1 4 0
@@ -175,7 +176,7 @@ ChainSub2: coverage "ExtensionShape contextual 6" 0 0 0 1
   BCoverage: 11 asciicircum
   BCoverage: 138 backslash colon parenright Z Z.flip esh c k j l r s x z ccaron ccedilla lcedilla rcaron scaron zdotaccent zcaron r.flip z.flip rcaron.flip
  1
-  SeqLookup: 0 "Single Substitution lookup 27"
+  SeqLookup: 0 "Single Substitution lookup 28"
 EndFPST
 ChainSub2: coverage "ExtensionShape contextual 5" 0 0 0 1
  1 4 0
@@ -185,7 +186,7 @@ ChainSub2: coverage "ExtensionShape contextual 5" 0 0 0 1
   BCoverage: 10 underscore
   BCoverage: 207 backslash.flip parenleft colon Z Z.flip r rcaron z esh.flip c.flip j.flip k.flip l.flip r.flip s.flip x.flip z.flip ccedilla.flip ccaron.flip lcedilla.flip rcaron.flip scaron.flip zdotaccent.flip zcaron.flip
  1
-  SeqLookup: 0 "Single Substitution lookup 26"
+  SeqLookup: 0 "Single Substitution lookup 27"
 EndFPST
 ChainSub2: coverage "ExtensionShape contextual 4" 0 0 0 1
  1 4 0
@@ -195,7 +196,7 @@ ChainSub2: coverage "ExtensionShape contextual 4" 0 0 0 1
   BCoverage: 10 underscore
   BCoverage: 65 esh b d f g j k p t v x ccedilla ccaron tcedilla ddotbelow v.flip
  1
-  SeqLookup: 0 "Single Substitution lookup 25"
+  SeqLookup: 0 "Single Substitution lookup 26"
 EndFPST
 ChainSub2: coverage "ExtensionShape contextual 3" 0 0 0 1
  1 2 0
@@ -203,7 +204,7 @@ ChainSub2: coverage "ExtensionShape contextual 3" 0 0 0 1
   BCoverage: 10 underscore
   BCoverage: 135 v esh.flip b.flip d.flip f.flip g.flip j.flip k.flip p.flip t.flip v.flip x.flip ccedilla.flip ccaron.flip tcedilla.flip ddotbelow.flip
  1
-  SeqLookup: 0 "Single Substitution lookup 24"
+  SeqLookup: 0 "Single Substitution lookup 25"
 EndFPST
 ChainSub2: coverage "ExtensionShape contextual 2" 0 0 0 1
  1 2 0
@@ -211,7 +212,7 @@ ChainSub2: coverage "ExtensionShape contextual 2" 0 0 0 1
   BCoverage: 10 underscore
   BCoverage: 138 backslash colon parenright Z Z.flip esh c k j l r s x z ccaron ccedilla lcedilla rcaron scaron zdotaccent zcaron r.flip z.flip rcaron.flip
  1
-  SeqLookup: 0 "Single Substitution lookup 23"
+  SeqLookup: 0 "Single Substitution lookup 24"
 EndFPST
 ChainSub2: coverage "ExtensionShape contextual 1" 0 0 0 1
  1 2 0
@@ -219,7 +220,7 @@ ChainSub2: coverage "ExtensionShape contextual 1" 0 0 0 1
   BCoverage: 11 asciicircum
   BCoverage: 207 backslash.flip parenleft colon Z Z.flip r rcaron z esh.flip c.flip j.flip k.flip l.flip r.flip s.flip x.flip z.flip ccedilla.flip ccaron.flip lcedilla.flip rcaron.flip scaron.flip zdotaccent.flip zcaron.flip
  1
-  SeqLookup: 0 "Single Substitution lookup 22"
+  SeqLookup: 0 "Single Substitution lookup 23"
 EndFPST
 ChainSub2: coverage "ExtensionShape contextual 0" 0 0 0 1
  1 2 0
@@ -227,70 +228,70 @@ ChainSub2: coverage "ExtensionShape contextual 0" 0 0 0 1
   BCoverage: 11 asciicircum
   BCoverage: 65 esh b d f g j k p t v x ccedilla ccaron tcedilla ddotbelow v.flip
  1
-  SeqLookup: 0 "Single Substitution lookup 21"
+  SeqLookup: 0 "Single Substitution lookup 22"
 EndFPST
 ChainSub2: coverage "MakeConsExtension contextual 1" 0 0 0 1
  1 1 0
   Coverage: 186 glottal ncaron scaron ddotbelow tcedilla ccedilla ccaron lcedilla zdotaccent zcaron rcaron b c equal d D glottal.flip approxequal f g G h j k l m n p P r.upsidedown r s t v velar w x y z
   BCoverage: 11 asciicircum
  1
-  SeqLookup: 0 "Single Substitution lookup 19"
+  SeqLookup: 0 "Single Substitution lookup 20"
 EndFPST
 ChainSub2: coverage "MakeConsExtension contextual 0" 0 0 0 1
  1 1 0
   Coverage: 186 glottal ncaron scaron ddotbelow tcedilla ccedilla ccaron lcedilla zdotaccent zcaron rcaron b c equal d D glottal.flip approxequal f g G h j k l m n p P r.upsidedown r s t v velar w x y z
   BCoverage: 10 underscore
  1
-  SeqLookup: 0 "Single Substitution lookup 18"
+  SeqLookup: 0 "Single Substitution lookup 19"
 EndFPST
 ChainSub2: coverage "NumbersExtend contextual 2" 0 0 0 1
  1 1 0
   Coverage: 49 zero one two three four five six seven eight nine
   BCoverage: 4 less
  1
-  SeqLookup: 0 "Single Substitution lookup 16"
+  SeqLookup: 0 "Single Substitution lookup 17"
 EndFPST
 ChainSub2: coverage "NumbersExtend contextual 1" 0 0 0 1
  1 1 0
   Coverage: 49 zero one two three four five six seven eight nine
   BCoverage: 11 asciicircum
  1
-  SeqLookup: 0 "Single Substitution lookup 15"
+  SeqLookup: 0 "Single Substitution lookup 16"
 EndFPST
 ChainSub2: coverage "NumbersExtend contextual 0" 0 0 0 1
  1 1 0
   Coverage: 49 zero one two three four five six seven eight nine
   BCoverage: 10 underscore
  1
-  SeqLookup: 0 "Single Substitution lookup 14"
+  SeqLookup: 0 "Single Substitution lookup 15"
 EndFPST
 ChainSub2: coverage "TertiaryAnchor contextual 1" 0 0 0 1
  1 0 1
   Coverage: 10 underscore
   FCoverage: 881 ellipses.vert ithk_phase.FLC ithk_phase.FRE ithk_phase.FRG ithk_phase.ITM ithk_phase.ITR ithk_phase.RCT ithk_phase.REP ithk_phase.VAC ithk_effect.oneben ithk_effect.onedet ithk_effect.twoben ithk_effect.twodet ithk_effect.threeben ithk_effect.threedet ithk_effect.slfben ithk_effect.slfdet ithk_effect.unk ithk_aspect.ATP ithk_aspect.CCL ithk_aspect.CLM ithk_aspect.CNT ithk_aspect.CSS ithk_aspect.CUL ithk_aspect.DCL ithk_aspect.DLT ithk_aspect.EPD ithk_aspect.EXP ithk_aspect.HAB ithk_aspect.ICS ithk_aspect.IMD ithk_aspect.IMM ithk_aspect.IRP ithk_aspect.ITC ithk_aspect.LIM ithk_aspect.MTV ithk_aspect.PAU ithk_aspect.PCL ithk_aspect.PCS ithk_aspect.PMP ithk_aspect.PPR ithk_aspect.PRG ithk_aspect.PRS ithk_aspect.PTC ithk_aspect.REG ithk_aspect.RGR ithk_aspect.RSM ithk_aspect.RTR ithk_aspect.SMM ithk_aspect.SQN ithk_aspect.TMP ithk_aspect.TNS ithk_aspect.TRD ithk_aspect.XPD
  1
-  SeqLookup: 0 "Single Substitution lookup 12"
+  SeqLookup: 0 "Single Substitution lookup 13"
 EndFPST
 ChainSub2: coverage "TertiaryAnchor contextual 0" 0 0 0 1
  1 0 1
   Coverage: 11 asciicircum
   FCoverage: 881 ellipses.vert ithk_phase.FLC ithk_phase.FRE ithk_phase.FRG ithk_phase.ITM ithk_phase.ITR ithk_phase.RCT ithk_phase.REP ithk_phase.VAC ithk_effect.oneben ithk_effect.onedet ithk_effect.twoben ithk_effect.twodet ithk_effect.threeben ithk_effect.threedet ithk_effect.slfben ithk_effect.slfdet ithk_effect.unk ithk_aspect.ATP ithk_aspect.CCL ithk_aspect.CLM ithk_aspect.CNT ithk_aspect.CSS ithk_aspect.CUL ithk_aspect.DCL ithk_aspect.DLT ithk_aspect.EPD ithk_aspect.EXP ithk_aspect.HAB ithk_aspect.ICS ithk_aspect.IMD ithk_aspect.IMM ithk_aspect.IRP ithk_aspect.ITC ithk_aspect.LIM ithk_aspect.MTV ithk_aspect.PAU ithk_aspect.PCL ithk_aspect.PCS ithk_aspect.PMP ithk_aspect.PPR ithk_aspect.PRG ithk_aspect.PRS ithk_aspect.PTC ithk_aspect.REG ithk_aspect.RGR ithk_aspect.RSM ithk_aspect.RTR ithk_aspect.SMM ithk_aspect.SQN ithk_aspect.TMP ithk_aspect.TNS ithk_aspect.TRD ithk_aspect.XPD
  1
-  SeqLookup: 0 "Single Substitution lookup 11"
+  SeqLookup: 0 "Single Substitution lookup 12"
 EndFPST
 ChainSub2: coverage "VowelAnchor contextual 1" 0 0 0 1
  1 0 1
   Coverage: 10 underscore
   FCoverage: 117 a e i o u adieresis edieresis idieresis odieresis udieresis ograve oacute ohungarumlaut a_ograve a_oacute adieresis_i
  1
-  SeqLookup: 0 "Single Substitution lookup 9"
+  SeqLookup: 0 "Single Substitution lookup 10"
 EndFPST
 ChainSub2: coverage "VowelAnchor contextual 0" 0 0 0 1
  1 0 1
   Coverage: 11 asciicircum
   FCoverage: 117 a e i o u adieresis edieresis idieresis odieresis udieresis ograve oacute ohungarumlaut a_ograve a_oacute adieresis_i
  1
-  SeqLookup: 0 "Single Substitution lookup 8"
+  SeqLookup: 0 "Single Substitution lookup 9"
 EndFPST
 ChainSub2: coverage "OneQuote subtable" 0 0 0 1
  1 0 0
@@ -306,12 +307,12 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 330 15 6
+WinInfo: 60 30 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Tertiary_mkmk" "'mkmk' Mark to Mark lookup 1-1" "Tertiary_down" "'mark' Mark Positioning lookup 0-1" "Tertiary_up" "'mark' Mark Positioning lookup 0-1" "Diacritic_mkmk" "'mkmk' Mark to Mark lookup 1-1" "Extension_mkmk" "'mkmk' Mark to Mark lookup 1-1" "Diacritic_right" "'mark' Mark Positioning lookup 0-1" "Diacritic_left" "'mark' Mark Positioning lookup 0-1" "Extension_down" "'mark' Mark Positioning lookup 0-1" "Extension_up" "'mark' Mark Positioning lookup 0-1" "Perspective"""  "Configurations"""  "Diacritic_down" "'mark' Mark Positioning lookup 0-1" "Diacritic_up" "'mark' Mark Positioning lookup 0-1" "Anchor-1""" 
-BeginChars: 65865 415
+BeginChars: 65865 418
 
 StartChar: RPV.VAR
 Encoding: 65536 -1 0
@@ -405,8 +406,8 @@ SplineSet
  127.002605789 340.726714164 115.914406858 349.425041619 99.1442122922 356.956566125 c 0
  78.1878367874 366.36811201 48.2633757759 374.001960895 6 374.001960895 c 0
 EndSplineSet
+Substitution2: "Single Substitution lookup 31 subtable" one.ten_coll
 Substitution2: "Single Substitution lookup 30 subtable" one.ten_coll
-Substitution2: "Single Substitution lookup 29 subtable" one.ten_coll
 EndChar
 
 StartChar: two.ten
@@ -451,8 +452,8 @@ SplineSet
  0.0306235544756 343.534118719 -1.68685696765 352.346647807 -1.96553363502 361.856555033 c 0
  -2.18847279489 369.464406626 -1.49536931035 377.510088585 0.197117855384 385.972524414 c 0
 EndSplineSet
+Substitution2: "Single Substitution lookup 31 subtable" two.ten_coll
 Substitution2: "Single Substitution lookup 30 subtable" two.ten_coll
-Substitution2: "Single Substitution lookup 29 subtable" two.ten_coll
 EndChar
 
 StartChar: three.ten
@@ -488,8 +489,8 @@ SplineSet
  -19.8255868347 358.694859994 -14.7324135303 362.073890889 -10.5697295881 366.236574831 c 0
  -4.99698115101 371.809323268 -1.116882397 378.754148649 0.164127103941 385.799700904 c 0
 EndSplineSet
+Substitution2: "Single Substitution lookup 31 subtable" three.ten_coll
 Substitution2: "Single Substitution lookup 30 subtable" three.ten_coll
-Substitution2: "Single Substitution lookup 29 subtable" three.ten_coll
 EndChar
 
 StartChar: four.ten
@@ -523,8 +524,8 @@ SplineSet
  5.99697929674 351.580604091 2.23460471205 358.520073124 0.471174233293 366.237479481 c 0
  -0.939430665261 372.410794133 -1.0625062249 379.053217596 0.164127103941 385.799700904 c 0
 EndSplineSet
+Substitution2: "Single Substitution lookup 31 subtable" four.ten_coll
 Substitution2: "Single Substitution lookup 30 subtable" four.ten_coll
-Substitution2: "Single Substitution lookup 29 subtable" four.ten_coll
 EndChar
 
 StartChar: five.ten
@@ -554,8 +555,8 @@ SplineSet
  11.1197536162 374.977617992 8.55987680809 374.001960895 6 374.001960895 c 2
  -35.7700392556 374.001960895 l 1
 EndSplineSet
+Substitution2: "Single Substitution lookup 31 subtable" five.ten_coll
 Substitution2: "Single Substitution lookup 30 subtable" five.ten_coll
-Substitution2: "Single Substitution lookup 29 subtable" five.ten_coll
 EndChar
 
 StartChar: six.ten
@@ -586,8 +587,8 @@ SplineSet
  0.880246383827 393.022382008 3.44012319191 393.998039105 6 393.998039105 c 2
  126 393.998039105 l 2
 EndSplineSet
+Substitution2: "Single Substitution lookup 31 subtable" six.ten_coll
 Substitution2: "Single Substitution lookup 30 subtable" six.ten_coll
-Substitution2: "Single Substitution lookup 29 subtable" six.ten_coll
 EndChar
 
 StartChar: seven.ten
@@ -632,8 +633,8 @@ SplineSet
  62.6081823667 373.699196551 49.1430642608 376.001960895 34 376.001960895 c 0
  25.7390530753 376.001960895 17.1409082107 375.066198085 9.24875525731 374.079678966 c 0
 EndSplineSet
+Substitution2: "Single Substitution lookup 31 subtable" seven.ten_coll
 Substitution2: "Single Substitution lookup 30 subtable" seven.ten_coll
-Substitution2: "Single Substitution lookup 29 subtable" seven.ten_coll
 EndChar
 
 StartChar: eight.ten
@@ -678,8 +679,8 @@ SplineSet
  -56.771971755 392.607502817 -37.7928245948 395.998039105 -18 395.998039105 c 0
  -8.2609469247 395.998039105 1.14090821068 394.933801915 9.24875525731 393.920321034 c 0
 EndSplineSet
+Substitution2: "Single Substitution lookup 31 subtable" eight.ten_coll
 Substitution2: "Single Substitution lookup 30 subtable" eight.ten_coll
-Substitution2: "Single Substitution lookup 29 subtable" eight.ten_coll
 EndChar
 
 StartChar: nine.ten
@@ -714,8 +715,8 @@ SplineSet
  33.8195065252 387.369664635 30.7342473624 387.096530089 26.8687125672 385.716248852 c 0
  22.5287894742 384.166575977 17.2679963944 381.205520207 11.3946158915 376.311036454 c 0
 EndSplineSet
+Substitution2: "Single Substitution lookup 31 subtable" nine.ten_coll
 Substitution2: "Single Substitution lookup 30 subtable" nine.ten_coll
-Substitution2: "Single Substitution lookup 29 subtable" nine.ten_coll
 EndChar
 
 StartChar: one.hund
@@ -1041,8 +1042,8 @@ SplineSet
  79.1382281975 286.630152371 83.2519826425 289.998039105 88 289.998039105 c 2
  288 289.998039105 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" b.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" b.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" b.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" b.ext.down
 EndChar
 
 StartChar: c
@@ -1073,8 +1074,8 @@ SplineSet
  22.0832342854 1.32049291525 22.1325311836 1.64959105463 22.1971178554 1.97252441356 c 2
  78.1971178554 281.972524414 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" c.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" c.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" c.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" c.ext.down
 EndChar
 
 StartChar: d
@@ -1113,8 +1114,8 @@ SplineSet
  79.1382281975 286.630152371 83.2519826425 289.998039105 88 289.998039105 c 2
  288 289.998039105 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" d.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" d.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" d.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" d.ext.down
 EndChar
 
 StartChar: f
@@ -1169,8 +1170,8 @@ SplineSet
  154.517699006 282.431203679 172.11566297 284.918214675 193.018220421 286.690179776 c 0
  219.144658222 288.904987036 250.439963323 289.998039105 288 289.998039105 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" f.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" f.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" f.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" f.ext.down
 EndChar
 
 StartChar: g
@@ -1230,8 +1231,8 @@ SplineSet
  59.1382281975 286.630152371 63.2519826425 289.998039105 68 289.998039105 c 2
  308 289.998039105 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" g.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" g.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" g.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" g.ext.down
 EndChar
 
 StartChar: h
@@ -1277,8 +1278,8 @@ SplineSet
  66.0832342854 121.320492915 66.1325311836 121.649591055 66.1971178554 121.972524414 c 2
  98.1971178554 281.972524414 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" h.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" h.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" h.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" h.ext.down
 EndChar
 
 StartChar: j
@@ -1332,8 +1333,8 @@ SplineSet
  170.950942418 278.913225968 187.199156593 282.459502896 205.878383711 285.043044062 c 0
  229.227667971 288.272505147 256.382209511 289.998039105 288 289.998039105 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" j.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" j.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" j.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" j.ext.down
 EndChar
 
 StartChar: k
@@ -1370,8 +1371,8 @@ SplineSet
  60.2359028961 287.502112731 63.9278595252 289.998039105 68 289.998039105 c 2
  308 289.998039105 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" k.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" k.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" k.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" k.ext.down
 EndChar
 
 StartChar: l
@@ -1432,8 +1433,8 @@ SplineSet
  50.0832342854 141.320492915 50.1325311836 141.649591055 50.1971178554 141.972524414 c 2
  78.1971178554 281.972524414 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" l.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" l.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" l.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" l.ext.down
 EndChar
 
 StartChar: m
@@ -1473,8 +1474,8 @@ SplineSet
  80.0832342854 141.320492915 80.1325311836 141.649591055 80.1971178554 141.972524414 c 2
  108.197117855 281.972524414 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" m.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" m.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" m.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" m.ext.down
 EndChar
 
 StartChar: n
@@ -1530,8 +1531,8 @@ SplineSet
  84.1744519027 161.856551702 84.1855313946 161.91459211 84.1971178554 161.972524414 c 2
  108.197117855 281.972524414 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" n.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" n.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" n.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" n.ext.down
 EndChar
 
 StartChar: p
@@ -1573,8 +1574,8 @@ SplineSet
  79.1382281975 286.630152371 83.2519826425 289.998039105 88 289.998039105 c 2
  288 289.998039105 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" p.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" p.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" p.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" p.ext.down
 EndChar
 
 StartChar: r
@@ -1615,8 +1616,8 @@ SplineSet
  170.620456998 231.913200733 165.724404757 239.758209346 159.086417302 246.396196801 c 0
  144.960610361 260.522003743 122.029185912 270.001960895 88 270.001960895 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" r.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" r.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" r.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" r.ext.down
 EndChar
 
 StartChar: s
@@ -1668,8 +1669,8 @@ SplineSet
  234.136861113 202.198996737 242.133976833 212.197068421 250.012879532 224.655162432 c 0
  259.861051896 240.227058904 269.519617708 259.637335867 278.659937384 283.576268352 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" s.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" s.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" s.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" s.ext.down
 EndChar
 
 StartChar: t
@@ -1698,8 +1699,8 @@ SplineSet
  79.1382281975 286.630152371 83.2519826425 289.998039105 88 289.998039105 c 2
  288 289.998039105 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" t.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" t.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" t.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" t.ext.down
 EndChar
 
 StartChar: v
@@ -1770,8 +1771,8 @@ SplineSet
  199.806914097 274.107390069 210.974389219 278.873572119 223.603092399 282.398348001 c 0
  241.793445702 287.475426596 262.999738934 289.998039105 288 289.998039105 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" v.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" v.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" v.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" v.ext.down
 EndChar
 
 StartChar: x
@@ -1836,8 +1837,8 @@ SplineSet
  169.81905299 138.054555686 169.811633214 138.016789849 169.811632713 138.016790032 c 0
  169.817206132 138.044657126 169.822665694 138.072570128 169.828010359 138.100528769 c 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" x.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" x.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" x.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" x.ext.down
 EndChar
 
 StartChar: z
@@ -1897,8 +1898,8 @@ SplineSet
  194.557064186 248.395493219 181.282432496 256.920893175 162.878670583 262.646507992 c 0
  148.152187052 267.228080647 130.100581929 270.001960895 108 270.001960895 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" z.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" z.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" z.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" z.ext.down
 EndChar
 
 StartChar: zcaron
@@ -1947,8 +1948,8 @@ SplineSet
  117.274364355 202.875924279 114.838004829 215.356846815 114.0084535 228.649926828 c 0
  112.971318371 245.269417114 114.438481588 263.179343076 118.197117855 281.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" zcaron.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" zcaron.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" zcaron.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" zcaron.ext.down
 EndChar
 
 StartChar: zdotaccent
@@ -1983,8 +1984,8 @@ SplineSet
  86.86002692 35.9995764574 90.8728931887 43.088012798 92.1828205297 49.8996349713 c 2
  138.193870409 281.956216878 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" zdotaccent.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" zdotaccent.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" zdotaccent.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" zdotaccent.ext.down
 EndChar
 
 StartChar: tcedilla
@@ -2030,8 +2031,9 @@ SplineSet
  111.671793875 248.840005642 137.866189206 265.240035581 175.195128344 276.110958728 c 0
  205.057610452 284.807502361 242.025306565 289.998039105 288 289.998039105 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" tcedilla.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" tcedilla.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" tcedilla.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" tcedilla.ext.down
+Substitution2: "Allographs subtable" tcedilla
 EndChar
 
 StartChar: scaron
@@ -2084,8 +2086,8 @@ SplineSet
  113.093613758 16.0527465084 128.472691098 14.0765960032 147.007843795 12.6620827571 c 0
  170.179208517 10.8937562229 198.280255279 9.9980391054 232 9.9980391054 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" scaron.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" scaron.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" scaron.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" scaron.ext.down
 EndChar
 
 StartChar: rcaron
@@ -2148,8 +2150,8 @@ SplineSet
  164.529884979 254.090661838 156.492536383 259.028389113 145.315927733 262.74100443 c 0
  131.353109365 267.379135277 112.53992328 270.001960895 88 270.001960895 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" rcaron.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" rcaron.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" rcaron.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" rcaron.ext.down
 EndChar
 
 StartChar: ncaron
@@ -2203,8 +2205,8 @@ SplineSet
  157.526242139 284.615893485 158.436846917 281.197299446 157.802882145 278.027475586 c 2
  131.961957639 148.822853057 l 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" ncaron.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" ncaron.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" ncaron.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" ncaron.ext.down
 EndChar
 
 StartChar: lcedilla
@@ -2268,8 +2270,9 @@ SplineSet
  66.4826019796 185.361649478 66.5967781603 198.483238264 67.8693764207 213.760658787 c 0
  69.4600488706 232.856529564 72.8698067026 255.33596865 78.1971178554 281.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" lcedilla.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" lcedilla.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" lcedilla.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" lcedilla.ext.down
+Substitution2: "Allographs subtable" lcedilla
 EndChar
 
 StartChar: ccedilla
@@ -2325,8 +2328,8 @@ SplineSet
  109.138228197 286.630152371 113.251982642 289.998039105 118 289.998039105 c 2
  288 289.998039105 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" ccedilla.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" ccedilla.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" ccedilla.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" ccedilla.ext.down
 EndChar
 
 StartChar: ccaron
@@ -2364,8 +2367,8 @@ SplineSet
  131.275118352 245.722384692 150.395346461 259.32436929 172.643667205 269.586783313 c 0
  200.455299659 282.415368902 233.141035239 289.998039105 270 289.998039105 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" ccaron.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" ccaron.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" ccaron.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" ccaron.ext.down
 EndChar
 
 StartChar: Z
@@ -2561,9 +2564,9 @@ SplineSet
  98.7398996705 78.9085991028 90.291322063 68.4294290318 82.9946942143 55.9580413687 c 0
  73.8765437376 40.3733093906 66.5230781039 21.6284553827 61.8028821446 -1.97252441356 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 16 subtable" zero.thou
-Substitution2: "Single Substitution lookup 15 subtable" zero.hund
-Substitution2: "Single Substitution lookup 14 subtable" zero.ten
+Substitution2: "Single Substitution lookup 17 subtable" zero.thou
+Substitution2: "Single Substitution lookup 16 subtable" zero.hund
+Substitution2: "Single Substitution lookup 15 subtable" zero.ten
 EndChar
 
 StartChar: one
@@ -2599,9 +2602,9 @@ SplineSet
  92.1895159536 33.8886283881 81.3626132105 29.3004775868 73.7910678119 21.7289321881 c 0
  68.1033504713 16.0412148475 63.8646811414 8.33647057035 61.8028821446 -1.97252441356 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 16 subtable" one.thou
-Substitution2: "Single Substitution lookup 15 subtable" one.hund
-Substitution2: "Single Substitution lookup 14 subtable" one.ten
+Substitution2: "Single Substitution lookup 17 subtable" one.thou
+Substitution2: "Single Substitution lookup 16 subtable" one.hund
+Substitution2: "Single Substitution lookup 15 subtable" one.ten
 EndChar
 
 StartChar: two
@@ -2661,9 +2664,9 @@ SplineSet
  68.3584815344 13.7163459107 66.446990956 11.0454179395 64.8667658999 7.65922139059 c 0
  63.6025101599 4.95010194781 62.5518987832 1.77255877951 61.8028821446 -1.97252441356 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 16 subtable" two.thou
-Substitution2: "Single Substitution lookup 15 subtable" two.hund
-Substitution2: "Single Substitution lookup 14 subtable" two.ten
+Substitution2: "Single Substitution lookup 17 subtable" two.thou
+Substitution2: "Single Substitution lookup 16 subtable" two.hund
+Substitution2: "Single Substitution lookup 15 subtable" two.ten
 EndChar
 
 StartChar: three
@@ -2715,9 +2718,9 @@ SplineSet
  92.1895159536 33.8886283881 81.3626132105 29.3004775868 73.7910678119 21.7289321881 c 0
  68.1033504713 16.0412148475 63.8646811414 8.33647057035 61.8028821446 -1.97252441356 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 16 subtable" three.thou
-Substitution2: "Single Substitution lookup 15 subtable" three.hund
-Substitution2: "Single Substitution lookup 14 subtable" three.ten
+Substitution2: "Single Substitution lookup 17 subtable" three.thou
+Substitution2: "Single Substitution lookup 16 subtable" three.hund
+Substitution2: "Single Substitution lookup 15 subtable" three.ten
 EndChar
 
 StartChar: four
@@ -2759,9 +2762,9 @@ SplineSet
  83.351477752 149.432675115 83.3843881648 149.42103823 83.384387873 149.421037401 c 1
  83.3597982862 149.429819397 83.3351555648 149.438512715 83.3104596988 149.447116103 c 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 16 subtable" four.thou
-Substitution2: "Single Substitution lookup 15 subtable" four.hund
-Substitution2: "Single Substitution lookup 14 subtable" four.ten
+Substitution2: "Single Substitution lookup 17 subtable" four.thou
+Substitution2: "Single Substitution lookup 16 subtable" four.hund
+Substitution2: "Single Substitution lookup 15 subtable" four.ten
 EndChar
 
 StartChar: five
@@ -2796,9 +2799,9 @@ SplineSet
  92.4351657218 71.4784162159 100.577915465 55.8733559414 113.114704571 43.336566836 c 0
  132.241264749 24.2100066577 162.438513609 11.6012764991 203.830683618 10.1403532247 c 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 16 subtable" five.thou
-Substitution2: "Single Substitution lookup 15 subtable" five.hund
-Substitution2: "Single Substitution lookup 14 subtable" five.ten
+Substitution2: "Single Substitution lookup 17 subtable" five.thou
+Substitution2: "Single Substitution lookup 16 subtable" five.hund
+Substitution2: "Single Substitution lookup 15 subtable" five.ten
 EndChar
 
 StartChar: six
@@ -2855,9 +2858,9 @@ SplineSet
  222.533180305 143.696406437 218.494363488 151.048764477 212.798134774 156.744993191 c 0
  204.689165702 164.853962263 192.850380453 170.001960895 178 170.001960895 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 16 subtable" six.thou
-Substitution2: "Single Substitution lookup 15 subtable" six.hund
-Substitution2: "Single Substitution lookup 14 subtable" six.ten
+Substitution2: "Single Substitution lookup 17 subtable" six.thou
+Substitution2: "Single Substitution lookup 16 subtable" six.hund
+Substitution2: "Single Substitution lookup 15 subtable" six.ten
 EndChar
 
 StartChar: seven
@@ -2893,9 +2896,9 @@ SplineSet
  102.933199037 93.8189760171 92.4195835964 78.5563582663 83.9517685067 62.0696280274 c 0
  73.3683076711 41.4637619402 65.9938750038 18.9824398822 61.8028821446 -1.97252441356 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 16 subtable" seven.thou
-Substitution2: "Single Substitution lookup 15 subtable" seven.hund
-Substitution2: "Single Substitution lookup 14 subtable" seven.ten
+Substitution2: "Single Substitution lookup 17 subtable" seven.thou
+Substitution2: "Single Substitution lookup 16 subtable" seven.hund
+Substitution2: "Single Substitution lookup 15 subtable" seven.ten
 EndChar
 
 StartChar: eight
@@ -2932,9 +2935,9 @@ SplineSet
  148.38779927 107.03581458 123.028270604 90.9323844151 103.047473332 70.9515871433 c 0
  82.1766991449 50.0808129562 67.2077605696 25.0518677113 61.8028821446 -1.97252441356 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 16 subtable" eight.thou
-Substitution2: "Single Substitution lookup 15 subtable" eight.hund
-Substitution2: "Single Substitution lookup 14 subtable" eight.ten
+Substitution2: "Single Substitution lookup 17 subtable" eight.thou
+Substitution2: "Single Substitution lookup 16 subtable" eight.hund
+Substitution2: "Single Substitution lookup 15 subtable" eight.ten
 EndChar
 
 StartChar: nine
@@ -2996,9 +2999,9 @@ SplineSet
  124.80081655 106.269695008 115.656107613 99.9783080102 106.75423497 91.0764353671 c 0
  88.3894082455 72.7116086424 70.8071927893 43.0490288098 61.8028821446 -1.97252441356 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 16 subtable" nine.thou
-Substitution2: "Single Substitution lookup 15 subtable" nine.hund
-Substitution2: "Single Substitution lookup 14 subtable" nine.ten
+Substitution2: "Single Substitution lookup 17 subtable" nine.thou
+Substitution2: "Single Substitution lookup 16 subtable" nine.hund
+Substitution2: "Single Substitution lookup 15 subtable" nine.ten
 EndChar
 
 StartChar: b.flip
@@ -4803,8 +4806,8 @@ Width: 320
 VWidth: 268
 Flags: HW
 LayerCount: 2
-Substitution2: "Single Substitution lookup 19 subtable" y.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" y.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" y.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" y.ext.down
 EndChar
 
 StartChar: ograve
@@ -5190,8 +5193,8 @@ Flags: HW
 AnchorPoint: "Extension_mkmk" 56 280 basemark 0
 AnchorPoint: "Extension_up" 56 280 mark 0
 LayerCount: 2
-Substitution2: "Single Substitution lookup 11 subtable" asciicircum.tertiary
-Substitution2: "Single Substitution lookup 8 subtable" asciicircum.diacritic
+Substitution2: "Single Substitution lookup 12 subtable" asciicircum.tertiary
+Substitution2: "Single Substitution lookup 9 subtable" asciicircum.diacritic
 EndChar
 
 StartChar: underscore
@@ -5201,8 +5204,8 @@ Flags: HW
 AnchorPoint: "Extension_mkmk" 0 0 basemark 0
 AnchorPoint: "Extension_down" 0 0 mark 0
 LayerCount: 2
-Substitution2: "Single Substitution lookup 12 subtable" underscore.tertiary
-Substitution2: "Single Substitution lookup 9 subtable" underscore.diacritic
+Substitution2: "Single Substitution lookup 13 subtable" underscore.tertiary
+Substitution2: "Single Substitution lookup 10 subtable" underscore.diacritic
 EndChar
 
 StartChar: less
@@ -5289,8 +5292,8 @@ Width: 0
 Flags: HW
 AnchorPoint: "Extension_mkmk" 12 60 mark 0
 LayerCount: 2
+Substitution2: "Single Substitution lookup 31 subtable" zero.ten_coll
 Substitution2: "Single Substitution lookup 30 subtable" zero.ten_coll
-Substitution2: "Single Substitution lookup 29 subtable" zero.ten_coll
 EndChar
 
 StartChar: zero.hund
@@ -5364,8 +5367,8 @@ Width: 320
 VWidth: 268
 Flags: HW
 LayerCount: 2
-Substitution2: "Single Substitution lookup 19 subtable" equal.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" equal.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" equal.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" equal.ext.down
 EndChar
 
 StartChar: colon
@@ -5600,8 +5603,8 @@ Width: 320
 VWidth: 268
 Flags: HW
 LayerCount: 2
-Substitution2: "Single Substitution lookup 19 subtable" approxequal.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" approxequal.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" approxequal.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" approxequal.ext.down
 EndChar
 
 StartChar: ellipses.vert
@@ -5632,8 +5635,8 @@ Width: 320
 VWidth: 268
 Flags: HW
 LayerCount: 2
-Substitution2: "Single Substitution lookup 19 subtable" glottal.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" glottal.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" glottal.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" glottal.ext.down
 EndChar
 
 StartChar: velar
@@ -5642,8 +5645,8 @@ Width: 320
 VWidth: 268
 Flags: HW
 LayerCount: 2
-Substitution2: "Single Substitution lookup 19 subtable" velar.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" velar.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" velar.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" velar.ext.down
 EndChar
 
 StartChar: glottal.flip
@@ -5652,8 +5655,8 @@ Width: 320
 VWidth: 268
 Flags: HW
 LayerCount: 2
-Substitution2: "Single Substitution lookup 19 subtable" glottal.flip.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" glottal.flip.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" glottal.flip.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" glottal.flip.ext.down
 EndChar
 
 StartChar: w
@@ -5661,8 +5664,8 @@ Encoding: 119 119 143
 Width: 320
 Flags: HW
 LayerCount: 2
-Substitution2: "Single Substitution lookup 19 subtable" w.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" w.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" w.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" w.ext.down
 EndChar
 
 StartChar: asciicircum.tertiary
@@ -6565,8 +6568,8 @@ Width: 320
 VWidth: 268
 Flags: HW
 LayerCount: 2
-Substitution2: "Single Substitution lookup 19 subtable" r.upsidedown.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" r.upsidedown.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" r.upsidedown.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" r.upsidedown.ext.down
 EndChar
 
 StartChar: D
@@ -6575,8 +6578,8 @@ Width: 320
 VWidth: 268
 Flags: HW
 LayerCount: 2
-Substitution2: "Single Substitution lookup 19 subtable" D.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" D.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" D.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" D.ext.down
 EndChar
 
 StartChar: G
@@ -6585,8 +6588,8 @@ Width: 320
 VWidth: 268
 Flags: HW
 LayerCount: 2
-Substitution2: "Single Substitution lookup 19 subtable" G.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" G.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" G.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" G.ext.down
 EndChar
 
 StartChar: P
@@ -6595,8 +6598,8 @@ Width: 320
 VWidth: 268
 Flags: HW
 LayerCount: 2
-Substitution2: "Single Substitution lookup 19 subtable" P.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" P.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" P.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" P.ext.down
 EndChar
 
 StartChar: ddotbelow
@@ -6653,8 +6656,9 @@ SplineSet
  129.377841245 250.54282025 149.067222387 262.98683714 175.253491643 272.143114998 c 0
  207.990076332 283.589772886 250.855842392 289.998039105 308 289.998039105 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 19 subtable" ddotbelow.ext.up
-Substitution2: "Single Substitution lookup 18 subtable" ddotbelow.ext.down
+Substitution2: "Single Substitution lookup 20 subtable" ddotbelow.ext.up
+Substitution2: "Single Substitution lookup 19 subtable" ddotbelow.ext.down
+Substitution2: "Allographs subtable" ddotbelow
 EndChar
 
 StartChar: ithk_aspect.ATP
@@ -8068,10 +8072,10 @@ SplineSet
  2.3839807928 409.837721631 5.34884604291 404.167352757 6.68834053423 397.933653472 c 0
  7.75971109881 392.947741275 7.79508224542 387.635043698 6.84504116121 382.251477554 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" glottal.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" glottal.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" glottal.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" glottal.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" glottal.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" glottal.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" glottal.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" glottal.ext.right
 EndChar
 
 StartChar: ncaron.ext.up
@@ -8110,10 +8114,10 @@ SplineSet
  2.83082688484 411.572929573 5.14681804258 406.940142637 6.45752450111 402.00533102 c 0
  8.1002483816 395.820473354 8.19421738 388.984151763 6.80288214462 382.027475586 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" ncaron.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" ncaron.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" ncaron.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" ncaron.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" ncaron.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" ncaron.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" ncaron.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" ncaron.ext.right
 EndChar
 
 StartChar: scaron.ext.up
@@ -8148,10 +8152,10 @@ SplineSet
  14.8233715463 403.704221438 12.7248529703 400.998703716 10.8947122399 397.967426496 c 0
  8.19564411207 393.496937645 6.05929557296 388.309542728 4.80288214462 382.027475586 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" scaron.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" scaron.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" scaron.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" scaron.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" scaron.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" scaron.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" scaron.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" scaron.ext.right
 EndChar
 
 StartChar: ddotbelow.ext.up
@@ -8187,10 +8191,10 @@ SplineSet
  2.13516892637 338.779451276 -1.74136431169 345.713622197 -4.01375818228 353.507169349 c 0
  -6.85673449267 363.257622477 -7.19876593979 374.393504437 -4.7896469846 386.037579387 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" ddotbelow.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" ddotbelow.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" ddotbelow.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" ddotbelow.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" ddotbelow.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" ddotbelow.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" ddotbelow.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" ddotbelow.ext.right
 EndChar
 
 StartChar: tcedilla.ext.up
@@ -8227,10 +8231,10 @@ SplineSet
  31.6998726865 386.675924404 28.451640854 385.734335399 24.567723817 384.186706575 c 0
  19.7119697624 382.251828753 13.8705951179 379.378692804 7.06826069202 375.377319612 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" tcedilla.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" tcedilla.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" tcedilla.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" tcedilla.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" tcedilla.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" tcedilla.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" tcedilla.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" tcedilla.ext.right
 EndChar
 
 StartChar: ccedilla.ext.up
@@ -8257,10 +8261,10 @@ SplineSet
  39.1375231572 336.726188422 39.1219441884 336.740931953 39.1064231688 336.755713877 c 2
  -2.89357683115 376.755713877 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" ccedilla.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" ccedilla.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" ccedilla.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" ccedilla.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" ccedilla.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" ccedilla.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" ccedilla.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" ccedilla.ext.right
 EndChar
 
 StartChar: ccaron.ext.up
@@ -8299,10 +8303,10 @@ SplineSet
  18.3566642099 400.888851433 14.9138677242 398.640556642 12.1236235887 395.850312507 c 0
  8.35212743612 392.078816354 5.73692631562 387.305493429 4.84504116121 382.251477554 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" ccaron.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" ccaron.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" ccaron.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" ccaron.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" ccaron.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" ccaron.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" ccaron.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" ccaron.ext.right
 EndChar
 
 StartChar: lcedilla.ext.up
@@ -8324,10 +8328,10 @@ SplineSet
  45.1197536162 374.977617992 42.5598768081 374.001960895 40 374.001960895 c 2
  3.5527136788e-15 374.001960895 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" lcedilla.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" lcedilla.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" lcedilla.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" lcedilla.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" lcedilla.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" lcedilla.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" lcedilla.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" lcedilla.ext.right
 EndChar
 
 StartChar: zdotaccent.ext.up
@@ -8377,10 +8381,10 @@ SplineSet
  -17.5966899013 358.466150812 -15.0169916045 361.928168019 -12.7030274296 366.25231477 c 0
  -9.80864229806 371.661104672 -7.32015211622 378.386174556 -5.80288214462 385.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" zdotaccent.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" zdotaccent.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" zdotaccent.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" zdotaccent.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" zdotaccent.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" zdotaccent.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" zdotaccent.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" zdotaccent.ext.right
 EndChar
 
 StartChar: zcaron.ext.up
@@ -8431,10 +8435,10 @@ SplineSet
  8.12575659694 402.078259327 8.37656642289 398.969128115 8.3378885628 395.63690123 c 0
  8.28953964563 391.471480462 7.78735258846 386.949827806 6.80288214462 382.027475586 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" zcaron.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" zcaron.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" zcaron.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" zcaron.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" zcaron.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" zcaron.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" zcaron.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" zcaron.ext.right
 EndChar
 
 StartChar: rcaron.ext.up
@@ -8471,10 +8475,10 @@ SplineSet
  24.2264568997 383.215496734 18.498076618 379.467615097 12.1667816145 377.038807183 c 0
  7.10303729548 375.096256367 1.63164097082 374.001960895 -4 374.001960895 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" rcaron.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" rcaron.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" rcaron.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" rcaron.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" rcaron.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" rcaron.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" rcaron.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" rcaron.ext.right
 EndChar
 
 StartChar: b.ext.up
@@ -8516,10 +8520,10 @@ SplineSet
  -0.616019207204 409.837721631 2.34884604291 404.167352757 3.68834053423 397.933653472 c 0
  4.75971109881 392.947741275 4.79508224542 387.635043698 3.84504116121 382.251477554 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" b.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" b.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" b.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" b.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" b.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" b.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" b.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" b.ext.right
 EndChar
 
 StartChar: c.ext.up
@@ -8580,10 +8584,10 @@ SplineSet
  -68.7129159026 377.387244854 -68.696307964 377.454000375 -68.6963076438 377.453999991 c 0
  -68.706211819 377.41438329 -68.7250957888 377.374709469 -68.7258518485 377.334980758 c 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" c.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" c.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" c.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" c.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" c.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" c.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" c.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" c.ext.right
 EndChar
 
 StartChar: equal.ext.up
@@ -8610,10 +8614,10 @@ SplineSet
  -27.4737578611 418.615893485 -26.5631530835 415.197299446 -27.1971178554 412.027475586 c 2
  -30.8030051516 393.998039105 l 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" equal.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" equal.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" equal.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" equal.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" equal.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" equal.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" equal.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" equal.ext.right
 EndChar
 
 StartChar: d.ext.up
@@ -8643,10 +8647,10 @@ SplineSet
  2.89010919902 410.254785225 4.53007253628 406.133424063 5.52882576671 401.762520519 c 0
  6.93943066526 395.589205867 7.0625062249 388.946782404 5.83587289606 382.200299096 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" d.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" d.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" d.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" d.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" d.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" d.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" d.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" d.ext.right
 EndChar
 
 StartChar: D.ext.up
@@ -8687,10 +8691,10 @@ SplineSet
  18.8588127096 360.001960895 8.15043344296 364.752765637 0.735711853175 372.167487227 c 0
  -1.26124323458 374.164442314 -3.01296196018 376.349429872 -4.48440171818 378.703733485 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" D.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" D.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" D.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" D.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" D.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" D.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" D.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" D.ext.right
 EndChar
 
 StartChar: glottal.flip.ext.up
@@ -8730,10 +8734,10 @@ SplineSet
  -31.048993298 374.952705266 -27.16594955 378.019453173 -22.4058719826 381.140796677 c 0
  -16.4583200239 385.040807215 -9.1280992977 389.019227154 -0.14363913091 393.103072684 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" glottal.flip.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" glottal.flip.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" glottal.flip.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" glottal.flip.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" glottal.flip.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" glottal.flip.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" glottal.flip.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" glottal.flip.ext.right
 EndChar
 
 StartChar: approxequal.ext.up
@@ -8774,10 +8778,10 @@ SplineSet
  10.8513807578 398.178120511 9.17315227727 395.966436698 7.74470835798 393.37751444 c 0
  5.95752104875 390.138403025 4.56504469707 386.331497591 3.84504116121 382.251477554 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" approxequal.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" approxequal.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" approxequal.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" approxequal.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" approxequal.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" approxequal.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" approxequal.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" approxequal.ext.right
 EndChar
 
 StartChar: f.ext.up
@@ -8814,10 +8818,10 @@ SplineSet
  -20.6870039951 390.007294538 -19.9187755814 389.886533125 -18.6971212283 389.964091557 c 0
  -16.4996918144 390.103598431 -12.914519473 390.934490711 -8.14363913091 393.103072684 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" f.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" f.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" f.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" f.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" f.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" f.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" f.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" f.ext.right
 EndChar
 
 StartChar: g.ext.up
@@ -8848,10 +8852,10 @@ SplineSet
  19.4504477224 408.63521151 15.9028176282 406.149229153 12.8557351399 403.102146665 c 0
  7.55188042014 397.798291945 3.59455610034 390.62593775 1.78684057246 381.948903216 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" g.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" g.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" g.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" g.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" g.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" g.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" g.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" g.ext.right
 EndChar
 
 StartChar: G.ext.up
@@ -8897,10 +8901,10 @@ SplineSet
  -11.1197536162 393.022382008 -8.55987680809 393.998039105 -6 393.998039105 c 2
  -2.86029902409 393.998039105 l 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" G.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" G.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" G.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" G.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" G.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" G.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" G.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" G.ext.right
 EndChar
 
 StartChar: h.ext.up
@@ -8950,10 +8954,10 @@ SplineSet
  17.5966899013 409.533849188 15.0169916045 406.071831981 12.7030274296 401.74768523 c 0
  9.80864229806 396.338895328 7.32015211622 389.613825444 5.80288214462 382.027475586 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" h.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" h.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" h.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" h.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" h.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" h.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" h.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" h.ext.right
 EndChar
 
 StartChar: j.ext.up
@@ -8994,10 +8998,10 @@ SplineSet
  13.620075316 399.355781036 11.1215309237 395.887644372 9.20251264209 392.000536487 c 0
  7.66727518435 388.890803931 6.50167435963 385.521436662 5.80288214462 382.027475586 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" j.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" j.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" j.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" j.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" j.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" j.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" j.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" j.ext.right
 EndChar
 
 StartChar: k.ext.up
@@ -9025,10 +9029,10 @@ SplineSet
  25.8255868347 409.305140006 20.7324135303 405.926109111 16.5697295881 401.763425169 c 0
  10.996981151 396.190676732 7.116882397 389.245851351 5.83587289606 382.200299096 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" k.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" k.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" k.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" k.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" k.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" k.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" k.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" k.ext.right
 EndChar
 
 StartChar: l.ext.up
@@ -9070,10 +9074,10 @@ SplineSet
  9.32913872204 394.524782055 8.32264868912 389.604421926 7.16589991466 383.838801055 c 0
  7.04659664295 383.244153843 6.92550859893 382.640607858 6.80288214462 382.027475586 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" l.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" l.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" l.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" l.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" l.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" l.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" l.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" l.ext.right
 EndChar
 
 StartChar: m.ext.up
@@ -9095,10 +9099,10 @@ SplineSet
  -45.1197536162 393.022382008 -42.5598768081 393.998039105 -40 393.998039105 c 2
  -3.5527136788e-15 393.998039105 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" m.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" m.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" m.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" m.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" m.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" m.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" m.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" m.ext.right
 EndChar
 
 StartChar: n.ext.up
@@ -9125,10 +9129,10 @@ SplineSet
  -1.16760818062 423.309743804 -1.03142007401 417.287254292 -4.52036786832 413.362188023 c 2
  -21.7329446844 393.998039105 l 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" n.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" n.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" n.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" n.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" n.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" n.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" n.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" n.ext.right
 EndChar
 
 StartChar: p.ext.up
@@ -9164,10 +9168,10 @@ SplineSet
  -18.4627275923 356.785662658 -15.1873047876 361.067187482 -12.418291659 365.890592818 c 0
  -8.95571170445 371.92213758 -6.29027422924 378.784547704 -4.7896469846 386.037579387 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" p.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" p.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" p.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" p.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" p.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" p.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" p.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" p.ext.right
 EndChar
 
 StartChar: P.ext.up
@@ -9212,10 +9216,10 @@ SplineSet
  -22.2315003744 397.114017677 -21.0975696588 396.413691275 -19.2778481214 395.784046005 c 0
  -16.4211438853 394.795592401 -11.9921327747 393.998039105 -6 393.998039105 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" P.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" P.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" P.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" P.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" P.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" P.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" P.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" P.ext.right
 EndChar
 
 StartChar: r.upsidedown.ext.up
@@ -9255,10 +9259,10 @@ SplineSet
  1.84787143505 395.437704138 2.55829324617 393.284925292 2.94956841853 390.98831015 c 0
  3.43898533588 388.115645635 3.40752301397 385.050679933 2.80288214462 382.027475586 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" r.upsidedown.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" r.upsidedown.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" r.upsidedown.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" r.upsidedown.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" r.upsidedown.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" r.upsidedown.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" r.upsidedown.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" r.upsidedown.ext.right
 EndChar
 
 StartChar: r.ext.up
@@ -9288,10 +9292,10 @@ SplineSet
  16.8233715463 403.704221438 14.7248529703 400.998703716 12.8947122399 397.967426496 c 0
  10.1956441121 393.496937645 8.05929557296 388.309542728 6.80288214462 382.027475586 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" r.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" r.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" r.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" r.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" r.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" r.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" r.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" r.ext.right
 EndChar
 
 StartChar: s.ext.up
@@ -9327,10 +9331,10 @@ SplineSet
  7.14127997552 405.168396335 7.48943947309 401.565631955 7.48694489797 397.711592774 c 0
  7.48382633017 392.893504748 6.93244094492 387.675269588 5.80288214462 382.027475586 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" s.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" s.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" s.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" s.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" s.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" s.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" s.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" s.ext.right
 EndChar
 
 StartChar: t.ext.up
@@ -9362,10 +9366,10 @@ SplineSet
  -6.13566405007 360.756949827 -6.83465518609 363.954651616 -7.1556206009 367.229666223 c 0
  -7.73377176001 373.128910828 -7.13725507293 379.300659772 -5.80288214462 385.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" t.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" t.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" t.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" t.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" t.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" t.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" t.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" t.ext.right
 EndChar
 
 StartChar: v.ext.up
@@ -9402,10 +9406,10 @@ SplineSet
  -30.1753922786 387.440647757 -30.09255787 389.425670182 -30.2105263102 390.676139514 c 0
  -30.258488152 391.184536609 -30.3365735782 391.564194997 -30.4102079875 391.831190196 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" v.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" v.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" v.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" v.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" v.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" v.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" v.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" v.ext.right
 EndChar
 
 StartChar: velar.ext.up
@@ -9448,10 +9452,10 @@ SplineSet
  18.5962080714 360.068856564 17.4449282945 361.734104795 15.4493994643 363.729633626 c 0
  12.2656882021 366.913344888 6.95189595762 370.91823697 -0.856246168744 375.256093707 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" velar.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" velar.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" velar.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" velar.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" velar.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" velar.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" velar.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" velar.ext.right
 EndChar
 
 StartChar: w.ext.up
@@ -9493,10 +9497,10 @@ SplineSet
  -8.21726934489 414.219384787 -5.8009305706 412.487154426 -3.71326475509 410.399488611 c 0
  3.35508133492 403.331142521 6.24901191435 392.608106514 3.74086750996 381.739480761 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" w.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" w.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" w.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" w.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" w.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" w.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" w.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" w.ext.right
 EndChar
 
 StartChar: x.ext.up
@@ -9536,10 +9540,10 @@ SplineSet
  29.8801410161 382.793252747 27.1187809715 381.430949451 24.0154076642 380.212112293 c 0
  17.0418509999 377.47327647 8.28739698803 375.425809115 -2.78121138984 374.075978825 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" x.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" x.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" x.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" x.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" x.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" x.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" x.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" x.ext.right
 EndChar
 
 StartChar: y.ext.up
@@ -9580,10 +9584,10 @@ SplineSet
  2.232513603 403.049762515 4.55634010887 398.731504756 5.63726157068 394.001003462 c 0
  6.50185925567 390.217212861 6.56279260135 386.198357475 5.83587289606 382.200299096 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" y.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" y.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" y.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" y.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" y.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" y.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" y.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" y.ext.right
 EndChar
 
 StartChar: z.ext.up
@@ -9611,10 +9615,10 @@ SplineSet
  14.8918482576 402.898809946 11.9599563476 398.783938662 9.72562859249 394.138007341 c 0
  7.93822098587 390.421375811 6.59527787603 386.377026485 5.83587289606 382.200299096 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 26 subtable" z.ext.left
-Substitution2: "Single Substitution lookup 25 subtable" z.ext.right
-Substitution2: "Single Substitution lookup 22 subtable" z.ext.left
-Substitution2: "Single Substitution lookup 21 subtable" z.ext.right
+Substitution2: "Single Substitution lookup 27 subtable" z.ext.left
+Substitution2: "Single Substitution lookup 26 subtable" z.ext.right
+Substitution2: "Single Substitution lookup 23 subtable" z.ext.left
+Substitution2: "Single Substitution lookup 22 subtable" z.ext.right
 EndChar
 
 StartChar: glottal.ext.right
@@ -11162,10 +11166,10 @@ SplineSet
  -2.3839807928 358.162278369 -5.34884604291 363.832647243 -6.68834053423 370.066346528 c 0
  -7.75971109881 375.052258725 -7.79508224542 380.364956302 -6.84504116121 385.748522446 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" glottal.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" glottal.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" glottal.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" glottal.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" glottal.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" glottal.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" glottal.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" glottal.ext.right
 EndChar
 
 StartChar: ncaron.ext.down
@@ -11204,10 +11208,10 @@ SplineSet
  -2.83082688484 356.427070427 -5.14681804258 361.059857363 -6.45752450111 365.99466898 c 0
  -8.1002483816 372.179526646 -8.19421738 379.015848237 -6.80288214462 385.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" ncaron.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" ncaron.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" ncaron.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" ncaron.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" ncaron.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" ncaron.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" ncaron.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" ncaron.ext.right
 EndChar
 
 StartChar: scaron.ext.down
@@ -11242,10 +11246,10 @@ SplineSet
  -14.8233715463 364.295778562 -12.7248529703 367.001296284 -10.8947122399 370.032573504 c 0
  -8.19564411207 374.503062355 -6.05929557296 379.690457272 -4.80288214462 385.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" scaron.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" scaron.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" scaron.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" scaron.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" scaron.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" scaron.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" scaron.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" scaron.ext.right
 EndChar
 
 StartChar: ddotbelow.ext.down
@@ -11281,10 +11285,10 @@ SplineSet
  -2.13516892637 429.220548724 1.74136431169 422.286377803 4.01375818228 414.492830651 c 0
  6.85673449267 404.742377523 7.19876593979 393.606495563 4.7896469846 381.962420613 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" ddotbelow.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" ddotbelow.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" ddotbelow.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" ddotbelow.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" ddotbelow.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" ddotbelow.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" ddotbelow.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" ddotbelow.ext.right
 EndChar
 
 StartChar: tcedilla.ext.down
@@ -11321,10 +11325,10 @@ SplineSet
  -31.6998726865 381.324075596 -28.451640854 382.265664601 -24.567723817 383.813293425 c 0
  -19.7119697624 385.748171247 -13.8705951179 388.621307196 -7.06826069202 392.622680388 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" tcedilla.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" tcedilla.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" tcedilla.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" tcedilla.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" tcedilla.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" tcedilla.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" tcedilla.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" tcedilla.ext.right
 EndChar
 
 StartChar: ccedilla.ext.down
@@ -11351,10 +11355,10 @@ SplineSet
  -39.1375231573 431.273811578 -39.1219441885 431.259068047 -39.1064231688 431.244286123 c 2
  2.89357683115 391.244286123 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" ccedilla.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" ccedilla.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" ccedilla.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" ccedilla.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" ccedilla.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" ccedilla.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" ccedilla.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" ccedilla.ext.right
 EndChar
 
 StartChar: ccaron.ext.down
@@ -11393,10 +11397,10 @@ SplineSet
  -18.3566642099 367.111148567 -14.9138677242 369.359443358 -12.1236235887 372.149687493 c 0
  -8.35212743612 375.921183646 -5.73692631562 380.694506571 -4.84504116121 385.748522446 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" ccaron.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" ccaron.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" ccaron.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" ccaron.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" ccaron.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" ccaron.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" ccaron.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" ccaron.ext.right
 EndChar
 
 StartChar: lcedilla.ext.down
@@ -11418,10 +11422,10 @@ SplineSet
  -45.1197536162 393.022382008 -42.5598768081 393.998039105 -40 393.998039105 c 2
  -3.5527136788e-15 393.998039105 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" lcedilla.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" lcedilla.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" lcedilla.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" lcedilla.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" lcedilla.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" lcedilla.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" lcedilla.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" lcedilla.ext.right
 EndChar
 
 StartChar: zdotaccent.ext.down
@@ -11471,10 +11475,10 @@ SplineSet
  17.5966899013 409.533849188 15.0169916045 406.071831981 12.7030274296 401.74768523 c 0
  9.80864229806 396.338895328 7.32015211622 389.613825444 5.80288214462 382.027475586 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" zdotaccent.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" zdotaccent.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" zdotaccent.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" zdotaccent.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" zdotaccent.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" zdotaccent.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" zdotaccent.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" zdotaccent.ext.right
 EndChar
 
 StartChar: zcaron.ext.down
@@ -11525,10 +11529,10 @@ SplineSet
  -8.12575659694 365.921740673 -8.37656642289 369.030871885 -8.3378885628 372.36309877 c 0
  -8.28953964563 376.528519538 -7.78735258846 381.050172194 -6.80288214462 385.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" zcaron.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" zcaron.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" zcaron.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" zcaron.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" zcaron.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" zcaron.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" zcaron.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" zcaron.ext.right
 EndChar
 
 StartChar: rcaron.ext.down
@@ -11565,10 +11569,10 @@ SplineSet
  -24.2264568997 384.784503266 -18.498076618 388.532384903 -12.1667816145 390.961192817 c 0
  -7.10303729548 392.903743633 -1.63164097082 393.998039105 4 393.998039105 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" rcaron.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" rcaron.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" rcaron.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" rcaron.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" rcaron.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" rcaron.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" rcaron.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" rcaron.ext.right
 EndChar
 
 StartChar: b.ext.down
@@ -11610,10 +11614,10 @@ SplineSet
  0.616019207204 358.162278369 -2.34884604291 363.832647243 -3.68834053423 370.066346528 c 0
  -4.75971109881 375.052258725 -4.79508224542 380.364956302 -3.84504116121 385.748522446 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" b.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" b.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" b.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" b.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" b.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" b.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" b.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" b.ext.right
 EndChar
 
 StartChar: c.ext.down
@@ -11674,10 +11678,10 @@ SplineSet
  68.7129159026 390.612755146 68.696307964 390.545999625 68.6963076438 390.546000009 c 0
  68.706211819 390.58561671 68.7250957888 390.625290531 68.7258518485 390.665019242 c 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" c.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" c.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" c.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" c.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" c.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" c.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" c.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" c.ext.right
 EndChar
 
 StartChar: equal.ext.down
@@ -11704,10 +11708,10 @@ SplineSet
  27.4737578611 349.384106515 26.5631530835 352.802700554 27.1971178554 355.972524414 c 2
  30.8030051516 374.001960895 l 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" equal.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" equal.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" equal.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" equal.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" equal.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" equal.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" equal.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" equal.ext.right
 EndChar
 
 StartChar: d.ext.down
@@ -11737,10 +11741,10 @@ SplineSet
  -2.89010919902 357.745214775 -4.53007253628 361.866575937 -5.52882576671 366.237479481 c 0
  -6.93943066526 372.410794133 -7.0625062249 379.053217596 -5.83587289606 385.799700904 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" d.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" d.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" d.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" d.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" d.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" d.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" d.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" d.ext.right
 EndChar
 
 StartChar: D.ext.down
@@ -11781,10 +11785,10 @@ SplineSet
  -18.8588127096 407.998039105 -8.15043344296 403.247234363 -0.735711853176 395.832512773 c 0
  1.26124323458 393.835557686 3.01296196018 391.650570128 4.48440171818 389.296266515 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" D.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" D.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" D.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" D.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" D.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" D.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" D.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" D.ext.right
 EndChar
 
 StartChar: glottal.flip.ext.down
@@ -11824,10 +11828,10 @@ SplineSet
  31.048993298 393.047294734 27.16594955 389.980546827 22.4058719826 386.859203323 c 0
  16.4583200239 382.959192785 9.1280992977 378.980772846 0.14363913091 374.896927316 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" glottal.flip.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" glottal.flip.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" glottal.flip.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" glottal.flip.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" glottal.flip.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" glottal.flip.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" glottal.flip.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" glottal.flip.ext.right
 EndChar
 
 StartChar: approxequal.ext.down
@@ -11868,10 +11872,10 @@ SplineSet
  -10.8513807578 369.821879489 -9.17315227727 372.033563302 -7.74470835798 374.62248556 c 0
  -5.95752104875 377.861596975 -4.56504469707 381.668502409 -3.84504116121 385.748522446 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" approxequal.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" approxequal.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" approxequal.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" approxequal.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" approxequal.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" approxequal.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" approxequal.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" approxequal.ext.right
 EndChar
 
 StartChar: f.ext.down
@@ -11908,10 +11912,10 @@ SplineSet
  20.6870039951 377.992705462 19.9187755814 378.113466875 18.6971212283 378.035908443 c 0
  16.4996918144 377.896401569 12.914519473 377.065509289 8.14363913091 374.896927316 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" f.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" f.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" f.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" f.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" f.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" f.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" f.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" f.ext.right
 EndChar
 
 StartChar: g.ext.down
@@ -11942,10 +11946,10 @@ SplineSet
  -19.4504477224 359.36478849 -15.9028176282 361.850770847 -12.8557351399 364.897853335 c 0
  -7.55188042014 370.201708055 -3.59455610034 377.37406225 -1.78684057246 386.051096784 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" g.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" g.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" g.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" g.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" g.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" g.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" g.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" g.ext.right
 EndChar
 
 StartChar: G.ext.down
@@ -11991,10 +11995,10 @@ SplineSet
  11.1197536162 374.977617992 8.55987680809 374.001960895 6 374.001960895 c 2
  2.86029902409 374.001960895 l 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" G.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" G.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" G.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" G.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" G.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" G.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" G.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" G.ext.right
 EndChar
 
 StartChar: h.ext.down
@@ -12044,10 +12048,10 @@ SplineSet
  -17.5966899013 358.466150812 -15.0169916045 361.928168019 -12.7030274296 366.25231477 c 0
  -9.80864229806 371.661104672 -7.32015211622 378.386174556 -5.80288214462 385.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" h.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" h.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" h.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" h.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" h.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" h.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" h.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" h.ext.right
 EndChar
 
 StartChar: j.ext.down
@@ -12088,10 +12092,10 @@ SplineSet
  -13.620075316 368.644218964 -11.1215309237 372.112355628 -9.20251264209 375.999463513 c 0
  -7.66727518435 379.109196069 -6.50167435963 382.478563338 -5.80288214462 385.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" j.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" j.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" j.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" j.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" j.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" j.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" j.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" j.ext.right
 EndChar
 
 StartChar: k.ext.down
@@ -12119,10 +12123,10 @@ SplineSet
  -25.8255868347 358.694859994 -20.7324135303 362.073890889 -16.5697295881 366.236574831 c 0
  -10.996981151 371.809323268 -7.116882397 378.754148649 -5.83587289606 385.799700904 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" k.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" k.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" k.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" k.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" k.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" k.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" k.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" k.ext.right
 EndChar
 
 StartChar: l.ext.down
@@ -12164,10 +12168,10 @@ SplineSet
  -9.32913872204 373.475217945 -8.32264868912 378.395578074 -7.16589991466 384.161198945 c 0
  -7.04659664295 384.755846157 -6.92550859893 385.359392142 -6.80288214462 385.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" l.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" l.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" l.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" l.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" l.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" l.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" l.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" l.ext.right
 EndChar
 
 StartChar: m.ext.down
@@ -12189,10 +12193,10 @@ SplineSet
  45.1197536162 374.977617992 42.5598768081 374.001960895 40 374.001960895 c 2
  3.5527136788e-15 374.001960895 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" m.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" m.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" m.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" m.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" m.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" m.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" m.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" m.ext.right
 EndChar
 
 StartChar: n.ext.down
@@ -12219,10 +12223,10 @@ SplineSet
  1.16760818062 344.690256196 1.03142007401 350.712745708 4.52036786832 354.637811977 c 2
  21.7329446844 374.001960895 l 1
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" n.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" n.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" n.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" n.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" n.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" n.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" n.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" n.ext.right
 EndChar
 
 StartChar: p.ext.down
@@ -12258,10 +12262,10 @@ SplineSet
  18.4627275923 411.214337342 15.1873047876 406.932812518 12.418291659 402.109407182 c 0
  8.95571170445 396.07786242 6.29027422924 389.215452296 4.7896469846 381.962420613 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" p.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" p.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" p.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" p.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" p.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" p.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" p.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" p.ext.right
 EndChar
 
 StartChar: P.ext.down
@@ -12306,10 +12310,10 @@ SplineSet
  22.2315003744 370.885982323 21.0975696588 371.586308725 19.2778481214 372.215953995 c 0
  16.4211438853 373.204407599 11.9921327747 374.001960895 6 374.001960895 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" P.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" P.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" P.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" P.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" P.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" P.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" P.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" P.ext.right
 EndChar
 
 StartChar: r.upsidedown.ext.down
@@ -12349,10 +12353,10 @@ SplineSet
  -1.84787143505 372.562295862 -2.55829324617 374.715074708 -2.94956841853 377.01168985 c 0
  -3.43898533588 379.884354365 -3.40752301397 382.949320067 -2.80288214462 385.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" r.upsidedown.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" r.upsidedown.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" r.upsidedown.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" r.upsidedown.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" r.upsidedown.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" r.upsidedown.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" r.upsidedown.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" r.upsidedown.ext.right
 EndChar
 
 StartChar: r.ext.down
@@ -12382,10 +12386,10 @@ SplineSet
  -16.8233715463 364.295778562 -14.7248529703 367.001296284 -12.8947122399 370.032573504 c 0
  -10.1956441121 374.503062355 -8.05929557296 379.690457272 -6.80288214462 385.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" r.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" r.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" r.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" r.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" r.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" r.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" r.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" r.ext.right
 EndChar
 
 StartChar: s.ext.down
@@ -12421,10 +12425,10 @@ SplineSet
  -7.14127997552 362.831603665 -7.48943947309 366.434368045 -7.48694489797 370.288407226 c 0
  -7.48382633017 375.106495252 -6.93244094492 380.324730412 -5.80288214462 385.972524414 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" s.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" s.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" s.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" s.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" s.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" s.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" s.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" s.ext.right
 EndChar
 
 StartChar: t.ext.down
@@ -12456,10 +12460,10 @@ SplineSet
  6.13566405007 407.243050173 6.83465518609 404.045348384 7.1556206009 400.770333777 c 0
  7.73377176001 394.871089172 7.13725507293 388.699340228 5.80288214462 382.027475586 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" t.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" t.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" t.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" t.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" t.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" t.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" t.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" t.ext.right
 EndChar
 
 StartChar: v.ext.down
@@ -12496,10 +12500,10 @@ SplineSet
  30.1753922786 380.559352243 30.09255787 378.574329818 30.2105263102 377.323860486 c 0
  30.258488152 376.815463391 30.3365735782 376.435805003 30.4102079875 376.168809804 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" v.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" v.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" v.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" v.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" v.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" v.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" v.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" v.ext.right
 EndChar
 
 StartChar: velar.ext.down
@@ -12542,10 +12546,10 @@ SplineSet
  -18.5962080714 407.931143436 -17.4449282945 406.265895205 -15.4493994643 404.270366374 c 0
  -12.2656882021 401.086655112 -6.95189595762 397.08176303 0.856246168744 392.743906293 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" velar.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" velar.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" velar.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" velar.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" velar.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" velar.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" velar.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" velar.ext.right
 EndChar
 
 StartChar: w.ext.down
@@ -12587,10 +12591,10 @@ SplineSet
  8.21726934489 353.780615213 5.8009305706 355.512845574 3.71326475509 357.600511389 c 0
  -3.35508133492 364.668857479 -6.24901191435 375.391893486 -3.74086750996 386.260519239 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" w.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" w.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" w.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" w.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" w.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" w.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" w.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" w.ext.right
 EndChar
 
 StartChar: x.ext.down
@@ -12630,10 +12634,10 @@ SplineSet
  -29.8801410161 385.206747253 -27.1187809715 386.569050549 -24.0154076642 387.787887707 c 0
  -17.0418509999 390.52672353 -8.28739698803 392.574190885 2.78121138984 393.924021175 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" x.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" x.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" x.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" x.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" x.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" x.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" x.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" x.ext.right
 EndChar
 
 StartChar: y.ext.down
@@ -12674,10 +12678,10 @@ SplineSet
  -2.232513603 364.950237485 -4.55634010887 369.268495244 -5.63726157068 373.998996538 c 0
  -6.50185925567 377.782787139 -6.56279260135 381.801642525 -5.83587289606 385.799700904 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" y.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" y.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" y.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" y.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" y.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" y.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" y.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" y.ext.right
 EndChar
 
 StartChar: z.ext.down
@@ -12705,10 +12709,10 @@ SplineSet
  -14.8918482576 365.101190054 -11.9599563476 369.216061338 -9.72562859249 373.861992659 c 0
  -7.93822098587 377.578624189 -6.59527787603 381.622973515 -5.83587289606 385.799700904 c 0
 EndSplineSet
-Substitution2: "Single Substitution lookup 28 subtable" z.ext.left
-Substitution2: "Single Substitution lookup 27 subtable" z.ext.right
-Substitution2: "Single Substitution lookup 24 subtable" z.ext.left
-Substitution2: "Single Substitution lookup 23 subtable" z.ext.right
+Substitution2: "Single Substitution lookup 29 subtable" z.ext.left
+Substitution2: "Single Substitution lookup 28 subtable" z.ext.right
+Substitution2: "Single Substitution lookup 25 subtable" z.ext.left
+Substitution2: "Single Substitution lookup 24 subtable" z.ext.right
 EndChar
 
 StartChar: NameMe.386
@@ -15829,10 +15833,10 @@ SplineSet
  -3.97112177905 364.914332054 -3.90718843956 365.450992939 -3.80288214462 365.972524414 c 2
  0.197117855384 385.972524414 l 2
 EndSplineSet
+Substitution2: "Single Substitution lookup 37 subtable" seven.ten_deep
 Substitution2: "Single Substitution lookup 36 subtable" seven.ten_deep
-Substitution2: "Single Substitution lookup 35 subtable" seven.ten_deep
+Substitution2: "Single Substitution lookup 34 subtable" seven.ten_deep
 Substitution2: "Single Substitution lookup 33 subtable" seven.ten_deep
-Substitution2: "Single Substitution lookup 32 subtable" seven.ten_deep
 EndChar
 
 StartChar: eight.ten_coll
@@ -15915,8 +15919,8 @@ SplineSet
  -6.06601102214 363.052481448 -6.08650394515 364.554415411 -5.80288214462 365.972524414 c 2
  -1.80288214462 385.972524414 l 2
 EndSplineSet
-Substitution2: "Single Substitution lookup 37 subtable" nine.ten_deep
-Substitution2: "Single Substitution lookup 34 subtable" nine.ten_deep
+Substitution2: "Single Substitution lookup 38 subtable" nine.ten_deep
+Substitution2: "Single Substitution lookup 35 subtable" nine.ten_deep
 EndChar
 
 StartChar: seven.ten_deep
@@ -16108,6 +16112,173 @@ SplineSet
  13.381247586 5.24657348378 14.1745653151 6.3581762367 15.1326838124 7.26450454486 c 2
  148.397419014 133.329975097 l 1
 EndSplineSet
+EndChar
+
+StartChar: dcedilla
+Encoding: 7697 7697 415
+Width: 320
+Flags: HW
+AnchorPoint: "Diacritic_left" 10 140 basechar 0
+AnchorPoint: "Diacritic_right" 250 140 basechar 0
+AnchorPoint: "Diacritic_up" 204 360 basechar 0
+AnchorPoint: "Diacritic_down" 120 -60 basechar 0
+AnchorPoint: "Extension_up" 308 280 basechar 0
+AnchorPoint: "Extension_down" 172 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+62.084777449 153.40305757 m 1
+ 70.5052894415 142.877417579 l 1
+ 71.3726317834 146.842671132 72.283809261 150.810322515 73.2621726277 154.770719144 c 1
+ 69.686781276 154.461169236 65.9627051649 154.008932036 62.084777449 153.40305757 c 1
+308 289.998039105 m 0
+ 310.559876808 289.998039105 313.119753616 289.022382008 315.071067812 287.071067812 c 0
+ 318.973696203 283.16843942 318.973696203 276.83156058 315.071067812 272.928932188 c 0
+ 313.119753616 270.977617992 310.559876808 270.001960895 308 270.001960895 c 0
+ 252.336594034 270.001960895 211.663553239 263.684680714 181.875744956 253.269090515 c 0
+ 158.042499834 244.935569903 141.161591484 234.042299241 128.667140107 221.547847864 c 0
+ 115.023296498 207.904004256 106.282327108 192.000070978 99.9417601484 174.420636786 c 1
+ 100.791908896 174.319226333 101.635148103 174.209104212 102.471532093 174.090354374 c 0
+ 114.421048007 172.393761554 124.954925588 168.917020567 134.079083406 163.994184182 c 0
+ 141.376592912 160.056895281 147.753773486 155.208264787 153.262019552 149.700018722 c 0
+ 163.434569621 139.527468653 170.507158725 127.2920312 175.429383025 114.438916225 c 0
+ 181.585873708 98.362833996 184.435141517 81.2342404323 185.560184321 65.2240159021 c 0
+ 186.685624165 49.2081412102 186.068857679 34.2691242825 185.048015492 22.5532411523 c 0
+ 183.772162895 7.91068415329 181.857349383 -1.70018821966 181.802882145 -1.97252440974 c 0
+ 181.429126655 -3.84130186535 180.518521877 -5.62361374655 179.071067812 -7.07106781187 c 0
+ 175.16843942 -10.9736962033 168.83156058 -10.9736962033 164.928932188 -7.07106781187 c 0
+ 162.473757862 -4.61589348579 161.563153084 -1.19729944866 162.197117855 1.97252440974 c 2
+ 162.197117855 1.97252440974 163.919266675 10.4299699532 165.127954813 24.3017016913 c 0
+ 166.080355906 35.2321080172 166.641400953 49.1862802557 165.613654087 63.8119087242 c 0
+ 164.585510184 78.4431873543 161.950593042 93.7044109451 156.75633404 107.267874149 c 0
+ 152.597958591 118.12639552 146.835346515 127.842420512 139.119883928 135.557883098 c 0
+ 134.938789805 139.738977221 130.144121269 143.387459461 124.580952756 146.389004252 c 0
+ 117.629263051 150.139709982 109.44849794 152.901700108 99.6416072753 154.294082896 c 0
+ 97.8028584819 154.555148534 95.9058214621 154.767469736 93.9490202623 154.927918546 c 0
+ 90.8164722098 143.031989332 88.323329451 130.629712118 85.8028821446 118.027475586 c 0
+ 85.5803138029 116.914633878 85.1628646668 115.821550452 84.5386757835 114.796916152 c 0
+ 81.6692803062 110.086673618 75.510598777 108.595170826 70.7942265625 111.468300395 c 0
+ 69.7682588528 112.093301567 68.8945152992 112.873685353 68.1848548549 113.760760908 c 2
+ 36.1842792821 153.760621516 l 2
+ 35.732632295 154.32518025 35.3357694625 154.947746706 35.0053930468 155.624297061 c 0
+ 32.5851326837 160.580546746 34.6436205043 166.569135456 39.599360309 168.989146831 c 0
+ 40.2758410637 169.31948926 40.9715634379 169.566370197 41.6748251692 169.733813466 c 0
+ 55.2278338101 172.960720285 67.6568123427 174.727761243 79.0526939839 175.175471663 c 1
+ 86.1392643178 196.799880013 96.6170641959 217.782043201 114.525004483 235.689983488 c 0
+ 129.377841245 250.54282025 149.067222387 262.98683714 175.253491643 272.143114998 c 0
+ 207.990076332 283.589772886 250.855842392 289.998039105 308 289.998039105 c 0
+EndSplineSet
+Substitution2: "Allographs subtable" ddotbelow
+EndChar
+
+StartChar: ldotbelow
+Encoding: 7735 7735 416
+Width: 320
+Flags: W
+HStem: -244 84G<295 405> -124 40<275 306> -44 80G<235 275> -44 80G<235 275>
+VStem: 235 40<-84 -4>
+AnchorPoint: "Diacritic_left" 20 140 basechar 0
+AnchorPoint: "Diacritic_right" 260 140 basechar 0
+AnchorPoint: "Diacritic_up" 204 360 basechar 0
+AnchorPoint: "Diacritic_down" 120 -60 basechar 0
+AnchorPoint: "Extension_up" 88 280 basechar 0
+AnchorPoint: "Extension_down" 232 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+155.804052906 129.235904486 m 1
+ 149.011038683 137.727172265 l 1
+ 148.36481818 134.808820629 147.753772789 131.955144015 147.177365656 129.165046579 c 1
+ 149.958426507 129.1474748 152.835419854 129.174309846 155.804052906 129.235904486 c 1
+78.1971178554 281.972524414 m 0
+ 78.5708733462 283.841301868 79.4814781238 285.623613748 80.9289321881 287.071067812 c 0
+ 84.8315605795 290.973696203 91.1684394205 290.973696203 95.0710678119 287.071067812 c 0
+ 97.5262421389 284.615893485 98.4368469165 281.197299446 97.8028821446 278.027475586 c 0
+ 92.5793154698 251.909642212 89.2974692185 230.114223204 87.7959427009 212.088540827 c 0
+ 86.5947817873 197.668718827 86.5388180681 185.671180251 87.464518364 175.851576313 c 0
+ 89.1390400869 158.088656526 93.9120297897 147.884959437 100.144114656 141.652874571 c 0
+ 105.598349139 136.198640088 113.140469135 132.782538449 123.789801409 130.914434364 c 0
+ 124.838283141 130.730509874 125.914268425 130.562686018 127.017170982 130.410215515 c 0
+ 129.01976394 140.348906835 131.441995747 151.00259377 134.300649931 162.437210506 c 0
+ 134.557453784 163.464425915 134.983287867 164.467568577 135.586780245 165.407157646 c 0
+ 138.567322664 170.047622348 144.759862682 171.391897666 149.406792112 168.40720299 c 0
+ 150.347690142 167.802869875 151.153542365 167.067101424 151.815720718 166.239378484 c 2
+ 183.816530673 126.24117407 l 2
+ 184.452335544 125.446417982 184.976307105 124.540397039 185.355862777 123.537789032 c 0
+ 187.308606698 118.379555766 184.704061201 112.60555098 179.543247989 110.651830372 c 0
+ 178.540138516 110.272084862 177.513813573 110.064440931 176.49685574 110.014220791 c 0
+ 164.779078328 109.435565116 153.799649213 109.010611624 143.550947816 109.214663247 c 0
+ 143.521622358 109.214663247 143.492302762 109.2164302 143.462989028 109.2164302 c 0
+ 142.545974163 103.607824093 141.799756903 98.3112883039 141.218096036 93.3140831107 c 0
+ 139.584518115 79.2795751517 139.255249846 67.6186287029 140.001798003 58.0791327561 c 0
+ 140.599265417 50.4446112283 141.880881801 44.1868429986 143.654874228 39.0879165952 c 0
+ 145.872562259 32.7136909299 148.822731438 28.1243671651 152.379083932 24.5680146712 c 0
+ 158.217571313 18.7295272906 166.514285802 15.0073510478 177.954770743 12.8192521021 c 0
+ 184.275023124 11.6104451638 191.459159987 10.8966670763 199.354487897 10.4997665889 c 0
+ 209.224293028 10.0036085431 220.193488346 9.9980391054 232 9.9980391054 c 0
+ 234.559876808 9.9980391054 237.119753616 9.02238200756 239.071067812 7.07106781187 c 0
+ 242.973696203 3.16843942048 242.973696203 -3.16843942048 239.071067812 -7.07106781187 c 0
+ 237.119753616 -9.02238200756 234.559876808 -9.9980391054 232 -9.9980391054 c 0
+ 220.191450793 -9.9980391054 208.939763 -10.0036085431 198.34296456 -9.47090432697 c 0
+ 189.865009613 -9.04471500479 181.798602524 -8.27693143513 174.175421978 -6.81892739041 c 0
+ 160.517727648 -4.20676656679 147.951302581 0.711524775256 138.236948309 10.4258790474 c 0
+ 132.365224766 16.2976025902 127.838714479 23.676472817 124.770645656 32.4949192163 c 0
+ 122.3160326 39.5501304644 120.771233972 47.5101658529 120.067114179 56.5075062901 c 0
+ 119.186678326 67.7578377994 119.612969493 80.6586849736 121.357020494 95.6422969223 c 0
+ 121.916338763 100.447550839 122.611812216 105.468458736 123.446796928 110.71820498 c 1
+ 122.393221135 110.87189373 121.348605189 111.03912466 120.312904632 111.220807078 c 0
+ 107.227196947 113.51629973 95.2788409314 118.233877048 86.0019790318 127.510738948 c 0
+ 75.3439883632 138.168729616 69.4835745426 153.528061301 67.55732832 173.961213451 c 0
+ 66.4826019796 185.361649478 66.5967781603 198.483238264 67.8693764207 213.760658787 c 0
+ 69.4600488706 232.856529564 72.8698067026 255.33596865 78.1971178554 281.972524414 c 0
+EndSplineSet
+Substitution2: "Allographs subtable" lcedilla
+EndChar
+
+StartChar: tdotbelow
+Encoding: 7789 7789 417
+Width: 320
+Flags: HW
+AnchorPoint: "Diacritic_right" 260 140 basechar 0
+AnchorPoint: "Diacritic_left" 20 140 basechar 0
+AnchorPoint: "Diacritic_up" 204 360 basechar 0
+AnchorPoint: "Diacritic_down" 120 -60 basechar 0
+AnchorPoint: "Extension_up" 288 280 basechar 0
+AnchorPoint: "Extension_down" 172 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+288 289.998039105 m 0
+ 290.559876808 289.998039105 293.119753616 289.022382008 295.071067812 287.071067812 c 0
+ 298.973696203 283.16843942 298.973696203 276.83156058 295.071067812 272.928932188 c 0
+ 293.119753616 270.977617992 290.559876808 270.001960895 288 270.001960895 c 0
+ 243.534089093 270.001960895 208.46506242 264.968118997 180.810967568 256.914701279 c 0
+ 146.244185506 246.848172738 123.230587488 232.114528007 107.469415072 216.353355591 c 0
+ 98.3283210291 207.212261548 91.5496330598 197.635336351 86.4056785015 188.201095795 c 0
+ 78.9087119047 174.451326914 74.9109107063 161.043964002 72.2844957293 149.736312629 c 1
+ 115.270358707 147.858126666 143.848675004 135.98715388 161.962042088 117.873786796 c 0
+ 178.603790397 101.232038487 185.272011501 80.3973576503 187.168214598 60.7160139054 c 0
+ 188.224150666 49.7560904964 187.836570455 39.0601148898 186.84699318 29.2605915108 c 0
+ 185.610896719 17.0198535004 183.422063874 6.12338423178 181.802882145 -1.97252441356 c 0
+ 181.429126654 -3.84130186778 180.518521876 -5.62361374754 179.071067812 -7.07106781187 c 0
+ 175.16843942 -10.9736962033 168.83156058 -10.9736962033 164.928932188 -7.07106781187 c 0
+ 162.473757861 -4.6158934848 161.563153083 -1.19729944591 162.197117855 1.97252441356 c 0
+ 163.810528972 10.0395799952 165.833944269 20.20435144 166.952802325 31.2841083752 c 0
+ 167.847188664 40.1409809527 168.154904145 49.5473240112 167.264950136 58.7844625819 c 0
+ 165.658551096 75.4578304003 160.266728171 91.284829466 147.819906464 103.731651172 c 0
+ 133.072172717 118.47938492 106.810815412 130.001960895 60 130.001960895 c 1
+ 60 130.001960895 59.9896333131 129.993945133 59.7774010894 129.993945133 c 1
+ 59.8546765198 129.993945133 59.9317966334 129.99127534 60.0087505682 129.99127534 c 1
+ 59.7774010894 129.993945133 l 2
+ 59.5242599982 129.999785358 59.2694521935 130.015239207 59.0133594935 130.040619915 c 0
+ 53.5216339505 130.584891127 49.5053211792 135.489318869 50.050076252 140.985926591 c 0
+ 50.0832342854 141.320492915 50.1325311836 141.649591055 50.1971178554 141.972524414 c 0
+ 52.8292209942 155.133040108 56.9485904052 175.96270423 68.8421765602 197.776068168 c 0
+ 74.7947309371 208.693316615 82.7071546743 219.875366441 93.3272794478 230.495491214 c 0
+ 111.671793875 248.840005642 137.866189206 265.240035581 175.195128344 276.110958728 c 0
+ 205.057610452 284.807502361 242.025306565 289.998039105 288 289.998039105 c 0
+EndSplineSet
+Substitution2: "Allographs subtable" tcedilla
 EndChar
 EndChars
 EndSplineFont
